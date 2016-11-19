@@ -31,8 +31,7 @@ The Advanced Military Agent focuses on teaching you some of the concepts typical
 involved in PvP combat (though the agent's missions do not actually involve PvP).
 
 {{% notice warning %}}
-This mission chain involves having ships blow up. Leave your valuable
-items behind in station.
+This mission chain involves your ship exploding. Leave your valuable items behind in station.
 {{% /notice %}}
 
 We recommend following the [UniWiki Advanced Military chain guide]
