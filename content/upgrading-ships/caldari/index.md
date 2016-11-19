@@ -123,7 +123,3 @@ long enough for reinforcements to arrive.
 However, it is extremely slow and clumsy, and is borderline useless in combat.
 
 [Here is a recommended fit for the Badger.](/upgrading-ships/caldari/badger/)
-
-{{% notice warning %}}
-Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo's value under about 20 million ISK.
-{{% /notice %}}
