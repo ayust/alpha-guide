@@ -4,6 +4,7 @@ date = "2016-11-18T17:13:07-08:00"
 title = "What is this guide for?"
 weight = 101
 next = "/start/prereqs/"
+prev = "/start/"
 +++
 
 This guide is designed to help alpha clone players quickly ramp up their competency in EVE Online.
