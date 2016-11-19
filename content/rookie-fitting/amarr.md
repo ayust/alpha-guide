@@ -4,6 +4,7 @@ date = "2016-11-18T17:33:01-08:00"
 title = "Amarr (Impairor)"
 weight = 1
 next = "/market/"
+prev = "/rookie-fitting/"
 +++
 
 The Amarr corvette is the Impairor.
