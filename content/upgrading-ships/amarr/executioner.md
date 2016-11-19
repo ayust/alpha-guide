@@ -4,7 +4,6 @@ toc = true
 date = "2016-11-18T17:33:01-08:00"
 title = "Executioner"
 weight = 1
-next = "/market/"
 prev = "/upgrading-ships/amarr/"
 +++
 
