@@ -53,7 +53,7 @@
         {{ if gt $value.Len 1}}
         <ul>
           {{ range $k, $p := $value }}
-          {{ if gt $k 0 }}
+          {{ if and (gt $k 0) (not (isset $p.Page.Params "nomenu")) }}
             <li class="dd-item {{ if eq $page.RelPermalink $p.Page.RelPermalink }}active{{ end }}" data-nav-id="{{ $p.Page.RelPermalink }}">
               <a href="{{ $p.Page.RelPermalink }}">
                 <span>{{ $p.Page.Title }}    {{ if $page.Site.Params.showVisitedLinks}}  <i class="fa fa-check read-icon">  {{ end }} </i></span>

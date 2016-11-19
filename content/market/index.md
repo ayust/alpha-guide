@@ -58,6 +58,12 @@ you might get ganked on the way. You can right-click on a particular seller and 
 Location -> Set Destination to a set an autopilot course to it, and then look at the colored
 dots that the autopilot shows you: if any of them are orange or red, don't buy from there.
 
+{{% notice tip %}}
+You can also click the gear icon at the top-right of the market window to set filters on the
+listings. For instance, you can uncheck the boxes for 'Low Sec' and 'Null Sec' to completely
+hide listings from lower security space.
+{{% /notice %}}
+
 #### Pick a seller to buy from
 
 For very cheap items, it's often worth it to buy it closer to avoid having to make extra jumps.
@@ -74,14 +80,12 @@ If you bought an item but can't remember where, you can use the **Assets** windo
 Note however that the Assets window only updates every 5 minutes, so you may need to wait a
 few minutes for it to show up there.
 
-### A note on availability
-
+{{% notice note %}}
 Markets in EVE are on a per-region basis. This means that depending on where you are in the galaxy
-you'll see different sets of sellers.
-
-In your starter system, there are likely to be market listings for the basic modules you'll want.
-More advanced items, however, are unlikely to be available at a reasonable price. If you're looking
-for a particular item and can't find any sellers, you may need to go to a different region to find
-people listing it for sale. The next page will talk a bit about some of the 'market hubs' where
-you can buy almost anything. You can also use the player-run site [EVE-Central](https://eve-central.com/)
-to check what prices are like across all of EVE.
+you'll see different sets of sellers. In your starter system, there are likely to be market listings
+for the basic modules you'll want. More advanced items, however, are unlikely to be available at a
+reasonable price. If you're looking for a particular item and can't find any sellers, you may need
+to go to a different region to find people listing it for sale. The next page will talk a bit about
+some of the 'market hubs' where you can buy almost anything. You can also use the player-run site
+[EVE-Central](https://eve-central.com/) to check what prices are like across all of EVE.
+{{% /notice %}}
