@@ -1,0 +1,20 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+title = "The Alpha's Guide to EVE"
+languageCode = "en-us"
+
+theme = "hugo-theme-learn"
+publishdir = "public"
+builddrafts = true
+
+[params]
+  menu = [
+    "start",
+    "rookie-fitting",
+    "market",
+    "career-agents",
+    "upgrading-ships",
+    "new-goals",
+    "training",
+    "corps",
+    "reference"
+  ]
