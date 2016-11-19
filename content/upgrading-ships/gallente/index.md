@@ -115,15 +115,11 @@ They can be a great boon to a marketeer, industrialist,
 or even a combat pilot restocking on gear or moving locations,
 but are borderline useless in combat and a favorite target of player pirates.
 
-##### Iteron
+##### Nereus
 
-The Iteron is one of the Gallente industrials - a ship line focused on hauling goods from place to place.
+The Nereus is one of the Gallente industrials - a ship line focused on hauling goods from place to place.
 It has a massive cargo hold, and can mount sufficient defenses to stave off light attacks
 long enough for reinforcements to arrive.
 However, it is extremely slow and clumsy, and is borderline useless in combat.
 
-[Here is a recommended fit for the Iteron.](/upgrading-ships/gallente/iteron/)
-
-{{% notice warning %}}
-Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo's value under about 20 million ISK.
-{{% /notice %}}
+[Here is a recommended fit for the Nereus.](/upgrading-ships/gallente/nereus/)
