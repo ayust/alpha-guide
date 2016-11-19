@@ -87,8 +87,8 @@ The Catalyst is one of the Gallente destroyers, focusing on hybrid turrets.
 Boasting no fewer than eight hardpoints for hybrid weapons,
 and with potent bonuses to their range and accuracy,
 it will quickly destroy any enemies that come within range of its guns.
-However, it is very slow, and relatively poorly defended,
-as well as having very little utility outside of its lasers' damage output.
+However, it is very slow compared to frigates, and its size makes it much easier to hit.
+Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Catalyst.](/upgrading-ships/gallente/catalyst/)
 
@@ -104,5 +104,5 @@ However, it is extremely slow and clumsy, and is borderline useless in combat.
 [Here is a recommended fit for the Iteron.](/upgrading-ships/gallente/iteron/)
 
 {{% notice warning %}}
-Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo's value under about 50 million ISK.
+Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo's value under about 20 million ISK.
 {{% /notice %}}

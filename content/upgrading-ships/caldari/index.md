@@ -87,8 +87,8 @@ The Cormorant is one of the Caldari destroyers, focusing on hybrid turrets.
 Boasting seven hardpoints for hybrid weapons, with enhanced accuracy and
 massive boosts to their range,
 it can reach out and swat down enemies at long range with ease.
-However, it is very slow, and relatively poorly defended,
-as well as having very little utility outside of its guns' damage output.
+However, it is very slow compared to frigates, and its size makes it much easier to hit.
+Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Cormorant.](/upgrading-ships/caldari/cormorant/)
 
@@ -104,5 +104,5 @@ However, it is extremely slow and clumsy, and is borderline useless in combat.
 [Here is a recommended fit for the Badger.](/upgrading-ships/caldari/badger/)
 
 {{% notice warning %}}
-Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo's value under about 50 million ISK.
+Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo's value under about 20 million ISK.
 {{% /notice %}}
