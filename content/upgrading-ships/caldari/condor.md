@@ -14,6 +14,9 @@ This is a missile ship.  You will need to train at least **`Missile Launcher Ope
 and **`Light Missiles` Level I** before you will be able to use its weapons.
 {{% /notice %}}
 
+Make sure that your launchers are loaded with `Scourge Light Missile`,
+as the Condor's damage bonus applies only to Kinetic damage.
+
 ## Future Improvements
 
 The above fit should be usable with starting skills unless otherwise noted,
