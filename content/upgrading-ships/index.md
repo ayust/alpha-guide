@@ -13,3 +13,9 @@ the proper link below to go to the subsection appropriate for you:
 [Caldari](/upgrading-ships/caldari/) /
 [Gallente](/upgrading-ships/gallente/) /
 [Minmatar](/upgrading-ships/minmatar/)
+
+{{% notice info %}}
+These fits are designed primarily for PvE content.
+PvP setups will usually be constructed differently,
+and are outside the scope of this guide.
+{{% /notice %}}

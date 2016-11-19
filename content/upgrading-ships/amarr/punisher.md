@@ -70,6 +70,11 @@ We recommend working towards the following improved fit:
 
 <object type="image/svg+xml" data="https://o.smium.org/api/convert/118435/svg/118435-alpha-clone---improved-punisher.svg?privatetoken=3174680224218480640"><a href="https://o.smium.org/loadout/private/118435/3174680224218480640">View Alpha Clone - Improved Punisher on Osmium</a></object>
 
+The improved fit will require the training of the following skills to use all installed equipment:
+
+* `Weapon Upgrades` Level IV
+* `Hull Upgrades` Level IV
+
 The most substantial change in this fit is the use of a `Small Ancillary Current Router I` rig
 to improve powergrid, rather than the Micro Auxiliary Power Core. 
 While relatively expensive, using the rig frees up a low slot, 
