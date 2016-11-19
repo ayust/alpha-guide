@@ -16,6 +16,5 @@ the proper link below to go to the subsection appropriate for you:
 
 {{% notice info %}}
 These fits are designed primarily for PvE content.
-PvP setups will usually be constructed differently,
-and are outside the scope of this guide.
+For PvP you'll want to consult other resources.
 {{% /notice %}}
