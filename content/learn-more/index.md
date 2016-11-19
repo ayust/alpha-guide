@@ -20,6 +20,8 @@ excellent sites:
  * [UniWiki](http://wiki.eveuniversity.org) is maintained by EVE University with articles on a wide
 variety of EVE topics.
 
+ * [BRAVE Wiki](https://wiki.braveineve.com/) is another wiki maintained by Brave Newbies.
+
  * [Crossing Zebras](http://crossingzebras.com/) is an EVE fan site with many articles and podcasts about EVE.
 
  * The official [EVE Community](https://community.eveonline.com/) site has news, patch notes, and forums to read.
