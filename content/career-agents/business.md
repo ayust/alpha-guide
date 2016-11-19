@@ -1,7 +1,7 @@
 +++
 toc = true
 date = "2016-11-18T18:59:33-08:00"
-title = "Business"
+title = "Business Agent"
 weight = 1
 next = "/career-agents/exploration/"
 prev = "/career-agents/"
