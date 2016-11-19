@@ -16,5 +16,6 @@ builddrafts = true
     "new-goals",
     "training",
     "corps",
+    "learn-more",
     "reference"
   ]
