@@ -3,6 +3,7 @@ title = "Upgrade to a New Ship"
 toc = true
 icon = "<b>5. </b>"
 date = "2016-11-18T18:56:39-08:00"
+prev = "/career-agents/military/"
 +++
 
 By this point you should have the resources to move on from the basic rookie ship to
