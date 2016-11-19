@@ -12,8 +12,9 @@ We recommend doing both chains - first the regular agent, then the advanced agen
 
 ### Military Agent
 
-The regular Military Agent focuses on teaching you the basics of PvE combat missions.
-Missions like these are one of the main ways for making ISK in EVE via combat.
+The regular Military Agent focuses on teaching you the basics of PvE combat missions
+in the chain **Cash Flow for Capsuleers**. Missions like these are one of the main
+ways for making ISK in EVE via PvE combat.
 
 If you get stuck along the way, there's a video guide to the missions that begins here:
 https://www.youtube.com/watch?v=Ic8U2sX7yd4
