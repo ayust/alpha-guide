@@ -6,39 +6,47 @@ weight = 1
 next = "/market/"
 +++
 
-The Amarr corvette is the Impairor.
+The Caldari corvette is the Ibis.
 
-<object type="image/svg+xml"
-  data="https://o.smium.org/api/convert/118270/svg/118270-alpha-impairor.svg?privatetoken=2365660861286055936">
-<a href="https://o.smium.org/loadout/private/118270/2365660861286055936">View Alpha Impairor on Osmium</a></object>
+<object type="image/svg+xml" 
+	data="https://o.smium.org/api/convert/118274/svg/118274-alpha-ibis.svg?privatetoken=7738987711079383040">
+	<a href="https://o.smium.org/loadout/private/118274/7738987711079383040">View Alpha Ibis on Osmium</a></object>
 
 ### Weapons
 
-Since rookie ships are frigates, they use weapons from the 'small' size bracket.
-This fit uses two `Gatling Pulse Laser I` turrets in the high slots.
-Pulse lasers are shorter ranged but easier to fit than beam lasers.
-Because you're generally going to be fighting things at close range
-in a rookie ship, using a shorter-ranged weapon system is fine.
+Rookie ships (corvettes) use weapons from the 'small' size bracket.
+This fit uses two `75mm Gatling Rail I` turrets in the high slots.
+Railguns are a long-ranged weapon system, relative to Blasters, the short-ranged hybrid-gun option.
+While they pack a bit less punch, the Railguns let you engage sooner,
+without spending as much time flying into range while taking enemy fire.
 
-The pulse lasers are each loaded with a single `Multifrequency S` crystal.
-These basic crystals will never burn out, so all you need to buy is two.
-Multifrequency is the shortest-ranged basic crystal, but does the most damage.
-Since you're going to be fighting a close range anyway, more damage is good.
+Unlike civilian guns, these - and most other weapons - have to be loaded with ammunition to function.
+The railguns are loaded with `Antimatter Charge S` rounds.
+You should carry at least 1000 rounds with you.
+They are the shortest-range hybrid ammunition, but inflict the most damage. 
+
+When used in combination with the long-range railguns, they allow you to fight effectively at medium range.
+You will usually want to command your ship to orbit at about 2500m from your target.
+Being too near or too far from a moving target may cause your shots to miss.
+
+Additionally, the Ibis fits a `Magnetic Field Stabilizer I` in a low slot.
+This passively increases the damage output and rate of fire of its railguns.
 
 ### Defenses
 
-Since the Impairor is bonused for armor resistances, this fit is designed around armor.
-It uses a `Small Armor Repairer I` in one of the low slots. It also fits a `Damage Control I`
-which increases the ship's resistances, reducing incoming damage and making the armor repairer
-more effective.
+Since the Ibis is bonused for shield resistances, this fit is designed around shields.
+It uses a `Small Shield Booster I` in one of the medium slots.
+While leaving it active for extended periods can severely strain the ship's capacitor,
+it will greatly increase survivability when used in short bursts.
+
+The Ibis also fits a `Damage Control I`, which increases the ship's resistances, 
+reducing incoming damage and making the shield booster work more effectively.
 
 ### Utility
 
-The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
-catch enemy ships and also makes your ship harder to hit.
-
-The `Stasis Webifier I` helps your lasers apply their damage better, because it's easier to hit
-the slower targets. (It also makes it easier to stay in range of the slower enemies.)
+The `1MN Afterburner I` provides your ship with additional speed. 
+This makes it easier to bring enemy ships into an appropriate range for your guns,
+and to maintain that distance.  The increased speed can also help you evade enemy fire.
 
 ### Where do I get this stuff?
 
