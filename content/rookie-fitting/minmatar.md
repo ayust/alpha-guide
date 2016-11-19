@@ -26,8 +26,8 @@ extra ammo in your cargo hold to make sure you don't run out while fighting.
 Fusion is one of the shorter-ranged projectile ammo types, but does more explosive damage.
 Since you're going to be fighting a close range anyway, more damage is good.
 
-The `Gyrostabilizer I` in one of the low slots boosts your projectile turrets, increasing
-their damage per shot, rate of fire, and tracking speed (making it easier to hit targets).
+The `Gyrostabilizer I` in one of the low slots improves your projectile turrets, increasing
+their damage per shot and rate of fire.
 
 ### Defenses
 
