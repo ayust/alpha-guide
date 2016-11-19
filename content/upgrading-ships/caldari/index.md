@@ -10,7 +10,7 @@ they will have given you some of the following ships.
 They are more powerful than your rookie ship.
 They are also more specialized, and each ship is built for a specific purpose.
 
-### Frigate
+### Frigates
 
 ##### Condor
 
@@ -79,7 +79,7 @@ However, it is not particularly suitable for combat.
 
 [Here is a recommended fit for the Venture.](/upgrading-ships/caldari/venture/)
 
-### Destroyer
+### Destroyers
 
 ##### Cormorant
 
@@ -92,7 +92,7 @@ as well as having very little utility outside of its guns' damage output.
 
 [Here is a recommended fit for the Cormorant.](/upgrading-ships/caldari/cormorant/)
 
-### Industrial
+### Industrials
 
 ##### Badger
 
@@ -104,5 +104,5 @@ However, it is extremely slow and clumsy, and is borderline useless in combat.
 [Here is a recommended fit for the Badger.](/upgrading-ships/caldari/badger/)
 
 {{% notice warning %}}
-Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and as always, don't fly what you can't afford to lose.
+Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo's value under about 50 million ISK.
 {{% /notice %}}
