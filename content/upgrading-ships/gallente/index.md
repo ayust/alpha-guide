@@ -12,6 +12,11 @@ They are also more specialized, and each ship is built for a specific purpose.
 
 ### Frigates
 
+Frigates are some of the fastest and smallest ships in New Eden.
+This makes them very difficult for larger ships to hit.
+Their guns also track very quickly, allowing them to effectively fight other frigates.
+However, their raw defensive and offensive power is relatively weak.
+
 ##### Atron
 
 The Atron is the Gallente fast-attack frigate.
@@ -81,18 +86,32 @@ However, it is not particularly suitable for combat.
 
 ### Destroyers
 
+Destroyers are designed as a counter to frigates.
+They are "glass cannons" - they get large numbers of frigate-class guns,
+with substantial enhancements to their range and tracking,
+making them able to swat frigates out of the sky with ease.
+However,  their defenses are little stronger than a frigate's,
+and their larger size and slower speed makes them less able to avoid the fire
+of larger ships.  They are also lacking in any utility besides their damage output. 
+
 ##### Catalyst
 
 The Catalyst is one of the Gallente destroyers, focusing on hybrid turrets.
-Boasting no fewer than eight hardpoints for hybrid weapons,
+With the maximum of eight hardpoints for hybrid weapons,
 and with potent bonuses to their range and accuracy,
-it will quickly destroy any enemies that come within range of its guns.
+it will quickly destroy any smaller enemies that come within range of its guns.
 However, it is very slow compared to frigates, and its size makes it much easier to hit.
 Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Catalyst.](/upgrading-ships/gallente/catalyst/)
 
 ### Industrials
+
+Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
+They have massive cargo holds, but are slow, clumsy, and poorly armed at best - if they're armed at all.
+They can be a great boon to a marketeer, industrialist, 
+or even a combat pilot restocking on gear or moving locations,
+but are borderline useless in combat and a favorite target of player pirates.
 
 ##### Iteron
 
