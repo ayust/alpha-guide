@@ -2,6 +2,7 @@
 icon = "<b>2. </b>"
 date = "2016-11-18T17:26:45-08:00"
 title = "Fit Your Rookie Ship"
+prev = "/start/prereqs/"
 +++
 
 Now that you're done with the tutorial (and probably just got your ship blown up),
