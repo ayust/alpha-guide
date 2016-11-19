@@ -61,7 +61,7 @@ dots that the autopilot shows you: if any of them are orange or red, don't buy f
 #### Pick a seller to buy from
 
 For very cheap items, it's often worth it to buy it closer to avoid having to make extra jumps.
-For more expensive items, going a few more jumps to get a better price may be worth the item.
+For more expensive items, going a few more jumps to get a better price may be worth the time.
 
 Once you've chosen which seller you want to buy from, right-click the entry and choose 'Buy'
 which will pop up a window asking how many items you want to purchase. Type in the quantity
