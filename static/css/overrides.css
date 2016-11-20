@@ -1,0 +1,5 @@
+@media (max-width: 640px) {
+  #top-github-link {
+    display: none;
+  }
+}
