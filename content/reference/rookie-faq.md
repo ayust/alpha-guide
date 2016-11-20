@@ -45,3 +45,7 @@ Asteroid belts respawn once a day during the daily downtime. In highly-populated
 individual belts may get mined out quickly - try traveling to another system if all of
 the belts in your current system have been mined out, or going to an asteroid anomaly
 if there are any listed in the Probe Scanner window.
+
+#### How do I bookmark a point in space rather than a specific thing?
+Press <kbd>Ctrl</kbd>-<kbd>B</kbd> to bring up the bookmark creation dialog for your
+current position in space.
