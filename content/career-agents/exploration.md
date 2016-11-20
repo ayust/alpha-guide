@@ -23,7 +23,7 @@ videos:
  * Hacking Data and Relic sites
 
 The other videos are also interesting, but aren't relevant to this particular
-mission chain - feel free to watch them when you have the team and interest.
+mission chain - feel free to watch them when you have the time and interest.
 
 As you complete the chain, you'll earn a couple of new ships (including one
 specifically designed for exploration), some skill books, some modules,
