@@ -28,3 +28,11 @@ mission chain - feel free to watch them when you have the team and interest.
 As you complete the chain, you'll earn a couple of new ships (including one
 specifically designed for exploration), some skill books, some modules,
 and a good chunk of ISK.
+
+#### Common Stumbling Blocks
+
+ * On mission 3 of 5, you'll be required to find a "Data Site".
+   This is a Cosmic Signature, and you will not be able to warp to it without using scanner probes.
+   Review the Scanning (2 or 3) video to learn how to use these probes to find the site.
+ * On mission 5 of 5, you'll need a Passkey with you to be able to enter the final site.
+   It's provided to you when you begin the mission; remember to put it in your cargohold before you undock.

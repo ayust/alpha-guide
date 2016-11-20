@@ -25,13 +25,24 @@ from what you see now, but the general steps to complete the mission will be the
 As you complete this chain, you'll earn a couple of new ships, some skill books, some
 modules, and a good chunk of isk.
 
+#### Common Stumbling Blocks
+
+ * In mission 3 of 10, the Secret Documents will appear in a Cargo Container after you 
+   kill the last pirate.  Make sure to loot them before you dock.  If you forgot them,
+   you can return to the Mission location for up to two hours afterwards, and they will still be there.
+ * In mission 4 of 10, pay attention to your Local chat channel to see when you've completed the mission.
+ * In mission 9 of 10, the Narcotics Warehouse may not appear on your overview.
+   It is one of the man-made structures around the large asteroid.
+   Search for it visually, and destroy it.
+
 ### Advanced Military Agent
 
 The Advanced Military Agent focuses on teaching you some of the concepts typically
 involved in PvP combat (though the agent's missions do not actually involve PvP).
 
 {{% notice warning %}}
-This mission chain involves your ship exploding. Leave your valuable items behind in station.
+This mission chain involves your ship exploding. Leave your valuable items behind in station,
+and read all mission text carefully.
 {{% /notice %}}
 
 We recommend following the [UniWiki Advanced Military chain guide]
@@ -43,3 +54,21 @@ some skill books, some modules, and a decent chunk of ISK. At the end you'll als
 be given a Letter item which you can use to join a Faction Warfare NPC corporation
 if you decide that you want to take part in Faction Warfare. Don't rush off to do
 that quite yet though.
+
+#### Common Stumbling Blocks
+
+ * In mission 2 of 10, **your ship will be destroyed**.  You must use a Frigate.
+   It does not have to be the one provided to you by the Mission Agent - use whichever you like least.
+   The ship does not require any modules fit to complete the mission.
+ * In mission 3 of 10, note that you need to Warp Disrupt the pirate, not destroy them.
+ * In mission 5 of 10, **your ship will be destroyed**.  You can use any ship;
+   it must be capable of defeating at least one moderately-tough pirate.
+   The mission is completable in a properly-fit Corvette, if desired.
+ * In mission 8 of 10, wait for the Fleet Commander's orders.
+ * In mission 9 of 10, note that you must use a Civilian Stasis Webifier like the one provided.
+   You may have acquired some 1MN Stasis Webifier Is from other missions or the Market,
+   but they will not properly complete the mission.
+ * In mission 10 of 10, **your ship will be unable to warp out** unless and until you are victorious.
+   Make sure your ship is properly fit for battle before you begin.
+   If you're unable to destroy the pirate, but the pirate is unable to destroy you, 
+   you can right-click your capacitor and "Self Destruct" to end the stalemate.

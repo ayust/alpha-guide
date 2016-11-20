@@ -15,3 +15,7 @@ EVE while also acquiring some extra ISK and ship hulls.
 We recommend that you complete all of the career agent mission chains now. The pages in
 this section will provide brief descriptions of what each chain will teach you and the
 rewards you will receive for completing them.
+
+{{% notice note %}}
+Be sure to read all mission text carefully - some objectives are easily missed.
+{{% /notice %}}
