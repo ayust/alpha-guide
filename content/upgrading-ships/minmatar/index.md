@@ -107,6 +107,31 @@ Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Thrasher.](/upgrading-ships/minmatar/thrasher/)
 
+### Cruisers
+
+Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
+decent firepower, good defenses, moderate speed, and moderate price,
+they're the standard by which other ships are measured.  
+They are also the largest and most powerful ships available to Alpha clones.
+
+Cruiser fittings will not be provided in this guide.  By the time you're getting
+into a cruiser, you should be creating fits for yourself; see
+[Fitting](/references/fitting/) if you need some pointers.
+
+### Battlecruisers
+
+Battlecruisers are to cruisers as destroyers are to frigates:
+much more heavily armed, but substantially slower.  Battlecruisers are
+also significantly better defended, yet also more expensive.
+
+The Gnosis is the only battlecruiser available to Alpha clones.
+It is available to all races, and offers moderate bonuses to
+nearly all weapons systems and defenses while excelling in none.
+
+A Gnosis fitting will not be provided in this guide. By the time you're getting
+into a battlecruiser, you should be creating fits for yourself; see
+[Fitting](/references/fitting/) if you need some pointers. 
+
 ### Industrials
 
 Industrials, as class, are non-combat ships focused on the transport of goods across New Eden.
