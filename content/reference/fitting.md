@@ -1,20 +1,17 @@
 +++
-title = "Fitting"
+title = "How to Fit Ships Well"
 toc = true
 date = "2016-11-18T18:56:39-08:00"
 weight = 1
 prev = "/reference/"
 +++
 
-Up to this point, we've mostly been presenting pre-assembled fits for you to use.
-These fits don't cover anything close to all the ships out there, though - 
-and as you move up into new and unfamiliar ships, you might feel a little lost,
-and want to know how the ship should be fit.
-
-Well, as they say...give a capsuleer a fit, and they'll fly for a day.
+The walkthrough portion of this guide has a number of suggested fits, but perhaps
+you want to design your own fits - or a fit for a ship that isn't mentioned.
+Well, as they say...give a capsuleer a fit and they'll fly for a day.
 Teach a capsuleer to fit, and they'll keep flying for the rest of their immortal life.
 
-This section is intended to teach you how to do just that,
+This page is intended to teach you how to do just that,
 outlining some of the theory and practice of creating your own ship fits.
 
 As an alternate resource written for Omega clones, you can look at the
@@ -26,7 +23,7 @@ for another perspective.
 (Don't do it live.)
 
 You could make a fit by simply buying modules off the market,
-then throwing together whatever fits.  This will result in a lot
+then throwing together whatever you have room for.  This will result in a lot
 of wasted money, though, especially when you start messing with Rigs.
 
 Instead, it's better to simulate the fit ahead of time.
