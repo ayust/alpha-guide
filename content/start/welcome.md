@@ -15,3 +15,8 @@ grasp the things that the tutorial might not cover, or cover them in more detail
 This guide isn't comprehensive. There are many other excellent resources out there that provide
 broader knowledge about EVE Online, and parts of this guide may link to them as well. However,
 this guide in particular aims to address the specific needs of alpha clone capsuleers.
+
+{{% notice note %}}
+We're constantly updating and adding new information to the Guide.
+Have a suggestion? [Tell us!](https://github.com/ayust/alpha-guide/issues/new)
+{{% /notice %}}
