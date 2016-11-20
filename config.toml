@@ -19,3 +19,4 @@ builddrafts = true
     "learn-more",
     "reference"
   ]
+  editURL = "https://github.com/ayust/alpha-guide/edit/master/content/"
