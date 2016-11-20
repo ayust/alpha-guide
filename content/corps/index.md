@@ -15,7 +15,7 @@ will give you many more options than you'd have flying alone.
 
 You start the game in one of these, automatically assigned based on how you created
 your character - your race and bloodline. If you ever join a different corp and then
-quit it later, you'll be placed back into the same starter NPC corp you began in.
+quit it later, you'll be placed back into another NPC corp based on your race.
 
 All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn
 will be charged a 10% fee.
@@ -56,6 +56,12 @@ your interests:
 
 It's okay to take your time finding a corporation that suits your interests. It's also
 okay to change your mind if you join a corporation and find that you don't like it.
+
+{{% notice warning %}}
+Remember that once you trade items, send someone isk or give anything else away they
+can do whatever they want with it. Be wary if a recruiter asks for a fee to join
+their corportation or offers to move your items. It might be a scam.
+{{% /notice %}}
 
 {{% notice info %}}
 You can leave a corp that you've joined by right-clicking on your own name and choosing

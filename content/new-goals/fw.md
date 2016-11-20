@@ -27,3 +27,7 @@ with potential rewards. Because faction warfare sites have restrictions on
 what classes of ships can enter them, you have the option of fighting with
 only smaller classes of ships that are often cheaper to fit - which means
 you can fit (and lose) more of them as necessary.
+
+Faction Warfare rewards involve significant amounts of Loyalty Points (LP)
+which can be exchanged for military faction equipment, either to use yourself
+or sell on the market for ISK.
