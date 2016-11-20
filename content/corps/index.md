@@ -57,6 +57,12 @@ your interests:
 It's okay to take your time finding a corporation that suits your interests. It's also
 okay to change your mind if you join a corporation and find that you don't like it.
 
+{{% notice warning %}}
+Remember that once you trade items, send someone isk or give anything else away they
+can do whatever they want with it. Be wary if a recruiter asks for a fee to join
+their corportation or offers to move your items. It might be a scam.
+{{% /notice %}}
+
 {{% notice info %}}
 You can leave a corp that you've joined by right-clicking on your own name and choosing
 <kbd>Quit Corporation?</kbd> > <kbd>Confirm Quit Corporation</kbd>. Doing so will place
