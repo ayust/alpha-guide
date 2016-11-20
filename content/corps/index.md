@@ -43,8 +43,7 @@ is dedicated to doing what you're interested in doing and ask about recruitment.
 {{% /notice %}}
 
 [EVE University](http://www.eveuniversity.org/) is a well-known player corp in
-EVE that is devoted to teaching new players. [Brave Newbies](http://bravenewbies.org)
-is another well-known corp aimed at new players. There are many other player-run corps
+EVE that is devoted to teaching new players. There are many other player-run corps
 as well. We recommend the following resources for finding a corporation that suits
 your interests:
 
@@ -53,6 +52,15 @@ your interests:
  * The [r/evejobs](https://www.reddit.com/r/evejobs/) subreddit 
  * [This blog post](https://mikeazariah.wordpress.com/2016/11/17/ooc-joining-the-gang/)
    by Mike Azariah about corps that are recruiting alpha-clone players
+
+{{% notice note %}}
+There are a handful of large nullsec corps that recruit rather freely
+amongst new players and often organize group content in nullsec space: 
+[Brave Newbies](http://bravenewbies.org),
+[Karmafleet](https://recruit.karmafleet.org/),
+[Pandemic Horde](https://www.reddit.com/r/pandemichorde/),
+and [Dreddit](http://dredditisrecruiting.com/).
+{{% /notice %}}
 
 It's okay to take your time finding a corporation that suits your interests. It's also
 okay to change your mind if you join a corporation and find that you don't like it.
