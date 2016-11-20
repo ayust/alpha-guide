@@ -107,6 +107,15 @@ Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Cormorant.](/upgrading-ships/caldari/cormorant/)
 
+##### Corax
+
+The Corax is the other Caldari destroyer, focusing on missiles.
+It has seven launcher hardpoints, and a bonus to missile range and damage application,
+and comes with a comfortable four midslots, allowing it to mount a strong shield tank.
+However, it is slow, and its poor CPU and powergrid make it difficult to fit properly.
+
+[Here is a recommended fit for the Corax.](/upgrading-ships/caldari/corax/)
+
 ### Cruisers
 
 Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,

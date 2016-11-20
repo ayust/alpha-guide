@@ -94,7 +94,6 @@ However,  their defenses are little stronger than a frigate's,
 and their larger size and slower speed makes them less able to avoid the fire
 of larger ships.  They are also lacking in any utility besides their damage output. 
 
-
 ##### Coercer
 
 The Coercer is one of the Amarr destroyers, focusing on laser turrets.
@@ -105,6 +104,19 @@ However, it is very slow compared to frigates, and its size makes it much easier
 Additionally, it has very little utility outside of its lasers' damage output.
 
 [Here is a recommended fit for the Coercer.](/upgrading-ships/amarr/coercer/)
+
+##### Dragoon
+
+The Dragoon is the other Amarr destroyer, focusing on drones and energy neutralization.
+It has only three hardpoints for each of turrets and launchers,
+but can field a full flight of five light drones and two more flights in reserve,
+with bonuses to their damage and speed.
+It also gains bonuses to the range of Energy Neutralizers, used to directly attack
+enemies' capacitors in PvP.
+Its drones give it long reach, but its maximum damage output is low
+and its neutralizer bonuses are not useful in PvE.
+
+[Here is a recommended fit for the Dragoon.](/upgrading-ships/amarr/dragoon/)
 
 ### Cruisers
 

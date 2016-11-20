@@ -107,6 +107,16 @@ Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Catalyst.](/upgrading-ships/gallente/catalyst/)
 
+##### Algos
+
+The Algos is the other Gallente destroyer, focusing on drones.
+It gets only five turret hardpoints, few for a destroyer,
+but has the drone bandwidth to begin mixing in medium drones
+into its flights, with room in its bay for a spare flight of lights.
+It also has moderate speed and defenses, and works well with shield-tanking modules.
+
+[Here is a recommended fit for the Algos.](/upgrading-ships/gallente/algos/)
+
 ### Cruisers
 
 Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,

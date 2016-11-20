@@ -107,6 +107,18 @@ Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Thrasher.](/upgrading-ships/minmatar/thrasher/)
 
+##### Talwar
+
+The Talwar is the other Minmatar destroyer, focusing on missiles.
+Its seven missile launchers get a substantial bonus to their range,
+and it mitigates the signature penalty of Microwarpdrives,
+allowing it to use them to avoid incoming fire as if they were Afterburners.
+It is also relatively fast for a destroyer.
+This makes it a natural fit for long-range, high-speed "kiting" tactics with light missiles.
+However, its damage output is relatively low, and it is rather fragile.
+
+[Here is a recommended fit for the Talwar.](/upgrading-ships/minmatar/talwar/)
+
 ### Cruisers
 
 Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
