@@ -4,6 +4,7 @@ toc = true
 icon = "<b>6. </b>"
 date = "2016-11-18T18:56:39-08:00"
 prev = "/upgrading-ships/"
+next = "/new-goals/exploration/"
 +++
 
 EVE is a sandbox game, so there's no particular progression for you to follow
