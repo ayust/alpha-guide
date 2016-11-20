@@ -4,6 +4,7 @@ toc = true
 date = "2016-11-18T18:56:39-08:00"
 weight = 999
 next = "/training/"
+prev = "/new-goals/trading/"
 +++
 
 EVE players have historically been quite creative when it comes to player-driven
