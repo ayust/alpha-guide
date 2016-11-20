@@ -29,6 +29,10 @@ In general, you'll want:
  * Cruisers/battlecruisers for Level 3 missions
  * A well-fit battlecruiser for Level 4 missions
 
+{{% notice note %}}
+The only battlecruiser that alpha clones can use is the `Gnosis`.
+{{% /notice %}}
+
 You can read more on the [UniWiki 'Missions' page](http://wiki.eveuniversity.org/Missions).
 
 ### Why

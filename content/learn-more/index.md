@@ -14,7 +14,7 @@ At this point you should be off to an excellent start in EVE:
  * You have a plan for training new skills.
  * You've (probably) found a group of people to play with.
 
-EVE has a lot of complexity and detail in it. To explore more of it, consider checking out some of these other
+EVE has a lot of complexity. To explore more of it, consider checking out some of these other
 excellent sites:
 
  * [UniWiki](http://wiki.eveuniversity.org) is maintained by EVE University with articles on a wide
