@@ -3,6 +3,8 @@ title = "Trade Skills"
 toc = true
 date = "2016-11-18T18:56:39-08:00"
 weight = 2
+next = "/corps/"
+prev = "/training/ship/"
 +++
 
 If you've chosen a path that involves lots of buying and selling things on

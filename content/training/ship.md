@@ -3,6 +3,8 @@ title = "Ship Skills"
 toc = true
 date = "2016-11-18T18:56:39-08:00"
 weight = 2
+next = "/training/trade/"
+prev = "/training/mining/"
 +++
 
 Nearly everyone will want to train their race's Frigate skill up to at least
