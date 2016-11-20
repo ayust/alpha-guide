@@ -4,7 +4,7 @@ toc = true
 icon = "<b>8. </b>"
 date = "2016-11-18T18:56:39-08:00"
 next = "/learn-more/"
-prev = "/training/"
+prev = "/training/trade/"
 +++
 
 While it is certainly possible to play EVE alone, it's generally a lot more fun
