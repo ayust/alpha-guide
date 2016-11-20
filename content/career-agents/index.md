@@ -14,7 +14,7 @@ EVE while also acquiring some extra ISK and ship hulls.
 
 {{% notice tip %}}
 If you need to open the Career Agents window again (e.g. because you closed it),
-press F12 to open the 'Help' window and click the 'Show Career Agents' button.
+press <kbd>F12</kbd> to open the 'Help' window and click the 'Show Career Agents' button.
 {{% /notice %}}
 
 We recommend that you complete all of the career agent mission chains now. The pages in
