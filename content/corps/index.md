@@ -15,7 +15,7 @@ will give you many more options than you'd have flying alone.
 
 You start the game in one of these, automatically assigned based on how you created
 your character - your race and bloodline. If you ever join a different corp and then
-quit it later, you'll be placed back into the same starter NPC corp you began in.
+quit it later, you'll be placed back into another NPC corp based on your race.
 
 All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn
 will be charged a 10% fee.
