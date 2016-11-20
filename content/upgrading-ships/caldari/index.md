@@ -121,7 +121,6 @@ However, it is slow, and its poor CPU and powergrid make it difficult to fit pro
 Cruisers, as a class, are the most well-rounded ships in New Eden.  With comfortable slot layouts,
 decent firepower, good defenses, moderate speed, and moderate price,
 they're the standard by which other ships are measured.  
-They are also the largest and most powerful ships available to Alpha clones.
 
 Cruiser fittings will not be provided in this guide.  By the time you're getting
 into a cruiser, you should be creating fits for yourself; see
