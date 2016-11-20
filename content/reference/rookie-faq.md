@@ -9,6 +9,10 @@ prev = "/reference/"
 _A list of questions frequently asked in the Rookie Help channel
 and their associated answers._
 
+#### How do I split a stack of items?
+Hold shift and drag the stack of items, then drop it somewhere else. A dialog window
+will appear asking how many you wish to move.
+
 #### Where is the Mini Skill Injector?
 Press <kbd>Alt</kbd>-<kbd>Y</kbd> to open the Redeem window. It should be in there.
 
