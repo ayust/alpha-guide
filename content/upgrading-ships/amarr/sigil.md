@@ -19,10 +19,10 @@ Industrials are a favorite target of many players - and even in high-security sp
 {{% /notice %}}
 
 {{% notice note %}}
-The fitting of shield and armor modules at the same time, known as "dual-tanking",
-is usually not a good idea.  In the case of industrials, there is very little of use to be placed in the
-ship's midslots, so it doesn't hurt to have a few additional HP from the shield modules;
-however, as a general fitting strategy, this is best avoided on other ships.
+Shield modules are not usually fit on Amarr ships.  However, in the case of industrial ships,
+the midslot modules are not useful for many other things,
+and the lowslot modules can be used for Expanded Cargohold modules to help serve the ship's primary purpose.
+For this reason, on this ship only, we depart from the standard Amarr policy of armor-tanking.
 {{% /notice %}}
 
 
@@ -42,3 +42,4 @@ We recommend working towards the following improved fit:
 The improved fit will require the training of the following skills to use all installed equipment:
 
 * `Hull Upgrades` Level IV
+* `Shield Upgrades` Level III
