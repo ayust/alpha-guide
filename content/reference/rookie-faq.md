@@ -54,3 +54,9 @@ or going to an asteroid anomaly if there are any listed in the Probe Scanner win
 #### How do I bookmark a point in space rather than a specific thing?
 Press <kbd>Ctrl</kbd>-<kbd>B</kbd> to bring up the bookmark creation dialog for your
 current position in space.
+
+#### Why can't my guns hit this pirate?
+You're probably either too far away (outside of your gun's Optimal Range)
+or too close (and your gun turret can't rotate fast enough to track the 
+moving target).  Try staying at about your gun's Optimal Range, and if 
+still having accuracy trouble, try using Keep At Range instead of Orbit.
