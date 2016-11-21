@@ -17,7 +17,7 @@ and `Light Missiles` Level I before you will be able to use its weapons.
 ### Weapons
 
 The Talwar uses 7 `Light Missile Launcher I` launchers.
-Light Missiles are the "short-ranged" missile system, reaching to a much longer range
+Light Missiles are the "long-ranged" missile system, reaching to a much longer range
 than Rockets and dealing more damage per strike, but firing much more slowly,
 requiring more fitting space, and dealing less overall damage over time with poorer application to small targets.
 
