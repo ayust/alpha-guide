@@ -65,4 +65,4 @@ still having accuracy trouble, try using Keep At Range instead of Orbit.
 Your weapons probably need to be loaded with ammunition.
 Right-click your weapon, click "Show Info", and see "Used With" for ammo types you can use.
 Once you have some in your cargo hold, click-and-drag it over your gun's icon,
-or while in space, right-click the gun's icon in your HUD and select the ammo type to load
+or while in space, right-click the gun's icon in your HUD and select the ammo type to load.
