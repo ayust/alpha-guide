@@ -2,8 +2,8 @@
 <script>
 (function() {
   if(window.localStorage.getItem("dark") === "true") {
-    stylesheet = document.getElementById("override-css");
-    dark = document.createElement("link");
+    var stylesheet = document.getElementById("override-css");
+    var dark = document.createElement("link");
     dark.rel = "stylesheet";
     dark.href = "/css/overrides-dark.css";
     stylesheet.parentElement.appendChild(dark);
