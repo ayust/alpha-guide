@@ -24,8 +24,10 @@ Since you're going to be fighting at close range anyway, more damage is good.
 
 The Punisher's ample lowslots and armor resistance bonus make it a natural fit for armor tanking.
 It fits a `400mm Steel Plates I` to give it additional raw armor HP,
-and a `Damage Control I` and `Adaptive Nano Plating I` to make its armor more damage-resistant.
-It also uses a `Small Armor Repairer I` in one of the low slots to repair incoming damage.
+and a `Small Armor Repairer I` in one of the low slots to repair incoming damage.
+
+It also fits a `Damage Control I` and `Adaptive Nano Plating I` in its low slots 
+to increase its resistance to damage.
 
 {{% notice note %}}
 In general, it is frowned upon to mix "buffer-tank" modules like the armor plate 
@@ -49,12 +51,24 @@ of Powergrid-hungry modules such as the armor plate.
 ### Rigs
 
 Rigs are passive modifications to a ship, trading off one attribute against another.
-Unlike modules, rigs cannot be removed without being destroyed.  
+Unlike modules, rigs cannot be removed without being destroyed. 
 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
 are often relatively expensive and may be difficult to find near your starter station.
 
 A `Small Energy Collision Accelerator I` rig will give your energy turrets additional damage output,
 though it also increases the Powergrid usage of your guns.
+
+### How To Fly
+
+This is designed as a brawling fit.  Fly in close to your targets
+and begin orbiting them at about 2500m, applying your web to slow them down.
+
+You have a great deal of HP, but you do not have the capacitor to 
+run your armor repairer indefinitely; try to keep an eye on your capacitor,
+and keep it above 25%.  Your ship will sound an audio alert if your capacitor is getting low.
+
+As always, if the incoming damage is proving too much for your ship
+and you're beginning to take structure damage, warp out.
 
 ## Future Improvements
 
@@ -77,18 +91,21 @@ The improved fit will require the training of the following skills to use all in
 The most substantial change in this fit is the use of a `Small Ancillary Current Router I` rig
 to improve powergrid, rather than the Micro Auxiliary Power Core. 
 While relatively expensive, using the rig frees up a low slot, 
-allowing us to fit a `Heat Sink II` for more damage.
-(If you do not have the skillpoints for a Heat Sink II, use an `Extruded Compact Heat Sink` instead.)
+allowing us to fit a Heat Sink for more damage.
 
 Additionally, the fits adds two `Small Trimark Armor Pump I` for additional armor HP,
 though they will make the ship substantially slower.
 
-The Damage Control I has been upgraded to a `Damage Control II`.  This module requires
-more skill points to use, takes more fitting space, and is more expensive, 
-but is substantially more effective.
+Nearly every module has been improved to a "meta" version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:
 
-Nearly every other module has been improved to a "meta" version, requiring less fitting space
-and granting improved effectiveness, but costing more ISK and/or being less widely available.
-The additional fitting space is part of what allows us to use the Heat Sink II,
-despite its heavy strain on the ship's CPU.
+ * Guns: 4x `Small Focused Anode Pulse Particle Stream I`
+ * Propulsion: `1MN Y-S8 Compact Afterburner`
+ * Web: `Fleeting Compact Stasis Webifier`
+ * Plate: `400mm Rolled Tungsten Compact Plates`
+ * Resists: `'Refuge' Adaptive Nano Plating I`
+ * Damage Control: `Damage Control II`
+ * Armor Repairer: `Small Armor Repairer II`
+ * Damage Mod: `Heat Sink II`
 

@@ -18,6 +18,17 @@ If you find yourself forced into combat, your best option is to simply run away.
 Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck.  Be mindful of your surroundings, and try to keep your cargo's value under about 20 million ISK.
 {{% /notice %}}
 
+### Hauling Enhancements
+
+The lowslots are used for five `Expanded Cargohold I`, to further increase
+the ship's cargo capacity and help it perform its primary function.
+These increase its cargo bay from 2205 m3 to 4938.5 m3.
+
+### Defenses
+
+This ship uses a `Large Shield Extender I` and two `Medium Shield Extender I` 
+in its mid slots to grant it additional shield HP.
+
 {{% notice note %}}
 Shield modules are not usually fit on Amarr ships.  However, in the case of industrial ships,
 the midslot modules are not useful for many other things,
@@ -25,6 +36,39 @@ and the lowslot modules can be used for Expanded Cargohold modules to help serve
 For this reason, on this ship only, we depart from the standard Amarr policy of armor-tanking.
 {{% /notice %}}
 
+It also fits a `Damage Control I` in a low slot to increase its resistance to damage.
+
+### Utility
+
+The `10MN Afterburner I` provides your ship with additional speed.  (Note
+that this is a cruiser-sized module, not the 1MN afterburners used on frigates and destroyers!)
+
+### Rigs
+
+Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed. 
+As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
+are often relatively expensive and may be difficult to find near your starter station.
+
+A `Medium Anti-EM Screen Reinforcer I` and `Medium Anti-Thermal Screen Reinforcer I`
+improve the resistance of the ship's shields, depriving attackers of weak points to fire into.
+
+### How To Fly
+
+The Sigil is an industrial ship.  It should be primarily hauling goods from one
+station to another, sticking to safe space and avoiding combat.
+
+When moving between stations, you should always fly your Industrial directly from
+gate to gate, and jump immediately upon landing.  Do not use your Autopilot,
+as it will land you a substantial distance from the gate, making it easy for other players
+to scan your cargo for valuables and plan a potential attack.
+
+Industrials are very slow, and sluggish to get into warp.  To improve this, 
+after clicking "Warp" on a destination, you can activate your Afterburner for a single cycle 
+(click it so that it glows green, then immediately click it again so it glows red). 
+The additional acceleration will help you get up to warp speed faster.
+(Leaving the afterburner on will make it take longer, as the speed required
+to enter warp is 75% of your *current* maximum speed.)
 
 ## Future Improvements
 
@@ -43,3 +87,20 @@ The improved fit will require the training of the following skills to use all in
 
 * `Hull Upgrades` Level IV
 * `Shield Upgrades` Level III
+
+The improved fit replaces the shield resistance rigs with three `Medium Cargohold Optimization I`
+for additional cargo capacity.  Combined with the upgrade to `Expanded Cargohold II` modules,
+this increases its cargo bay to 11299.3 m3 - enough for four frigates and their fittings,
+with spare room for ammunition as well.
+
+To compensate for the loss of the shield resistance rigs, it fits an 'Upgraded EM Ward Amplifier I`
+to plug the weak spot in its base shield resistances.
+
+Nearly every module has been improved to a "meta" version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:
+
+ * Propulsion: `10MN Y-S8 Compact Afterburner`
+ * Shield Extenders: 2x `Large F-S9 Regolith Compact Shield Extender`
+ * Damage Control: `Damage Control II`
+ * Expanded Cargohold: 5x `Expanded Cargohold II`

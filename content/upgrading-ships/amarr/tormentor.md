@@ -9,6 +9,63 @@ prev = "/upgrading-ships/amarr/"
 
 <object type="image/svg+xml" data="https://o.smium.org/api/convert/118268/svg/118268-alpha-clone---starter-tormentor.svg?privatetoken=7458695229059629056"><a href="https://o.smium.org/loadout/private/118268/7458695229059629056">View Alpha Clone - Starter Tormentor on Osmium</a></object>
 
+### Weapons
+
+The Tormentor uses 3 `Small Focused Pulse Laser I` turrets.
+Pulse lasers are the "short-ranged" laser system, dealing more damage with better tracking
+than the longer-ranged beam lasers.
+
+The pulse lasers are each loaded with a single `Multifrequency S` crystal.
+These basic crystals will never burn out, so you will only need to buy three.
+Multifrequency is the shortest-ranged basic crystal, but does the most damage.
+Since you're going to be fighting at close range anyway, more damage is good.
+
+Additionally, this fit uses a `Heat Sink I` in a low slot.
+This passively increases the damage output and rate of fire of its lasers.
+
+### Defenses
+
+This ship uses a `Small Armor Repairer I` in one of the low slots to repair incoming damage.
+
+It also fits a `Damage Control I` and an `Adaptive Nano Plating I` in its low slots
+to increase its resistance to damage.
+
+### Utility
+
+The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
+catch enemy ships and also makes your ship harder to hit.
+
+The `Stasis Webifier I` helps your lasers apply their damage better, because it's easier to hit
+the slower targets. (It also makes it easier to stay in range of the slower enemies.)
+
+The `Small Capacitor Booster I` can provide your ship with an instant injection of Capacitor.
+This module must be fueled by charges, which act as consumable batteries.  Load it with 
+`Cap Booster 200` bought from the market, and bring along as many spares as you can carry (about 10).
+
+### Rigs
+
+Rigs are passive modifications to a ship, trading off one attribute against another.
+Unlike modules, rigs cannot be removed without being destroyed. 
+As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
+are often relatively expensive and may be difficult to find near your starter station.
+
+A `Small Energy Collision Accelerator I` rig will give your energy turrets additional damage output,
+though it also increases the Powergrid usage of your guns.
+
+### How To Fly
+
+This is designed as a brawling fit.  Fly in close to your targets
+and begin orbiting them at about 2500m, applying your web to slow them down.
+
+This ship has a Capacitor Booster.  As the charges for it are quite bulky,
+you can carry only a limited number.  Try to save the Booster charges for emergencies
+when you need the extra capacitor to run your repair module continuously. 
+Under normal circumstances, use your repper sparingly, off your ship's base capacitor.
+Keep an eye on your capacitor, and try not to let it go below about 25%.
+
+As always, if the incoming damage is proving too much for your ship
+and you're beginning to take structure damage, warp out.
+
 ## Future Improvements
 
 The above fit should be usable with starting skills unless otherwise noted,
@@ -28,3 +85,22 @@ The improved fit will require the training of the following skills to use all in
 * `Hull Upgrades` Level IV
 * `Drones` Level III
 * `Light Drone Operation` Level I
+
+The improved fit adds two `Small Auxiliary Nano Pump I` to increase the
+effectiveness and efficiency of your Armor Repairer.
+
+Once you have the skills to use them, you should fill your Drone Bay with Combat Drones.
+`Hobgoblin I` drones have the most damage output, while `Warrior I` drones have the most speed.
+
+Nearly every module has been improved to a "meta" version, requiring less fitting space
+and granting improved effectiveness, but costing more ISK and/or being less widely available,
+or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:
+
+ * Guns: 3x `Small Focused Anode Pulse Particle Stream I`
+ * Propulsion: `1MN Y-S8 Compact Afterburner`
+ * Web: `Fleeting Compact Stasis Webifier`
+ * Injector: `Small Electrochemical Capacitor Booster I`
+ * Damage Control: `Damage Control II`
+ * Armor Repairer: `Small Armor Repairer II`
+ * Damage Mod: `Heat Sink II`
+ * Resists: `'Refuge' Adaptive Nano Plating I`
