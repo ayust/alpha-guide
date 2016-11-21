@@ -71,7 +71,7 @@
      {{ if .Site.Params.showVisitedLinks}}
      <a class="padding" href="#" data-clear-history-toggle=""><i class="fa fa-fw fa-history"></i> Clear History</a>
      {{ end }}
-     <a class="padding" href="javascript:localStorage.setItem('dark', localStorage.getItem('dark') !== 'true');window.location.reload();">
-      <i class="fa fa-fw fa-adjust"></i> Toggle Light/Dark</a>
+     <a class="padding" onclick="var l=localStorage;l.setItem('dark',l.getItem('dark')!=='true');window.location.reload();return;"
+        href="#"><i class="fa fa-fw fa-adjust"></i> Toggle Light/Dark</a>
   </div>
 </nav>
