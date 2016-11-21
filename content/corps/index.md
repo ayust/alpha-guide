@@ -56,7 +56,7 @@ your interests:
 {{% notice note %}}
 There are a handful of large nullsec corps that recruit rather freely
 amongst new players and often organize group content in nullsec space: 
-[Brave Newbies](http://bravenewbies.org),
+[Brave Newbies](http://www.bravecollective.com/),
 [Karmafleet](https://recruit.karmafleet.org/),
 [Pandemic Horde](https://www.reddit.com/r/pandemichorde/),
 and [Dreddit](http://dredditisrecruiting.com/).
