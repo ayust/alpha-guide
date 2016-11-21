@@ -60,3 +60,9 @@ You're probably either too far away (outside of your gun's Optimal Range)
 or too close (and your gun turret can't rotate fast enough to track the 
 moving target).  Try staying at about your gun's Optimal Range, and if 
 still having accuracy trouble, try using Keep At Range instead of Orbit.
+
+#### What does 'a module has run out of charges' mean?
+One of your modules that requires ammunition (usually, your guns/launchers)
+has run out of loaded ammo in its magazine.  It'll automatically reload from your cargo hold.
+To manually reload an empty module, click-and-drag ammo to its icon,
+or right-click its icon on your HUD and select the appropriate ammo type.
