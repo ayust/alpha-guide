@@ -1,1 +1,12 @@
-<link rel="stylesheet" href="/css/overrides.css" />
+<link rel="stylesheet" href="/css/overrides.css" id="override-css" />
+<script>
+(function() {
+  if(window.localStorage.getItem("dark") === "true") {
+    var stylesheet = document.getElementById("override-css");
+    var dark = document.createElement("link");
+    dark.rel = "stylesheet";
+    dark.href = "/css/overrides-dark.css";
+    stylesheet.parentElement.appendChild(dark);
+  }
+})();
+</script>

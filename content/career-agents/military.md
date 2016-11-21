@@ -66,7 +66,7 @@ that quite yet though.
    The mission is completable in a properly-fit Corvette, if desired.
  * In mission 8 of 10, wait for the Fleet Commander's orders.
  * In mission 9 of 10, note that you must use a Civilian Stasis Webifier like the one provided.
-   You may have acquired some 1MN Stasis Webifier Is from other missions or the Market,
+   You may have acquired some Stasis Webifier Is from other missions or the Market,
    but they will not properly complete the mission.
  * In mission 10 of 10, **your ship will be unable to warp out** unless and until you are victorious.
    Make sure your ship is properly fit for battle before you begin.

@@ -1,0 +1,75 @@
+body {
+  color: #ddd !important;
+  background: #111;
+}
+
+#body .nav:hover {
+  background: #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #aaa;
+}
+
+body #chapter h1 {
+  border-bottom-color: #444;
+}
+
+a:hover {
+  color: #00cef5;
+}
+
+#top-bar {
+  background: #333;
+}
+
+.progress {
+  background: #222;
+}
+
+div.notices.info p {
+  border-top-color: rgb(120, 90, 63);
+  background: rgb(60, 45, 31);
+  color: #ddd;
+}
+
+div.notices.warning p {
+  border-top-color: rgb(180, 73, 63);
+  background: rgb(90, 40, 30);
+  color: #ddd;
+}
+
+div.notices.note p {
+  border-top-color: rgb(53, 88, 131);
+  background: rgb(25, 44, 65);
+  color: #ddd;
+}
+
+div.notices.tip p {
+  border-top-color: rgb(41, 92, 46);
+  background: rgb(20, 46, 23);
+  color: #ddd;
+}
+
+code {
+  color: #ccc;
+  background: #444;
+  border-color: #555;
+}
+
+.copy-to-clipboard {
+  background-color: #666;
+}
+
+.default-animation, #header #logo-svg, #header #logo-svg path, #sidebar, #sidebar ul, #body, #body .padding, #body .nav {
+  transition: none !important;
+}
+
+#sidebar ul li.active > a {
+  background: #111;
+  color: #ddd !important;
+}
+
+#overlay {
+  background: rgba(0, 0, 0, 0.5) !important;
+}
