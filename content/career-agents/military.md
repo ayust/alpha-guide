@@ -31,6 +31,7 @@ modules, and a good chunk of isk.
    kill the last pirate.  Make sure to loot them before you dock.  If you forgot them,
    you can return to the Mission location for up to two hours afterwards, and they will still be there.
  * In mission 4 of 10, pay attention to your Local chat channel to see when you've completed the mission.
+ * In mission 5 of 10, you need to destroy the pirate.
  * In mission 9 of 10, the Narcotics Warehouse may not appear on your overview.
    It is one of the man-made structures around the large asteroid.
    Search for it visually, and destroy it.
