@@ -36,7 +36,7 @@ It also fits a `Damage Control I` to increase its resistance to damage.
 The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
 catch enemy ships and also makes your ship harder to hit.
 
-The `Stasis Webifier I` helps your lasers apply their damage better, because it's easier to hit
+The `Stasis Webifier I` helps your projectiles apply their damage better, because it's easier to hit
 the slower targets. (It also makes it easier to stay in range of the slower enemies.)
 
 The `Small Capacitor Booster I` can provide your ship with an instant injection of Capacitor.
