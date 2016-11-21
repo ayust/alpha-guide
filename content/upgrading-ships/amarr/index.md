@@ -126,7 +126,7 @@ they're the standard by which other ships are measured.
 
 Cruiser fittings will not be provided in this guide.  By the time you're getting
 into a cruiser, you should be creating fits for yourself; see
-[Fitting](/references/fitting/) if you need some pointers.
+[Fitting](/reference/fitting/) if you need some pointers.
 
 ### Battlecruisers
 
@@ -140,7 +140,7 @@ nearly all weapons systems and defenses while excelling in none.
 
 A Gnosis fitting will not be provided in this guide. By the time you're getting
 into a battlecruiser, you should be creating fits for yourself; see
-[Fitting](/references/fitting/) if you need some pointers. 
+[Fitting](/reference/fitting/) if you need some pointers. 
 
 ### Industrials
 
