@@ -70,6 +70,12 @@ The additional acceleration will help you get up to warp speed faster.
 (Leaving the afterburner on will make it take longer, as the speed required
 to enter warp is 75% of your *current* maximum speed.)
 
+{{% notice warning %}}
+You should not take an Industrial ship outside of high-security space (0.5 and up).
+If you join a low-security, null-security or wormhole corporation and live in their space,
+ask them for assistance if you need to do anything requiring an Industrial ship.
+{{% /notice %}}
+
 ## Future Improvements
 
 The above fit should be usable with starting skills unless otherwise noted,
@@ -90,8 +96,8 @@ The improved fit will require the training of the following skills to use all in
 
 The improved fit replaces the shield resistance rigs with three `Medium Cargohold Optimization I`
 for additional cargo capacity.  Combined with the upgrade to `Expanded Cargohold II` modules,
-this increases its cargo bay to 11299.3 m3 - enough for four frigates and their fittings,
-with spare room for ammunition as well.
+this increases its cargo bay to 11299.3 m3 - enough for four frigates, two destroyers, or a cruiser,
+with room to spare for their fittings and ammunition.
 
 To compensate for the loss of the shield resistance rigs, it fits an 'Upgraded EM Ward Amplifier I`
 to plug the weak spot in its base shield resistances.
