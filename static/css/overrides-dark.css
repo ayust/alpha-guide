@@ -67,7 +67,7 @@ code {
 
 #sidebar ul li.active > a {
   background: #111;
-  color: #999 !important;
+  color: #ddd !important;
 }
 
 #overlay {
