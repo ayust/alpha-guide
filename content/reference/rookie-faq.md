@@ -62,7 +62,7 @@ moving target).  Try staying at about your gun's Optimal Range, and if
 still having accuracy trouble, try using Keep At Range instead of Orbit.
 
 #### What does 'a module has run out of charges' mean?
-One of your modules that requires ammunition (usually, your guns/launchers)
-has run out of loaded ammo in its magazine.  It'll automatically reload from your cargo hold.
-To manually reload an empty module, click-and-drag ammo to its icon,
-or right-click its icon on your HUD and select the appropriate ammo type.
+Your weapons probably need to be loaded with ammunition.
+Right-click your weapon, click "Show Info", and see "Used With" for ammo types you can use.
+Once you have some in your cargo hold, click-and-drag it over your gun's icon,
+or while in space, right-click the gun's icon in your HUD and select the ammo type to load
