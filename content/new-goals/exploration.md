@@ -29,6 +29,9 @@ which are relatively dangerous areas of space but the potential payoff is large.
 You can read more about exploration in the [UniWiki 'Exploration' article]
 (http://wiki.eveuniversity.org/Exploration), and more about wormholes in the
 [UniWiki 'Wormholes' article](http://wiki.eveuniversity.org/Wormholes).
+If exploring in dangerous space, you may also want to read up on how to
+[create safespot bookmarks](http://wiki.eveuniversity.org/Bookmarks#Safe_Spots)
+and use your [directional scanner](http://wiki.eveuniversity.org/Directional_Scanner_Guide).
 
 {{% notice info %}}
 You will notice that many exploration guides mention cloaking devices. Alpha
