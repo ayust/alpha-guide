@@ -21,7 +21,7 @@ Light Missiles are the "long-ranged" missile system, reaching to a much longer r
 than Rockets and dealing more damage per strike, but firing much more slowly,
 requiring more fitting space, and dealing less overall damage over time with poorer application to small targets.
 
-The rockets are loaded with `Nova Light Missile` ammunition.
+The launchers are loaded with `Nova Light Missile` ammunition.
 As the Talwar's bonus to missile damage applies only to Explosive damage
 such as that dealt by Nova missiles, you should nearly always use this ammunition.
 Additionally, its Explosive damage is well-suited to defeating the Angel pirates
@@ -100,6 +100,12 @@ The improved fit will require the training of the following skills to use all in
 * `Hull Upgrades` Level IV
 * `Shield Operation` Level III
 * `Energy Grid Upgrades` Level III
+
+{{% notice info %}}
+Your character starts with very low missile skills.  If you intend to continue
+using missile ships, we recommend focusing your training on some 
+[missile support skills](/training/combat/#missile-skills).
+{{% /notice %}}
 
 The improved fit uses a `5MN Quad LiF Restrained Microwarpdrive` rather than an Afterburner.
 An MWD takes a large amount of capacitor to run, 

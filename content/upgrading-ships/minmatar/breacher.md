@@ -20,7 +20,7 @@ The Breacher uses 3 `Rocket Launcher I` launchers.
 Rockets are the "short-ranged" missile system, dealing more damage with better application to small ships
 than the longer-ranged light missiles.  They also fire much more rapidly.
 
-The rockets are loaded with `Nova Rocket` ammunition.
+The launchers are loaded with `Nova Rocket` ammunition.
 Its Explosive damage is well-suited to defeating the Angel pirates
 most commonly encountered in Minmatar space.
 You should keep about 1000 spare rockets in your cargohold.
@@ -43,8 +43,8 @@ It also fits a `Damage Control I` to increase its resistance to damage.
 The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
 catch enemy ships and also makes your ship harder to hit.
 
-The `Stasis Webifier I` helps your rockets apply their damage better, because it's easier to hit
-the slower targets. (It also makes it easier to stay in range of the slower enemies.)
+The `Stasis Webifier I` helps your rockets apply their damage better. 
+(It also makes it easier to stay in range of the slower enemies.)
 
 The `Small Capacitor Booster I` can provide your ship with an instant injection of Capacitor.
 This module must be fueled by charges, which act as consumable batteries.  Load it with 
@@ -94,6 +94,12 @@ The improved fit will require the training of the following skills to use all in
 * `Weapon Upgrades` Level IV
 * `Drones` Level III
 * `Light Drone Operation` Level I
+
+{{% notice info %}}
+Your character starts with very low missile skills.  If you intend to continue
+using missile ships, we recommend focusing your training on some 
+[missile support skills](/training/combat/#missile-skills).
+{{% /notice %}}
 
 Once you have the skills to use them, you should fill your Drone Bay with Combat Drones.
 `Hobgoblin I` drones have the most damage output, while `Warrior I` drones have the most speed.
