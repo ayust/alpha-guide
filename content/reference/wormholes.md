@@ -121,7 +121,10 @@ in empty space.
 
 Open your Directional Scanner window (<kbd>Alt</kbd>-<kbd>D</kbd>) and make sure that
 both the Range and Angle sliders are set full right (the Angle should read 360). In
-Wormholes your d-scan will be your best friend for staying safe.
+Wormholes your d-scan will be your best friend for staying safe. Inside wormholes,
+players don't show up in the Local channel member list unless they say something (and
+they won't). So d-scan will be your only warning of players in the system before they
+appear next to you.
 
 {{% notice tip %}}
 You're about to enter the wormhole. Read through the next few steps first so you're
