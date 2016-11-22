@@ -98,6 +98,12 @@ The improved fit will require the training of the following skills to use all in
 * `Drones` Level V
 * `Light Drone Operation` Level I
 
+{{% notice info %}}
+Your character starts with very low drone skills.  If you intend to continue
+using drone ships, we recommend focusing your training on some 
+[drone support skills](/training/combat/#drone-combat-skills).
+{{% /notice %}}
+
 The largest change to the improved fit is the loss of the Capacitor Booster,
 so that pilots are not required to restock on bulky Cap Booster charges or spend
 as much manual effort on managing their capacitor.
