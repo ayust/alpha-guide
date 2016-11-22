@@ -116,7 +116,7 @@ expedition.
 
 **First things first:** right-click the wormhole and select Save Location... to make
 a bookmark for the entrance. Name it whatever you'd like. It'll show up in People &
-Places (<kbd>Alt</kbd>-</kbd>E</kbd>) in the Places tab, and also when you right-click
+Places (<kbd>Alt</kbd>-<kbd>E</kbd>) in the Places tab, and also when you right-click
 in empty space.
 
 Open your Directional Scanner window (<kbd>Alt</kbd>-<kbd>D</kbd>) and make sure that
