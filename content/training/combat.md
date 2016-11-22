@@ -25,7 +25,24 @@ If your ships have drone bays, you'll also want to further train your drone skil
 damage will benefit any ship with a drone bay. Eventually you will want to train
 the other drone support skills as well to improve the performance of your drones
 even further.
-k
+
+`Drones` allows you to control more drones simultaneously.  If flying ships with
+at least 25 Mbit/sec of drone bandwidth (enough to control five light drones),
+you will want to train this to level V when time allows.  Level IV is required
+to train many of the support skills, and Level III is required to use drones at all.
+
+`Drone Navigation` increases the flight speed of your drones, meaning less time spent
+waiting for them to reach their target.
+
+`Drone Avionics` increases the range at which you can command your drones to attack.
+Training this to level III should be sufficient to allow a frigate or destroyer
+to command drones out to its maximum lock range.
+
+`Drone Durability` increases all your drones' HP.
+
+`Drone Interfacing` provides a substantial damage boost to all drones.
+However, it requires Drones V to be trained as a pre-requisite.
+
 ### Shield Skills
 
 If you're flying ships that use shields as their main form of defense, you'll want
