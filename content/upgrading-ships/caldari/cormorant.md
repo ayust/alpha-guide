@@ -96,9 +96,12 @@ not to let it dip below 25%.
 
 The shield booster has been downsized from Medium to a `Small Shield Booster II`.
 This reduces the maximum "burst-tanking" power of its defense,
-but allows the booster's use to be sustained for much longer,
-and the reduced fitting cost allows the use of more powerful and longer-ranged guns,
-increasing its effective range to about 15-20km.  
+but allows the booster's use to be sustained for much longer.
+
+The reduced fitting cost allows the use of more powerful and longer-ranged guns,
+increasing its effective range to about 15-20km.  You can play the improved fit as
+more of a true sniper, hanging back out of range of the enemy's return fire and
+picking them off from afar.
 
 Nearly every module has been improved to a "meta" version, requiring less fitting space
 and granting improved effectiveness, but costing more ISK and/or being less widely available,
