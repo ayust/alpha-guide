@@ -68,7 +68,7 @@ okay to change your mind if you join a corporation and find that you don't like 
 {{% notice warning %}}
 Remember that once you trade items, send someone isk or give anything else away they
 can do whatever they want with it. Be wary if a recruiter asks for a fee to join
-their corportation or offers to move your items. It might be a scam.
+their corporation or offers to move your items. It might be a scam.
 {{% /notice %}}
 
 {{% notice info %}}
