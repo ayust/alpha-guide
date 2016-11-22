@@ -64,7 +64,7 @@ It has potent bonuses to remote shield booster modules,
 allowing it to "heal" allied ships in battle.
 However, it is not very useful to a solo pilot.
 
-For this reason, we recommend that you do not use the Bantam for now.
+For this reason, we recommend that you do not use the Burst for now.
 
 ##### Vigil
 
