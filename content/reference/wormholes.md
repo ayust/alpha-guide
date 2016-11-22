@@ -8,7 +8,7 @@ prev = "/reference/"
 
 You've just scanned down a wormhole for the first time, and you're sitting next to it
 in space, wondering... "should I jump in?" You may have heard that wormholes are
-dangerous places, but perhaps you've also heard that they contain lucrative opportunities.
+dangerous places, but perhaps you've also heard that they contain lucrative exploration sites.
 
 Both of these are true - wormholes definitely hold to the maxim of "nothing risked, nothing
 gained." So this guide is going to walk you through the basics of going on the adventure
