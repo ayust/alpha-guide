@@ -26,6 +26,11 @@ and hacking bonuses, like the exploration frigates from each faction.
 The best relic sites are found in either nullsec or wormhole space, both of
 which are relatively dangerous areas of space but the potential payoff is large.
 
+{{% notice tip %}}
+Want to try wormhole exploration? See the [Your First Wormhole](/reference/wormholes/)
+page.
+{{% /notice %}}
+
 You can read more about exploration in the [UniWiki 'Exploration' article]
 (http://wiki.eveuniversity.org/Exploration), and more about wormholes in the
 [UniWiki 'Wormholes' article](http://wiki.eveuniversity.org/Wormholes).
