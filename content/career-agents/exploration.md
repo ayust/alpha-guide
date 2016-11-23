@@ -25,6 +25,8 @@ videos:
 The other videos are also interesting, but aren't relevant to this particular
 mission chain - feel free to watch them when you have the time and interest.
 
+You can also look through our [scanning guide](/reference/scanning) if you prefer a text format.
+
 As you complete the chain, you'll earn a couple of new ships (including one
 specifically designed for exploration), some skill books, some modules,
 and a good chunk of ISK.
