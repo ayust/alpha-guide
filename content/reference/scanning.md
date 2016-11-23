@@ -6,14 +6,13 @@ weight = 1
 prev = "/reference/"
 +++
 
-The minigame for scanning down Cosmic Signatures takes a bit of explanation, and there's essentially nothing in the in-game tutorials to teach you how to do it.  There's a video in-game, but not everyone likes having to watch a whole video to pluck out the specific parts they need, and some of the user interface elements have been changed since that video was made.
-
-As such, if you're one of the legions of people stuck on the Exploration career agent (3 of 5), or having trouble understanding the somewhat non-intuitive scanning interface, this guide is for you.
+This guide is an alternative to the in-game scanning tutorial video (though you can also watch that
+by pressing <kbd>F12</kbd> and going to the Tutorial Videos tab, Exploration section).
 
 ### What Are Probes For, Anyway?
 
-Many sites in EVE, such as Stations and Stargates, have active beacons which broadcast
-across the system, making them show up on your Overview so that you can warp to them from anywhere.
+Many sites in EVE, such as Stations and Stargates,
+show up on your Overview so that you can warp to them from anywhere.
 
 Others, such as Mission deadspace pockets, don't show up on your Overview, but you're given
 co-ordinates for them, so you can warp to them directly without needing to find them.
