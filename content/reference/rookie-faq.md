@@ -9,6 +9,11 @@ prev = "/reference/"
 _A list of questions frequently asked in the Rookie Help channel
 and their associated answers._
 
+#### How do I reset a stuck Aura tutorial mission?
+
+Click the ? icon in the Operations Info Panel. Here's a [picture guide](/images/reset-aura.png).
+If not everything resets properly you may want to log out and back in again.
+
 #### How do I split a stack of items?
 Hold shift and drag the stack of items, then drop it somewhere else. A dialog window
 will appear asking how many you wish to move.
