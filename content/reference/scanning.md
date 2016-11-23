@@ -111,7 +111,7 @@ Our primary point of interest is the large red sphere we see, with a red "X" in 
 That's our ship's approximate fix on the Cosmic Signature's location; it's very rough and
 imprecise, however, which is why we have probes to narrow it down.
 
-The Cosmic Signature is **almost certainly not at the X**.  Instead, it's somewhere in the area of
+The Cosmic Signature is **almost certainly not at the X**.  Instead, it's somewhere on the surface of
 that red sphere.  Our job, with the probes, is to find out exactly where.
 
 To do this, we're going to first **isolate the signature**, then **enhance the precision**.
