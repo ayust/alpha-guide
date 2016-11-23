@@ -39,7 +39,7 @@ If exploring in dangerous space, you may also want to read up on how to
 and use your [directional scanner](http://wiki.eveuniversity.org/Directional_Scanner_Guide).
 
 If you're having trouble with the scanning interface,
-try looking through our [scanning guide](/reference/scanning).
+try looking through our [scanning guide](/reference/scanning/).
 
 {{% notice info %}}
 You will notice that many exploration guides mention cloaking devices. Alpha
