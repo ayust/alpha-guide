@@ -246,7 +246,7 @@ Remember to check the position from multiple angles!
 
 ### Lather, Rinse, Repeat
 
-At this point, the signature to 100% is just a matter of repeating the steps you already know:
+At this point, getting the signature to 100% is just a matter of repeating the steps you already know:
 
  * Isolate the signature to a solid, single-dot hit
  * Re-center probes over the dot
