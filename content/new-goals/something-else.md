@@ -20,8 +20,8 @@ In addition to the ideas listed here, there's also others mentioned in the
 [UniWiki 'EVE Careers 101'](http://wiki.eveuniversity.org/EVE_Careers_101)
 article, not to mention countless other possible ways to play.
 
-{{% figure src="https://i.imgur.com/pDDmZGx.jpg" %}}
+{{% figure src="/images/wtd.jpg" %}}
 
-Image too small? Here's the [full-size version](https://i.imgur.com/pDDmZGx.jpg).
+Image too small? Here's the [full-size version](/images/wtd.jpg).
 
 **Use your imagination: how will you make your mark on the EVE universe?**

@@ -3,3 +3,14 @@
     display: none;
   }
 }
+
+kbd {
+  padding: 1px 5px;
+  border: 2px outset #cb9;
+  border-radius: 4px;
+  margin: 0px 3px;
+}
+
+b, strong, label, th {
+  font-weight: 500;
+}
