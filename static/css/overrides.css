@@ -14,3 +14,8 @@ kbd {
 b, strong, label, th {
   font-weight: 500;
 }
+
+video {
+  margin: 0 auto;
+  display: block;
+}
