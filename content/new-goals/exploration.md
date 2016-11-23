@@ -38,6 +38,9 @@ If exploring in dangerous space, you may also want to read up on how to
 [create safespot bookmarks](http://wiki.eveuniversity.org/Bookmarks#Safe_Spots)
 and use your [directional scanner](http://wiki.eveuniversity.org/Directional_Scanner_Guide).
 
+If you're having trouble with the scanning interface,
+try looking through our [scanning guide](/reference/scanning).
+
 {{% notice info %}}
 You will notice that many exploration guides mention cloaking devices. Alpha
 clones aren't able to use cloaking devices, which means you will be a bit more
