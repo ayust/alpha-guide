@@ -25,7 +25,7 @@ containers found in Data and Relic sites and retrieve their valuable contents.
 
 ### Defenses
 
-This ship mounts a `Medium Shield Extender I` to increase its shield HP.
+This ship mounts a `Small Shield Extender I` to increase its shield HP.
 The additional HP should rarely be required, as the ship should be avoiding combat,
 but may help deflect some stray shots will you escape.
 
