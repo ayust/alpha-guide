@@ -32,6 +32,13 @@ The reusable `Hornet I` combat drone can be launched to fly independently to dis
 dealing Kinetic damage to them.  Remember to order your drone to return to your
 Drone Bay before warping, or if it is taking damage from enemy fire.
 
+{{% notice info %}}
+To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
+We recommend you use some of the skill points from the Mini Skill Injector
+given in the tutorial to train these skills, as they will be useful in many ships.
+You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% /notice %}}
+
 Additionally, the Ibis fits a `Magnetic Field Stabilizer I` in a low slot.
 This passively increases the damage output and rate of fire of its railguns.
 
