@@ -27,6 +27,8 @@ books, some modules, and a good chunk of isk.
  * In mission 4 of 10, note that ore must be mined from the mission site to complete all mission objectives.
    Using ore mined from other asteroid belts, or previous mission steps, won't be enough to finish it.
  * In mission 9 of 10, make sure that you have both a mining laser and a weapon fit to your ship.
-   Having only one or the other will be insufficient to complete the mission.
+   Having only one or the other will be insufficient to complete the mission. Also, to complete the mission
+   you will need to loot the Production Assistant out of the cargo container (NOT the wreck) that spawns after
+   destroying the pirate.
  * In mission 10 of 10, the minerals you will need come from a variety of different ores.
    See the [EVE University page on Asteroids and Ore](http://wiki.eveuniversity.org/Asteroids_and_Ore#Asteroid_distribution) for the locations of the appropriate ores.  Note that Zydrine cannot be obtained from high-security asteroids, except in randomly-spawning Ore anomalies.  It may be quickest and easiest to simply buy the rarer minerals from the Market.
