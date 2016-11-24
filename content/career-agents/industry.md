@@ -24,8 +24,6 @@ books, some modules, and a good chunk of isk.
  * In mission 1 of 10, note that the Veldspar must be mined from the mission site, not a regular asteroid belt or the market.
  * In mission 2 of 10, note that the Veldspar must be in the station's Item Hangar,
    not your ship's Cargo Hold, before it can be Reprocessed.
- * In mission 3 of 10, the `1MN Civilian Afterburner I Blueprint` must be purchased from the Market.
-   It should cost 20,000 ISK.  See the [Use the Market](/market/) section if you're having trouble.
  * In mission 4 of 10, note that ore must be mined from the mission site to complete all mission objectives.
    Using ore mined from other asteroid belts, or previous mission steps, won't be enough to finish it.
  * In mission 9 of 10, make sure that you have both a mining laser and a weapon fit to your ship.
