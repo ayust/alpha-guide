@@ -7,7 +7,7 @@ weight = 1
 prev = "/upgrading-ships/caldari/"
 +++
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118275/svg/118275-alpha-clone---starter-venture.svg?privatetoken=7228446812619669504"><a href="https://o.smium.org/loadout/private/118275/7228446812619669504">View Alpha Clone - Starter Venture on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>
 
 {{% notice info %}}
 Mining frigates are primarily intended for gathering resources rather than combat.
@@ -15,7 +15,7 @@ As such, this ship's turret hardpoints are used for mining lasers rather than we
 leaving it **unarmed**.
 For self-defense in asteroid belts, 
 or for missions where destroying ships is required in addition to mining ore,
-it is highly recommended to train for the use of Drones (see "Future Improvements" below).
+it is highly recommended to train for the use of Drones.
 Otherwise, if you find yourself forced into combat, your best option is to simply run away.
 {{% /notice %}}
 
@@ -37,6 +37,16 @@ This fit uses a `Medium Shield Extender I` in one of the mid slots to give it ad
 providing it more time to react and escape in case of attack.
 
 It also fits a `Damage Control I` in a low slot to increase its resistance to damage.
+
+The Venture also includes two `Hobgoblin I` drones to defend itself against weak NPC pirates.
+Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
+
+{{% notice info %}}
+To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I.
+We recommend you use some of the skill points from the Mini Skill Injector
+given in the tutorial to train these skills, as they will be useful in many ships.
+You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% /notice %}}
 
 ### Utility
 

@@ -7,7 +7,7 @@ weight = 1
 prev = "/upgrading-ships/minmatar/"
 +++
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118525/svg/118525-alpha-clone---starter-breacher.svg?privatetoken=3731824593036378112"><a href="https://o.smium.org/loadout/private/118525/3731824593036378112">View Alpha Clone - Starter Breacher on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119457/svg/119457-alpha-clone---starter-breacher-wdrones.svg?privatetoken=337734242219851776"><a href="https://o.smium.org/loadout/private/119457/337734242219851776">View Alpha Clone - Starter Breacher w/Drones on Osmium</a></object>
 
 {{% notice info %}}
 This is a missile ship.  You will need to train at least **`Rockets` Level I** 
@@ -24,6 +24,16 @@ The launchers are loaded with `Nova Rocket` ammunition.
 Its Explosive damage is well-suited to defeating the Angel pirates
 most commonly encountered in Minmatar space.
 You should keep about 1000 spare rockets in your cargohold.
+
+The Breacher also includes two `Warrior I` combat drones.
+Remember to recall your drone before warping, or if they begin taking damage from enemy fire.
+
+{{% notice info %}}
+To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I.
+We recommend you use some of the skill points from the Mini Skill Injector
+given in the tutorial to train these skills, as they will be useful in many ships.
+You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% /notice %}}
 
 Additionally, this fit uses a `Ballistic Control System I` in a low slot.
 This passively increases the damage output and rate of fire of its rockets.

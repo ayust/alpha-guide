@@ -7,7 +7,7 @@ weight = 1
 prev = "/upgrading-ships/amarr/"
 +++
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118268/svg/118268-alpha-clone---starter-tormentor.svg?privatetoken=7458695229059629056"><a href="https://o.smium.org/loadout/private/118268/7458695229059629056">View Alpha Clone - Starter Tormentor on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119455/svg/119455-alpha-clone---starter-tormentor-wdrones.svg?privatetoken=3966349955089563648"><a href="https://o.smium.org/loadout/private/119455/3966349955089563648">View Alpha Clone - Starter Tormentor w/Drones on Osmium</a></object>
 
 ### Weapons
 
@@ -19,6 +19,16 @@ The pulse lasers are each loaded with a single `Multifrequency S` crystal.
 These basic crystals will never burn out, so you will only need to buy three.
 Multifrequency is the shortest-ranged basic crystal, but does the most damage.
 Since you're going to be fighting at close range anyway, more damage is good.
+
+The Tormentor also includes two `Hobgoblin I` and two `Acolyte I` combat drones.
+Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
+
+{{% notice info %}}
+To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I.
+We recommend you use some of the skill points from the Mini Skill Injector
+given in the tutorial to train these skills, as they will be useful in many ships.
+You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% /notice %}}
 
 Additionally, this fit uses a `Heat Sink I` in a low slot.
 This passively increases the damage output and rate of fire of its lasers.

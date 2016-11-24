@@ -7,7 +7,7 @@ weight = 1
 prev = "/upgrading-ships/gallente/"
 +++
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118512/svg/118512-alpha-clone---starter-incursus.svg?privatetoken=9194830677797765120"><a href="https://o.smium.org/loadout/private/118512/9194830677797765120">View Alpha Clone - Starter Incursus on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119456/svg/119456-alpha-clone---starter-incursus-wdrone.svg?privatetoken=4346902259586564096"><a href="https://o.smium.org/loadout/private/119456/4346902259586564096">View Alpha Clone - Starter Incursus w/Drone on Osmium</a></object>
 
 ### Weapons
 
@@ -22,6 +22,16 @@ As blasters require you to be in knife-fighting range anyway,
 losing a few more meters will hardly be noticed,
 and the extra damage will be appreciated once you come to grips with your foe.
 You should keep about 2000 spare rounds in your cargohold.
+
+The Incursus also includes one `Hobgoblin I` combat drone.
+Remember to recall your drone before warping, or if they begin taking damage from enemy fire.
+
+{{% notice info %}}
+To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
+We recommend you use some of the skill points from the Mini Skill Injector
+given in the tutorial to train these skills, as they will be useful in many ships.
+You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% /notice %}}
 
 Additionally, this fit uses a `Magnetic Field Stabilizer I` in one of its low slots.
 This passively increases the damage output and rate of fire of its blasters.
