@@ -72,3 +72,16 @@ Right-click your weapon, click "Show Info", and see "Used With" for ammo types y
 If you don't already have them, buy some off the Market.
 Once you have some in your cargo hold, click-and-drag it over your gun's icon,
 or while in space, right-click the gun's icon in your HUD and select the ammo type to load.
+
+#### Why is this wreck/can yellow?
+A yellow wreck or cargo container does not belong to you, and taking from it is considered stealing.
+Doing so will flag you as a "Suspect" for 15 minutes, letting other players shoot at you legally
+without CONCORD (the spacecops) interfering.  By default, your ship's Safeties are set to prevent you
+from performing illegal actions such as looting yellow wrecks.
+
+#### Why can't I sell my items?
+Make sure they're in the station's Item Hangar, not your ship's cargo hold.
+Also make sure there's buy orders that'll accept sales from your station - 
+right-click and "View Market Details", and look for green-highlighted orders
+in the "Buyers" column.  If it's still not working, check to make sure the
+"Minimum Volume" on the green order isn't larger than the amount you're trying to sell.
