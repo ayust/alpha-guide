@@ -76,7 +76,7 @@ or while in space, right-click the gun's icon in your HUD and select the ammo ty
 #### Why is this wreck/can yellow?
 A yellow wreck or cargo container does not belong to you, and taking from it is considered stealing.
 Doing so will flag you as a "Suspect" for 15 minutes, letting other players shoot at you legally
-without CONCORD (the spacecops) interfering.  By default, your ship's Safeties are set to prevent you
+without CONCORD (the spacecops) interfering.  By default, your ship's Safety is set to prevent you
 from performing illegal actions such as looting yellow wrecks.
 
 #### Why can't I sell my items?
