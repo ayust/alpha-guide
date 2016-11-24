@@ -47,7 +47,7 @@ to fly around between the reward "cans" more easily.
 First, you'll need to find a Cosmic Signature.  Open your probe scanner.
 You can press <kbd>Alt</kbd>+<kbd>P</kbd>, or get to it through the Scanners button on your HUD:
 
-<video src="/images/openscanner.webm" autoplay loop>
+<video src="/images/openscanner.webm" autoplay loop muted>
 
 That'll open your Probe Scanner window.  If you're in a starter system
 (for example, if you're looking at this for help with Exploration (3 of 5)),
@@ -59,7 +59,7 @@ any probes to find.  They're a separate kind of site, and not what we're after.
 
 To filter out this Cosmic Anomaly clutter, use the filter options by "Scan Results":
 
-<video src="/images/filteranoms.webm" autoplay loop>
+<video src="/images/filteranoms.webm" autoplay loop muted>
 
 Now, open your Starmap to see a map of the system:
 
@@ -70,9 +70,9 @@ like a bit of a confusing mess.  You can click on a Cosmic Signature from the li
 and hide the others.  (It doesn't matter which Cosmic Signature you start with - there's
 no way to tell them apart at this point in the process.)
 
-<video src="/images/selectsig.webm" autoplay loop>
+<video src="/images/selectsig.webm" autoplay loop muted>
 
-<video src="/images/selectsigstarmap.webm" autoplay loop>
+<video src="/images/selectsigstarmap.webm" autoplay loop muted>
 
 Now, click one of the buttons at the top of the Probe Scanner to deploy your Probes.
 I prefer to use the Pinpoint Formation at all times; you can create your own formations,
@@ -81,7 +81,7 @@ Clicking the button will deploy a probe formation centered on the system's star:
 
 {{% figure src="/images/launchprobes.png" %}}
 
-<video src="/images/launchprobesstarmap.webm" autoplay loop>
+<video src="/images/launchprobesstarmap.webm" autoplay loop muted>
 
 The actual probes will be floating in space next to your ship - 
 their location on the Starmap indicates their planned location for the next scan.
@@ -131,7 +131,7 @@ not just in a straight line behind it from your camera position.
 You can either click-and-drag a face of the cube to move in a plane, or click-and-drag
 an arrow to move in a straight line.
 
-<video src="/images/centerprobes.webm" autoplay loop>
+<video src="/images/centerprobes.webm" autoplay loop muted>
 
 As mentioned earlier, the signature is probably not at the red X - so we want to expand our probes'
 scan area, to cover as much of the sphere's area as possible (ideally, the entire thing).
@@ -153,7 +153,7 @@ Either way, it can be worth swivelling the camera on the Starmap to ensure you'r
 Note that you probably want the **overlapping area at the center** of your formation to be
 covering the whole sphere, not just one probe's area - the reason will become clear later.
 
-<video src="/images/expandprobes.webm" autoplay loop>
+<video src="/images/expandprobes.webm" autoplay loop muted>
 
 Once your probes are in position and set to the proper radius, click "Analyze", at the upper left of
 your starmap.  Your probes will warp to their designated positions, and begin the scan,
@@ -242,11 +242,11 @@ to recenter your camera on the estimated position, by double-clicking it, and zo
 
 Remember to check the position from multiple angles!
 
-<video src="/images/zoominenhance.webm" autoplay loop>
+<video src="/images/zoominenhance.webm" autoplay loop muted>
 
 ### Lather, Rinse, Repeat
 
-At this point, the signature to 100% is just a matter of repeating the steps you already know:
+At this point, getting the signature to 100% is just a matter of repeating the steps you already know:
 
  * Isolate the signature to a solid, single-dot hit
  * Re-center probes over the dot
@@ -288,13 +288,13 @@ strength in the refining and enhancement of the final hit.
  This will rescale the entire formation more tightly around the center.
  Try going in about halfway from their starting positions.  Adds about 5-10% strength.
  
-<video src="/images/tighterprobes.webm" autoplay loop>
+<video src="/images/tighterprobes.webm" autoplay loop muted>
  
  * Hold Shift and it'll show the location of each individual probe in the formation, rather
  than just the formation's center.  Rearrange them into a cube with its corners surrounding the signature
  (and no probe directly on top of it at the center).  Adds about 5-10% strength.
  
-<video src="/images/timecube.webm" autoplay loop>
+<video src="/images/timecube.webm" autoplay loop muted>
  
  * Or, you can do both.  Adds about 10-15% strength.
 
@@ -304,7 +304,7 @@ to eyeball it at longer distance.  Once you've made it, consider saving the form
 mouse over the third button near "Analyze" in your Probe Scanner, click the "Save Current Formation"
 button that appears above, select a name, and save.
 
-<video src="/images/saveformation.webm" autoplay loop>
+<video src="/images/saveformation.webm" autoplay loop muted>
 
 ### Tips And Tricks
 
