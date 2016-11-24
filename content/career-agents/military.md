@@ -51,10 +51,7 @@ We recommend following the [UniWiki Advanced Military chain guide]
 this mission chain.
 
 As you complete this chain, you'll earn some new ships (including a Destroyer),
-some skill books, some modules, and a decent chunk of ISK. At the end you'll also
-be given a Letter item which you can use to join a Faction Warfare NPC corporation
-if you decide that you want to take part in Faction Warfare. Don't rush off to do
-that quite yet though.
+some skill books, some modules, and a decent chunk of ISK.
 
 #### Common Stumbling Blocks
 
