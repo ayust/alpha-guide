@@ -21,6 +21,7 @@ books, some modules, and a good chunk of isk.
 
 #### Common Stumbling Blocks
 
+ * In mission 1 of 10, note that the Veldspar must be mined from the mission site, not a regular asteroid belt or the market.
  * In mission 2 of 10, note that the Veldspar must be in the station's Item Hangar,
    not your ship's Cargo Hold, before it can be Reprocessed.
  * In mission 3 of 10, the `1MN Civilian Afterburner I Blueprint` must be purchased from the Market.
