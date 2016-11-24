@@ -9,9 +9,7 @@ prev = "/rookie-fitting/"
 
 The Amarr corvette is the Impairor.
 
-<object type="image/svg+xml"
-  data="https://o.smium.org/api/convert/118270/svg/118270-alpha-impairor.svg?privatetoken=2365660861286055936">
-<a href="https://o.smium.org/loadout/private/118270/2365660861286055936">View Alpha Impairor on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">View Alpha Impairor w/Drone on Osmium</a></object>
 
 ### Weapons
 
@@ -25,6 +23,10 @@ The pulse lasers are each loaded with a single `Multifrequency S` crystal.
 These basic crystals will never burn out, so all you need to buy is two.
 Multifrequency is the shortest-ranged basic crystal, but does the most damage.
 Since you're going to be fighting a close range anyway, more damage is good.
+
+The reusable `Acolyte I` combat drone can be launched to fly independently to distant enemies,
+dealing EM damage to them.  Remember to order your drone to return to your
+Drone Bay before warping, or if it is taking damage from enemy fire.
 
 ### Defenses
 

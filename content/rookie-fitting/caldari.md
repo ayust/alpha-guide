@@ -9,9 +9,7 @@ prev = "/rookie-fitting/"
 
 The Caldari corvette is the Ibis.
 
-<object type="image/svg+xml" 
-	data="https://o.smium.org/api/convert/118274/svg/118274-alpha-ibis.svg?privatetoken=7738987711079383040">
-	<a href="https://o.smium.org/loadout/private/118274/7738987711079383040">View Alpha Ibis on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119446/svg/119446-alpha-ibis-wdrone.svg?privatetoken=3595180998788120576"><a href="https://o.smium.org/loadout/private/119446/3595180998788120576">View Alpha Ibis w/Drone on Osmium</a></object>
 
 ### Weapons
 
@@ -29,6 +27,10 @@ They are the shortest-range hybrid ammunition, but inflict the most damage.
 When used in combination with the long-range railguns, they allow you to fight effectively at medium range.
 You will usually want to command your ship to orbit at about 2500m from your target.
 Being too near or too far from a moving target may cause your shots to miss.
+
+The reusable `Hornet I` combat drone can be launched to fly independently to distant enemies,
+dealing Kinetic damage to them.  Remember to order your drone to return to your
+Drone Bay before warping, or if it is taking damage from enemy fire.
 
 Additionally, the Ibis fits a `Magnetic Field Stabilizer I` in a low slot.
 This passively increases the damage output and rate of fire of its railguns.

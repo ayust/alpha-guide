@@ -21,3 +21,10 @@ for your racial rookie ship that you can use without having to train more skills
 
 [Amarr](/rookie-fitting/amarr/) / [Caldari](/rookie-fitting/caldari/) /
 [Gallente](/rookie-fitting/gallente/) / [Minmatar](/rookie-fitting/minmatar/)
+
+{{% notice info %}}
+We recommend you use some of the skill points from the Mini Skill Injector
+used in the tutorial to train the skills `Drones` III and `Light Drone Operation` I.
+This will allow you to use a Combat Drone in your corvette.
+You will need to purchase a skillbook from the Market to train Light Drone Operation.
+{{% /notice %}}

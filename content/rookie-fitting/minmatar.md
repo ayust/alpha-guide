@@ -9,9 +9,7 @@ prev = "/rookie-fitting/"
 
 The Minmatar corvette is the Reaper.
 
-<object type="image/svg+xml"
-  data="https://o.smium.org/api/convert/118272/svg/118272-alpha-reaper.svg?privatetoken=2740732942132183040">
-<a href="https://o.smium.org/loadout/private/118272/2740732942132183040">View Alpha Reaper on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">View Alpha Reaper w/Drone on Osmium</a></object>
 
 ### Weapons
 
@@ -26,6 +24,10 @@ extra ammo in your cargo hold to make sure you don't run out while fighting.
 
 Fusion is one of the shorter-ranged projectile ammo types, but does more explosive damage.
 Since you're going to be fighting a close range anyway, more damage is good.
+
+The reusable `Warrior I` combat drone can be launched to fly independently to distant enemies,
+dealing Explosive damage to them.  Remember to order your drone to return to your
+Drone Bay before warping, or if it is taking damage from enemy fire.
 
 The `Gyrostabilizer I` in one of the low slots improves your projectile turrets, increasing
 their damage per shot and rate of fire.

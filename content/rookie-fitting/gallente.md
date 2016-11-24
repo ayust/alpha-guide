@@ -9,9 +9,7 @@ prev = "/rookie-fitting/"
 
 The Gallente corvette is the Velator.
 
-<object type="image/svg+xml" 
-data="https://o.smium.org/api/convert/118273/svg/118273-alpha-velator.svg?privatetoken=614629525367554048">
-<a href="https://o.smium.org/loadout/private/118273/614629525367554048">View Alpha Velator on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119448/svg/119448-alpha-velator-wdrones.svg?privatetoken=4210567194314014720"><a href="https://o.smium.org/loadout/private/119448/4210567194314014720">View Alpha Velator w/Drones on Osmium</a></object>
 
 ### Weapons
 
@@ -29,6 +27,10 @@ They are the shortest-range hybrid ammunition, but inflict the most damage.
 When used in combination with the long-range railguns, they allow you to fight effectively at medium range.
 You will usually want to command your ship to orbit at about 2500m from your target.
 Being too near or too far from a moving target may cause your shots to miss.
+
+The reusable `Hobgoblin I` combat drones can be launched to fly independently to distant enemies,
+dealing Thermal damage to them.  Remember to order your drones to return to your
+Drone Bay before warping, or if they are taking damage from enemy fire.
 
 ### Defenses
 
