@@ -45,7 +45,9 @@ will not have the level of skills required to efficiently refine ore into the fu
 value equivalent of minerals.
 
 #### What are the different types of ore and where can I find them?
-Cerlestes has an [excellent ore chart](http://ore.cerlestes.de/#site:ore). For even
+Here's [a diagram of where to find ores](/images/empireore.png).
+Cerlestes also has an [excellent ore chart](http://ore.cerlestes.de/#site:ore) for finding
+out what kinds of ore are most profitable to mine, or where to get a particular minearal. For even
 more detail you can look at the
 [UniWiki 'Asteroids and Ore' article](http://wiki.eveuniversity.org/Asteroids_and_Ore).
 
