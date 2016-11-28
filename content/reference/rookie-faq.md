@@ -59,7 +59,7 @@ or [going to an asteroid anomaly](https://i.imgur.com/CSMNCc7.png) if there are 
 listed in the Probe Scanner window (<kbd>Alt</kbd>-<kbd>P</kbd>).
 
 #### What are the different factions of npc enemies and how do they differ?
-The [UniWiki 'NPC Damage Types'](http://wiki.eveuniversity.org/NPC_Damage_Types) article
+The [UniWiki 'NPC Damage Types' article](http://wiki.eveuniversity.org/NPC_Damage_Types)
 has a chart of the various NPC factions and their differences, including what damage types
 they do and what damage types are best to shoot at them.
 
