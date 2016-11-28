@@ -58,6 +58,11 @@ to another system if all of the belts in your current system have been mined out
 or [going to an asteroid anomaly](https://i.imgur.com/CSMNCc7.png) if there are any
 listed in the Probe Scanner window (<kbd>Alt</kbd>-<kbd>P</kbd>).
 
+#### What are the different factions of npc enemies and how do they differ?
+The [UniWiki 'NPC Damage Types'](http://wiki.eveuniversity.org/NPC_Damage_Types) article
+has a chart of the various NPC factions and their differences, including what damage types
+they do and what damage types are best to shoot at them.
+
 #### How do I bookmark a point in space rather than a specific thing?
 Press <kbd>Ctrl</kbd>-<kbd>B</kbd> to bring up the bookmark creation dialog for your
 current position in space.
