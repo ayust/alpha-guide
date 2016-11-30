@@ -61,7 +61,8 @@ listed in the Probe Scanner window (<kbd>Alt</kbd>-<kbd>P</kbd>).
 #### What are the different factions of npc enemies and how do they differ?
 The [UniWiki 'NPC Damage Types' article](http://wiki.eveuniversity.org/NPC_Damage_Types)
 has a chart of the various NPC factions and their differences, including what damage types
-they do and what damage types are best to shoot at them.
+they do and what damage types are best to shoot at them. Alternatively, you can consult
+[this image guide](https://i.imgur.com/oRFky7H.png).
 
 #### How do I bookmark a point in space rather than a specific thing?
 Press <kbd>Ctrl</kbd>-<kbd>B</kbd> to bring up the bookmark creation dialog for your
