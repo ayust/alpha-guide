@@ -54,7 +54,7 @@ This ship is fit with two `Small Anti-EM Screen Reinforcer I` rigs and one
 ### How To Fly
 
 This is designed as a mid-range fit.  Try to hang back from your targets
-at a range of about 7500m to 1000m, locking and destroying them in quick succession.
+at a range of about 7500m to 10000m, locking and destroying them in quick succession.
 If targets are getting closer than that, use your Afterburner
 to pull back to a longer range.
 
