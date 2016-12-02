@@ -39,7 +39,7 @@ catch enemy ships and also makes your ship harder to hit.
 
 The `Small Capacitor Booster I` can provide your ship with an instant injection of Capacitor.
 This module must be fueled by charges, which act as consumable batteries.  Load it with 
-`Cap Booster 200` bought from the market, and bring along as many spares as you can carry (about 10).
+`Cap Booster 200` bought from the market, and bring along as many spares as you can carry (about 30-50).
 
 ### Rigs
 
