@@ -15,7 +15,7 @@ This is a missile ship.  You will need to train at least **`Rockets` Level I** b
 
 ### Weapons
 
-The Corax uses 3 `Rocket Launcher I` launchers.
+The Corax uses 7 `Rocket Launcher I` launchers.
 Rockets are the "short-ranged" missile system, dealing more damage with better application to small ships
 than the longer-ranged light missiles.  They also fire much more rapidly.
 

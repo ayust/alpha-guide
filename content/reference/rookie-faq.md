@@ -45,7 +45,9 @@ will not have the level of skills required to efficiently refine ore into the fu
 value equivalent of minerals.
 
 #### What are the different types of ore and where can I find them?
-Cerlestes has an [excellent ore chart](http://ore.cerlestes.de/#site:ore). For even
+Here's [a diagram of where to find ores](/images/empireore.png).
+Cerlestes also has an [excellent ore chart](http://ore.cerlestes.de/#site:ore) for finding
+out what kinds of ore are most profitable to mine, or where to get a particular minearal. For even
 more detail you can look at the
 [UniWiki 'Asteroids and Ore' article](http://wiki.eveuniversity.org/Asteroids_and_Ore).
 
@@ -55,6 +57,12 @@ highly-populated systems individual belts may get mined out quickly - try travel
 to another system if all of the belts in your current system have been mined out,
 or [going to an asteroid anomaly](https://i.imgur.com/CSMNCc7.png) if there are any
 listed in the Probe Scanner window (<kbd>Alt</kbd>-<kbd>P</kbd>).
+
+#### What are the different factions of npc enemies and how do they differ?
+The [UniWiki 'NPC Damage Types' article](http://wiki.eveuniversity.org/NPC_Damage_Types)
+has a chart of the various NPC factions and their differences, including what damage types
+they do and what damage types are best to shoot at them. Alternatively, you can consult
+[this image guide](https://i.imgur.com/oRFky7H.png).
 
 #### How do I bookmark a point in space rather than a specific thing?
 Press <kbd>Ctrl</kbd>-<kbd>B</kbd> to bring up the bookmark creation dialog for your

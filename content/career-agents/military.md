@@ -51,10 +51,7 @@ We recommend following the [UniWiki Advanced Military chain guide]
 this mission chain.
 
 As you complete this chain, you'll earn some new ships (including a Destroyer),
-some skill books, some modules, and a decent chunk of ISK. At the end you'll also
-be given a Letter item which you can use to join a Faction Warfare NPC corporation
-if you decide that you want to take part in Faction Warfare. Don't rush off to do
-that quite yet though.
+some skill books, some modules, and a decent chunk of ISK.
 
 #### Common Stumbling Blocks
 
@@ -65,6 +62,7 @@ that quite yet though.
  * In mission 5 of 10, **your ship will be destroyed**.  You can use any ship;
    it must be capable of defeating at least one moderately-tough pirate.
    The mission is completable in a properly-fit Corvette, if desired.
+ * In mission 7 of 10, you can use any weapon to kill the pirate. (This is particularly useful for Caldari, who may not have yet trained the skill required for using Light Missiles.)
  * In mission 8 of 10, wait for the Fleet Commander's orders.
  * In mission 9 of 10, note that you must use a Civilian Stasis Webifier like the one provided.
    You may have acquired some Stasis Webifier Is from other missions or the Market,

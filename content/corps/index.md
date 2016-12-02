@@ -74,5 +74,5 @@ their corporation or offers to move your items. It might be a scam.
 {{% notice info %}}
 You can leave a corp that you've joined by right-clicking on your own name and choosing
 <kbd>Quit Corporation?</kbd> > <kbd>Confirm Quit Corporation</kbd>. Doing so will place
-you back into your original starter NPC corp.
+you back into an NPC corp based on your race.
 {{% /notice %}}

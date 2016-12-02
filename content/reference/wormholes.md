@@ -181,6 +181,12 @@ ship down in 15 seconds or less and will recall their probes once they've finish
 You can bind refreshing d-scan to a key in the Esc menu to make it easier to refresh.
 {{% /notice %}}
 
+{{% notice note %}}
+If you're jumping into a wormhole directly from highsec, there's another option:
+instead of creating a safespot, you can do your scanning from directly on the
+wormhole exit itself. If another ship shows up, you just jump back to highsec.
+{{% /notice %}}
+
 Now it's time to launch your own probes to start scanning the signatures in the system.
 Note that your own probes will appear on your d-scan listing, so don't be spooked by
 probes that belong to yourself - but make sure to watch for any additional sets of probes
