@@ -68,7 +68,7 @@ The starter fit does not use or require any rigs.
 ### How To Fly
 
 This is designed as a brawling fit.  Fly in close to your targets
-and begin orbiting them as close at about 500m, applying your web to slow them down.
+and begin orbiting them at about 500m, applying your web to slow them down.
 If having difficulty hitting small targets, you can try turning off your Afterburner,
 or using the Keep At Range command rather than orbiting, though the damage you take will increase as well.
 
