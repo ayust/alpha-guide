@@ -28,7 +28,7 @@ modules, and a good chunk of isk.
 #### Common Stumbling Blocks
 
  * In mission 3 of 10, the Secret Documents will appear in a Cargo Container after you 
-   kill the last pirate.  Make sure to loot them before you dock.  If you forgot them,
+   destroy the Runner Drone.  Make sure to loot them before you dock.  If you forgot them,
    you can return to the Mission location for up to two hours afterwards, and they will still be there.
  * In mission 4 of 10, pay attention to your Local chat channel to see when you've completed the mission.
  * In mission 5 of 10, you need to destroy the pirate.

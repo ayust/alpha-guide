@@ -26,7 +26,7 @@ some modules, and a good chunk of ISK.
 
  * In mission 2 of 10, the Black Box is inside the "Civilian Transport Ship Wreck"
    near the NPC pirate.  Use the provided Civilian Salvager module to access the wreck,
-   then loot the Black Box from it and return to your agent.  (A "Salvager I" module will not work.)
+   then loot the Black Box from it and return to your agent.
  * In mission 3 of 10, you must mine Veldspar from the mission site to complete the mission,
    even if you already have sufficient Tritanium.  Mining from an asteroid belt will not complete the mission.
  * In mission 6 of 10, the Tracking Computer I is most easily acquired from the Market.

@@ -34,6 +34,10 @@ books, some modules, and a good chunk of isk.
  * In mission 9 of 10, make sure that you have both a mining laser and a weapon fit to your ship.
    Having only one or the other will be insufficient to complete the mission. Also, to complete the mission
    you will need to loot the Production Assistant out of the cargo container (NOT the wreck) that spawns after
-   destroying the pirate.
+   destroying the second pirate.  If they are not showing up, try deactivating and re-engaging
+   your mining laser(s).
  * In mission 10 of 10, the minerals you will need come from a variety of different ores (see the
-   note on mission 6 of 10).  Note that Zydrine cannot be obtained from high-security asteroids, except in randomly-spawning Ore anomalies.  It may be quickest and easiest to simply buy the rarer minerals from the Market.
+   note on mission 6 of 10).  Note that Zydrine cannot be obtained from high-security asteroids,
+   except in randomly-spawning Ore anomalies.  It may be quickest and easiest to simply buy
+   the rarer minerals from the Market.  Alternately, you can buy the needed ship from the Market directly.
+   You are also given a copy of the needed ship upon accepting Exploration career agent mission 2 of 5.
