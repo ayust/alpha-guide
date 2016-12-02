@@ -57,6 +57,8 @@ The starter fit does not use or require any rigs.
 
 This is designed as a brawling fit.  Fly in close to your targets
 and begin orbiting them at about 500m, applying your web to slow them down.
+If having difficulty hitting small targets, you can try turning off your Afterburner,
+or using the Keep At Range command rather than orbiting, though the damage you take will increase as well.
 
 Your ship has high speed, but is relatively fragile.  Keep an eye on your hitpoints,
 and consider warping out or pulling range from the enemy guns if your armor repairer
