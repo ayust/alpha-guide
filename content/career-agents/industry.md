@@ -21,11 +21,12 @@ books, some modules, and a good chunk of isk.
 
 #### Common Stumbling Blocks
 
- * In mission 1 of 10, note that the Veldspar must be mined from the mission site, not a regular asteroid belt or the market.
+ * In mission 1 of 10, note that the Veldspar must be mined from the mission site, 
+   not mined from a regular asteroid belt or bought off the market.
  * In mission 2 of 10, note that the Veldspar must be in the station's Item Hangar,
    not your ship's Cargo Hold, before it can be Reprocessed.
- * In mission 4 of 10, note that ore must be mined from the mission site to complete all mission objectives.
-   Using ore mined from other asteroid belts, or previous mission steps, won't be enough to finish it.
+ * In mission 4 of 10, note that you must warp to the destination given by your agent and destroy 
+   the Rogue Drones found there to complete the mission, even if you already have sufficient Tritanium.
  * In mission 9 of 10, make sure that you have both a mining laser and a weapon fit to your ship.
    Having only one or the other will be insufficient to complete the mission. Also, to complete the mission
    you will need to loot the Production Assistant out of the cargo container (NOT the wreck) that spawns after
