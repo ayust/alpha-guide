@@ -18,7 +18,8 @@ any hostile NPCs you destroy along the way.
 If you decide to pursue mission running as a source of income, you'll
 want to build up standing with a particular NPC corporation in order
 to get access to higher tiers of mission agents (which can then give
-you harder missions with better rewards).
+you harder missions with better rewards).  Training the skills `Social`
+and `Connections` will grant you quicker access to higher-level missions.
 
 In order to tackle these harder missions you'll also want to continue
 upgrading to larger classes of ships such as cruisers and battlecruisers.
