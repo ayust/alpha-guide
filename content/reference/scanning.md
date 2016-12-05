@@ -49,6 +49,11 @@ You can press <kbd>Alt</kbd>+<kbd>P</kbd>, or get to it through the Scanners but
 
 <video src="/images/openscanner.webm" autoplay loop muted>
 
+{{% notice note %}}
+Internet Explorer users, [install the WebM codec](https://tools.google.com/dlpage/webmmf/)
+if the above image isn't animated.
+{{% /notice %}}
+
 That'll open your Probe Scanner window.  If you're in a starter system
 (for example, if you're looking at this for help with Exploration (3 of 5)),
 you probably have a *lot* of things showing; in other systems, it'll be rather more sparse.
