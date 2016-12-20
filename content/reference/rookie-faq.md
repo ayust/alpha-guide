@@ -93,3 +93,11 @@ Also make sure there's buy orders that'll accept sales from your station -
 right-click and "View Market Details", and look for green-highlighted orders
 in the "Buyers" column.  If it's still not working, check to make sure the
 "Minimum Volume" on the green order isn't larger than the amount you're trying to sell.
+
+#### Why can't I fit this weapon into an open high slot?
+Weapons (with only a few exceptions) require both an empty high slot _and_ a specific type
+of hardpoint to mount. Most weapons require turret hardpoints, except for missile, torpedo,
+and rocket launchers which require launcher hardpoints. Each ship hull has a specific number
+of hardpoints (most only have one type, some have both). You can view the number of hardpoints
+for a hull via the Show Info window under the Fitting tab, or by looking for the smaller circles
+by turret and launcher icons above the high slots in the fitting window.
