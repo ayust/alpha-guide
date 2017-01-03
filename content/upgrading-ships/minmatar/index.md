@@ -1,10 +1,10 @@
-+++  
-title = "Minmatar Ships"  
-toc = true  
-date = "2016-11-18T18:56:39-08:00"  
-weight = 1  
-next = "/new-goals/"  
-prev = "/upgrading-ships/"  
++++
+title = "Minmatar Ships"
+toc = true
+date = "2016-11-18T18:56:39-08:00"
+weight = 1
+next = "/new-goals/"
+prev = "/upgrading-ships/"
 +++
 
 キャリアエージェントミッションをこなす中で、エージェントたちは次に挙げる艦船のうちいくつかを支給してくれたことでしょう。 これらの船はあなたが乗っているルーキーシップよりも強力です。 そのうえ性能が特化されていて、それぞれある特定の目的のために作られています。
@@ -21,15 +21,15 @@ The Slasher is the Minmatar fast-attack frigate. 極めて機動性が高く、�
 
 ##### Rifter
 
-The Rifter is the Minmatar heavy attack frigate. It gets substantial bonuses to its projectile turrets,  
-allowing it to deal good damage. It is otherwise well-rounded,  
+The Rifter is the Minmatar heavy attack frigate. It gets substantial bonuses to its projectile turrets,
+allowing it to deal good damage. It is otherwise well-rounded,
 with decent speed and defenses, and its slot layout allows it a high degree of flexibility. However, that flexibility means it does not excel strongly in any one aspect.
 
 [Here is a recommended fit for the Rifter.](/upgrading-ships/minmatar/rifter/)
 
 ##### Breacher
 
-The Breacher is the Minmatar heavy combat frigate. Its bonuses to shield boosters allow it to shrug off a great deal of incoming damage,  
+The Breacher is the Minmatar heavy combat frigate. Its bonuses to shield boosters allow it to shrug off a great deal of incoming damage,
 it can deal acceptable damage with its rocket launchers, and it has good speed. However, its relatively weak powergrid can make it difficult to fit well.
 
 [Here is a recommended fit for the Breacher.](/upgrading-ships/minmatar/breacher/)
@@ -42,17 +42,17 @@ The Probe is the Minmatar exploration frigate. スキャナープローブと遺
 
 ##### Burst
 
-The Burst is the Minmatar logistics frigate.  
-It has potent bonuses to remote shield booster modules,  
-allowing it to "heal" allied ships in battle.  
+The Burst is the Minmatar logistics frigate.
+It has potent bonuses to remote shield booster modules,
+allowing it to "heal" allied ships in battle.
 However, it is not very useful to a solo pilot.
 
 For this reason, we recommend that you do not use the Burst for now.
 
 ##### Vigil
 
-The Vigil is the Minmatar electronic warfare frigate. It has powerful bonuses to the effectiveness of target painter modules,  
-allowing it to render enemies substantially easier for its allies to hit. However, it is extremely fragile and has little direct combat capability,   
+The Vigil is the Minmatar electronic warfare frigate. It has powerful bonuses to the effectiveness of target painter modules,
+allowing it to render enemies substantially easier for its allies to hit. However, it is extremely fragile and has little direct combat capability,
 and is not very useful to a solo pilot.
 
 For this reason, we recommend that you do not use the Vigil for now.
@@ -69,16 +69,16 @@ For this reason, we recommend that you do not use the Vigil for now.
 
 ##### Thrasher
 
-The Thrasher is one of the Minmatar destroyers, focusing on projectile turrets. Its seven hardpoints for projectile weapons have enhanced accuracy, damage and range,  
-giving it a powerful offensive punch. It is relatively fast and well-defended for a destroyer, but still slow compared to frigates,  
+The Thrasher is one of the Minmatar destroyers, focusing on projectile turrets. Its seven hardpoints for projectile weapons have enhanced accuracy, damage and range,
+giving it a powerful offensive punch. It is relatively fast and well-defended for a destroyer, but still slow compared to frigates,
 and its larger size makes it easily targeted and destroyed by larger ships. Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Thrasher.](/upgrading-ships/minmatar/thrasher/)
 
 ##### Talwar
 
-The Talwar is the other Minmatar destroyer, focusing on missiles. Its seven missile launchers get a substantial bonus to their range,  
-and it mitigates the signature penalty of Microwarpdrives,  
+The Talwar is the other Minmatar destroyer, focusing on missiles. Its seven missile launchers get a substantial bonus to their range,
+and it mitigates the signature penalty of Microwarpdrives,
 allowing it to use them to avoid incoming fire as if they were Afterburners. It is also relatively fast for a destroyer. This makes it a natural fit for long-range, high-speed "kiting" tactics with light missiles. However, its damage output is relatively low, and it is rather fragile.
 
 [Here is a recommended fit for the Talwar.](/upgrading-ships/minmatar/talwar/)
@@ -107,6 +107,6 @@ The Wreathe is one of the Minmatar industrials - a ship line focused on hauling 
 
 [Here is a recommended fit for the Wreathe.](/upgrading-ships/minmatar/wreathe/)
 
-{{% notice warning %}}  
-Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck. Be mindful of your surroundings, and try to keep your cargo's value under about 20 million ISK. 
+{{% notice warning %}}
+Industrials are a favorite target of many players - and even in high-security space, where CONCORD will appear to punish illegal attacks, they will usually arrive *after* your attackers have reduced your ship to a flaming wreck. Be mindful of your surroundings, and try to keep your cargo's value under about 20 million ISK.
 {{% /notice %}}

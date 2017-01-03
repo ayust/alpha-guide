@@ -1,10 +1,10 @@
-+++  
-title = "Gallente Ships"  
-toc = true  
-date = "2016-11-18T18:56:39-08:00"  
-weight = 1  
-next = "/new-goals/"  
-prev = "/upgrading-ships/"  
++++
+title = "Gallente Ships"
+toc = true
+date = "2016-11-18T18:56:39-08:00"
+weight = 1
+next = "/new-goals/"
+prev = "/upgrading-ships/"
 +++
 
 キャリアエージェントミッションをこなす中で、エージェントたちは次に挙げる艦船のうちいくつかを支給してくれたことでしょう。 これらの船はあなたが乗っているルーキーシップよりも強力です。 そのうえ性能が特化されていて、それぞれある特定の目的のために作られています。
@@ -21,16 +21,16 @@ The Atron is the Gallente fast-attack frigate. 極めて機動性が高く、十
 
 ##### Tristan
 
-The Tristan is the Gallente heavy attack frigate. As a drone platform, it is unrivalled among tech one frigates,  
-capable of fielding a full flight of five light drones, with three spares  
-in its spacious drone bay. It is also fairly well-rounded otherwise,  
+The Tristan is the Gallente heavy attack frigate. As a drone platform, it is unrivalled among tech one frigates,
+capable of fielding a full flight of five light drones, with three spares
+in its spacious drone bay. It is also fairly well-rounded otherwise,
 with moderate damage output from its turrets and decent speed and utility options. However, it is somewhat lightly defended.
 
 [Here is a recommended fit for the Tristan.](/upgrading-ships/gallente/tristan/)
 
 ##### Incursus
 
-The Incursus is the Gallente heavy combat frigate. Its bonuses to armor repairers let it shrug off a great deal of incoming damage,   
+The Incursus is the Gallente heavy combat frigate. Its bonuses to armor repairers let it shrug off a great deal of incoming damage,
 and it has good firepower and decent utility options. However, it is fairly slow.
 
 [Here is a recommended fit for the Incursus.](/upgrading-ships/gallente/incursus/)
@@ -43,16 +43,16 @@ The Imicus is the Gallente exploration frigate. スキャナープローブと�
 
 ##### Navitas
 
-The Navitas is the Gallente logistics frigate.  
-It has potent bonuses to remote armor repair modules,  
-allowing it to "heal" allied ships in battle.  
+The Navitas is the Gallente logistics frigate.
+It has potent bonuses to remote armor repair modules,
+allowing it to "heal" allied ships in battle.
 However, it is not very useful to a solo pilot.
 
 For this reason, we recommend that you do not use the Navitas for now.
 
 ##### Maulus
 
-The Maulus is the Gallente electronic warfare frigate. It has powerful bonuses to the effectiveness of sensor dampener modules,  
+The Maulus is the Gallente electronic warfare frigate. It has powerful bonuses to the effectiveness of sensor dampener modules,
 allowing it to interfere with the locking speed and range of its enemies' sensors from long range. ただし、防御力は極めて低く、ソロプレイヤーにとって有用な船ではありません。
 
 For this reason, we recommend that you do not use the Maulus for now.
@@ -69,16 +69,16 @@ For this reason, we recommend that you do not use the Maulus for now.
 
 ##### Catalyst
 
-The Catalyst is one of the Gallente destroyers, focusing on hybrid turrets. With the maximum of eight hardpoints for hybrid weapons,  
-and with potent bonuses to their range and accuracy,  
+The Catalyst is one of the Gallente destroyers, focusing on hybrid turrets. With the maximum of eight hardpoints for hybrid weapons,
+and with potent bonuses to their range and accuracy,
 it will quickly destroy any smaller enemies that come within range of its guns. しかし、フリゲートに比べるととても遅く、船体サイズが大きいので攻撃も受けやすいです。 Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Catalyst.](/upgrading-ships/gallente/catalyst/)
 
 ##### Algos
 
-The Algos is the other Gallente destroyer, focusing on drones. It gets only five turret hardpoints, few for a destroyer,  
-but has the drone bandwidth to begin mixing in medium drones  
+The Algos is the other Gallente destroyer, focusing on drones. It gets only five turret hardpoints, few for a destroyer,
+but has the drone bandwidth to begin mixing in medium drones
 into its flights, with room in its bay for a spare flight of lights. It also has moderate speed and defenses, and works well with shield-tanking modules.
 
 [Here is a recommended fit for the Algos.](/upgrading-ships/gallente/algos/)

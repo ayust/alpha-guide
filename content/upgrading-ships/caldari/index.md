@@ -1,10 +1,10 @@
-+++  
-title = "Caldari Ships"  
-toc = true  
-date = "2016-11-18T18:56:39-08:00"  
-weight = 1  
-next = "/new-goals/"  
-prev = "/upgrading-ships/"  
++++
+title = "Caldari Ships"
+toc = true
+date = "2016-11-18T18:56:39-08:00"
+weight = 1
+next = "/new-goals/"
+prev = "/upgrading-ships/"
 +++
 
 キャリアエージェントミッションをこなす中で、エージェントたちは次に挙げる艦船のうちいくつかを支給してくれたことでしょう。 これらの船はあなたが乗っているルーキーシップよりも強力です。 そのうえ性能が特化されていて、それぞれある特定の目的のために作られています。
@@ -21,15 +21,15 @@ The Condor is the Caldari fast-attack frigate. 極めて機動性が高く、十
 
 ##### Kestrel
 
-The Kestrel is the Caldari heavy attack frigate. It gets substantial bonuses to its four missile launchers,  
+The Kestrel is the Caldari heavy attack frigate. It gets substantial bonuses to its four missile launchers,
 allowing it to deal substantial damage in close with rockets or lob light missiles from extreme range. Its good number of midslots also allow it decent defenses or good utility. ただし、機動性はやや悪いです。
 
 [Here is a recommended fit for the Kestrel.](/upgrading-ships/caldari/kestrel/)
 
 ##### Merlin
 
-The Merlin is the Caldari heavy combat frigate.  
-It has very powerful shields, and decent firepower and flexibility.  
+The Merlin is the Caldari heavy combat frigate.
+It has very powerful shields, and decent firepower and flexibility.
 However, it is rather slow.
 
 [Here is a recommended fit for the Merlin.](/upgrading-ships/caldari/merlin/)
@@ -42,18 +42,18 @@ The Heron is the Caldari exploration frigate. スキャナープローブと遺�
 
 ##### Bantam
 
-The Bantam is the Caldari logistics frigate.  
-It has potent bonuses to remote shield booster modules,  
-allowing it to "heal" allied ships in battle.  
+The Bantam is the Caldari logistics frigate.
+It has potent bonuses to remote shield booster modules,
+allowing it to "heal" allied ships in battle.
 However, it is not very useful to a solo pilot.
 
 For this reason, we recommend that you do not use the Bantam for now.
 
 ##### Griffin
 
-The Griffin is the Caldari electronic warfare frigate. It has powerful bonuses to the effectiveness of ECM jammer modules,  
-allowing it to render enemies unable to lock targets   
-and thus helpless to fight back against attackers. However, it is extremely fragile and has little direct combat capability,   
+The Griffin is the Caldari electronic warfare frigate. It has powerful bonuses to the effectiveness of ECM jammer modules,
+allowing it to render enemies unable to lock targets
+and thus helpless to fight back against attackers. However, it is extremely fragile and has little direct combat capability,
 and is not very useful to a solo pilot.
 
 For this reason, we recommend that you do not use the Griffin for now.
@@ -70,15 +70,15 @@ For this reason, we recommend that you do not use the Griffin for now.
 
 ##### Cormorant
 
-The Cormorant is one of the Caldari destroyers, focusing on hybrid turrets. Its seven hardpoints for hybrid weapons have enhanced accuracy and  
-massive boosts to their range,  
+The Cormorant is one of the Caldari destroyers, focusing on hybrid turrets. Its seven hardpoints for hybrid weapons have enhanced accuracy and
+massive boosts to their range,
 allowing it to reach out and destroy smaller enemies at extreme distance. しかし、フリゲートに比べるととても遅く、船体サイズが大きいので攻撃も受けやすいです。 Additionally, it has very little utility outside of its weapons' damage output.
 
 [Here is a recommended fit for the Cormorant.](/upgrading-ships/caldari/cormorant/)
 
 ##### Corax
 
-The Corax is the other Caldari destroyer, focusing on missiles. It has seven launcher hardpoints, and a bonus to missile range and damage application,  
+The Corax is the other Caldari destroyer, focusing on missiles. It has seven launcher hardpoints, and a bonus to missile range and damage application,
 and comes with a comfortable four midslots, allowing it to mount a strong shield tank. However, it is slow, and its poor CPU and powergrid make it difficult to fit properly.
 
 [Here is a recommended fit for the Corax.](/upgrading-ships/caldari/corax/)

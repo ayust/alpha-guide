@@ -1,10 +1,10 @@
-+++  
-title = "探検"  
-toc = true  
-date = "2016-11-18T18:56:39-08:00"  
-weight = 1  
-prev = "/new-goals/"  
-next = "/new-goals/fw/"  
++++
+title = "探検"
+toc = true
+date = "2016-11-18T18:56:39-08:00"
+weight = 1
+prev = "/new-goals/"
+next = "/new-goals/fw/"
 +++
 
 ### って何？
@@ -19,16 +19,16 @@ next = "/new-goals/fw/"
 
 最良の遺跡サイトはヌルセク領域やワームホール宙域で見つかります。どちらも比較的危険な場所ですが、得られるかもしれない利益は莫大です。
 
-{{% notice tip %}}  
-ワームホールを探検してみたいですか？ [はじめてのワームホール](/reference/wormholes/) のページを見てみてください。  
+{{% notice tip %}}
+ワームホールを探検してみたいですか？ [はじめてのワームホール](/reference/wormholes/) のページを見てみてください。
 {{% /notice %}}
 
-探検については [EVE Online Japan Wiki の「探検」の記事]  
+探検については [EVE Online Japan Wiki の「探検」の記事]
 (http://eveonline-japanwiki.com/exploration) で、ワームホールについては [EVE Online Japan Wiki の「Worm Hole」の記事](http://eveonline-japanwiki.com/exploration/worm-hole) で、詳しく知ることができます。 危険な場所で探検をするならば、[セーフスポット・ブックマークを作る方法](http://wiki.eveuniversity.org/Bookmarks#Safe_Spots) や [ディレクショナルスキャナの使い方](http://wiki.eveuniversity.org/Directional_Scanner_Guide) も読みたくなるでしょう。
 
 スキャンウィンドウの使い方がわからなくなってしまったら、 [スキャンガイド](/reference/scanning/) を読んで解決策を探してみてください。
 
-{{% notice info %}}  
+{{% notice info %}}
 探検について調べていると、遮蔽装置について言及しているガイドがたくさんあることに気づくでしょう。 アルファクローンでは遮蔽装置を使うことができません。これは、遮蔽装置を使えるオメガクローンよりもちょっとだけプレイヤーの攻撃に弱い、ということを意味します。 スキャンやハッキングの最中に撃墜されないように、周囲の状況に気を配る必要があるでしょう。
 {{% /notice %}}
 

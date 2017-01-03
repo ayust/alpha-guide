@@ -1,10 +1,10 @@
-+++  
-title = "採掘"  
-toc = true  
-date = "2016-11-18T18:56:39-08:00"  
-weight = 1  
-prev = "/new-goals/hauling/"  
-next = "/new-goals/missions/"  
++++
+title = "採掘"
+toc = true
+date = "2016-11-18T18:56:39-08:00"
+weight = 1
+prev = "/new-goals/hauling/"
+next = "/new-goals/missions/"
 +++
 
 ### って何？

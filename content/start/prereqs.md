@@ -1,10 +1,10 @@
-+++  
-title = "前提条件"  
-weight = 102  
-prev = "/start/welcome/"  
-next = "/rookie-fitting/"  
-toc = true  
-date = "2016-11-18T17:18:12-08:00"  
++++
+title = "前提条件"
+weight = 102
+prev = "/start/welcome/"
+next = "/rookie-fitting/"
+toc = true
+date = "2016-11-18T17:18:12-08:00"
 +++
 
 このガイドは、貴方が最初の Aura のチュートリアルを終えているが、まだどのキャリアエージェントにも話しかけていない状況であることを前提として書かれています。 **もしあなたが Aura のチュートリアルを終えていないならば、まずはそれからやりましょう。**

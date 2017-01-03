@@ -1,10 +1,10 @@
-+++  
-toc = true  
-date = "2016-11-18T18:59:33-08:00"  
-title = "インダストリーエージェント"  
-weight = 1  
-next = "/career-agents/military/"  
-prev = "/career-agents/exploration/"  
++++
+toc = true
+date = "2016-11-18T18:59:33-08:00"
+title = "インダストリーエージェント"
+weight = 1
+next = "/career-agents/military/"
+prev = "/career-agents/exploration/"
 +++
 
 この連続ミッションは **針小棒大** という名前です。 この10連ミッションは EVE 宇宙で一から新たなアイテムを生産する方法について焦点を当てています: 原料の資源の採掘、そしてモジュール、弾薬、そして艦船の製造といったものです。

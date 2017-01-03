@@ -1,8 +1,8 @@
-+++  
-icon = "**2. **"  
-date = "2016-11-18T17:26:45-08:00"  
-title = "ルーキーシップをFITしよう"  
-prev = "/start/prereqs/"  
++++
+icon = "**2. **"
+date = "2016-11-18T17:26:45-08:00"
+title = "ルーキーシップをFITしよう"
+prev = "/start/prereqs/"
 +++
 
 さて、チュートリアルが終わった (そしておそらく撃墜されてきた) ところでしょう。
@@ -13,5 +13,5 @@ EVE 宇宙でもっとも簡単に手に入る船はコルベット艦 (ふつ�
 
 マーケットで手に入れたモジュール (装備) を適切にFITする (装備する) ことで、あなたのルーキーシップを大幅に強化することができます。 あなたの種族を選んで、その種族のルーキーシップのオススメのFITを見てみましょう。自分の種族のルーキーシップはこれ以上新たにスキルをトレーニングしなくても使うことができます、
 
-[アマー (Amarr)](/rookie-fitting/amarr/) / [カルダリ (Caldari)](/rookie-fitting/caldari/) /  
+[アマー (Amarr)](/rookie-fitting/amarr/) / [カルダリ (Caldari)](/rookie-fitting/caldari/) /
 [ガレンテ (Gallente)](/rookie-fitting/gallente/) / [ミンマター (Minmatar)](/rookie-fitting/minmatar/)
