@@ -1,60 +1,38 @@
++++  
+toc = true  
+date = "2016-11-18T17:33:01-08:00"  
+title = "ガレンテ (ベラター)"  
+weight = 1  
+next = "/market/"  
+prev = "/rookie-fitting/"  
 +++
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Gallente (Velator)"
-weight = 1
-next = "/market/"
-prev = "/rookie-fitting/"
-+++
 
-The Gallente corvette is the Velator.
+ガレンテ向けのコルベット艦はベラター (Velator) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119448/svg/119448-alpha-velator-wdrones.svg?privatetoken=4210567194314014720"><a href="https://o.smium.org/loadout/private/119448/4210567194314014720">Alpha Velator w/Drones を Osmium で見る</a></object>### 武器
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119448/svg/119448-alpha-velator-wdrones.svg?privatetoken=4210567194314014720"><a href="https://o.smium.org/loadout/private/119448/4210567194314014720">View Alpha Velator w/Drones on Osmium</a></object>
+ルーキーシップ (コルベット艦) は、「小型 (small)」欄にある武器が装備できます。 このFITでは `75mmガトリングレールI (75mm Gatling Rail I)` タレットを2台ハイスロットに装備しています。 レールガンは長距離用のハイブリッド兵器で、短距離用のブラスターとは相対的です。 レールガンはちょっと打撃力には劣りますが、攻撃可能範囲に近づくのに時間がかかり敵の攻撃を受けまくるなんてことにはならず、すぐに敵と交戦することができます。
 
-### Weapons
+民間人用兵器と違って、これらの兵器は (そして他のほとんどの兵器も) 弾薬を装填しないと使うことができません。 これらのレールガンには `アンチマター弾 (Antimatter Charge S)` が数斉射分装填されています。 しかし、カーゴホールドに少なくとも1000斉射くらい撃てるほどの量の弾薬を持ち歩くべきです。 アンチマター弾はハイブリッド弾の中では最も射程が短いですが、与えるダメージも最も大きいです。
 
-Rookie ships (corvettes) use weapons from the 'small' size bracket.
-This fit uses two `75mm Gatling Rail I` turrets in the high slots.
-Railguns are a long-ranged weapon system, relative to Blasters, the short-ranged hybrid-gun option.
-While they pack a bit less punch, the Railguns let you engage sooner,
-without spending as much time flying into range while taking enemy fire.
+そして、長距離武装のレールガンと組み合わせて使うことで、中距離で効果的に戦うことができます。 その場合、ふつうは約2500mで敵をオービットしたくなるはずです。 動き続ける敵から遠すぎても近すぎても、射撃は外れやすくなってしまいますからね。
 
-Unlike civilian guns, these - and most other weapons - have to be loaded with ammunition to function.
-The railguns are loaded with `Antimatter Charge S` rounds.
-You should carry at least 1000 rounds with you.
-They are the shortest-range hybrid ammunition, but inflict the most damage. 
+また、 `ホブゴブリンI (Hobgoblin I)` 戦闘用ドローンを使うこともできます。これは遠くの敵に自分で交戦しにいき、サーマルダメージを与え、さらに弾薬とは異なり繰り返し使うことができます。 ワープで帰る前に、もしくはドローンが敵の攻撃でダメージを受けているとき、ドローンベイに帰還するよう命令するのを忘れないようにしてください。
 
-When used in combination with the long-range railguns, they allow you to fight effectively at medium range.
-You will usually want to command your ship to orbit at about 2500m from your target.
-Being too near or too far from a moving target may cause your shots to miss.
-
-The reusable `Hobgoblin I` combat drones can be launched to fly independently to distant enemies,
-dealing Thermal damage to them.  Remember to order your drones to return to your
-Drone Bay before warping, or if they are taking damage from enemy fire.
-
-{{% notice info %}}
-To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% notice info %}}  
+戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。  
+これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 
 {{% /notice %}}
 
-### Defenses
+### 防御
 
-Since the Velator is bonused for armor repairs, this fit is designed around armor.
-It uses a `Small Armor Repairer I` in one of the low slots. It also fits a `Damage Control I`
-which increases the ship's resistances, reducing incoming damage and making the armor repairer
-more effective.
+ベラターはアーマーリペアラにボーナスを持っているので、このFITはアーマーを重視しています。 `小型アーマーリペアラI (Small Armor Repairer I)`をロースロットの１つに装備しています。 また、船の属性耐性 (レジスタンス) を上げる `ダメージ制御I (Damage Control I)` も装備しています。レジスタンスを上げることで被ダメージが減り、アーマーリペアラが効果的に働くようになります。
 
-### Utility
+### ユーティリティ
 
-The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
-catch enemy ships and makes your ship harder to hit.
+`1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。これによって敵に追いつくのが簡単になり、敵の攻撃を食らいにくくもなります。
 
-The `Stasis Webifier I` helps your railguns apply their damage better, because it's easier to hit
-the slower targets. (It also makes it easier to stay in range of the slower enemies.)
+`ステイシスウェビファイヤーI (Stasis Webifier I)` を使うと敵の速度を遅くすることができるのでレールガンが当たりやすくなり、与えるダメージが増えます。(また、速度が遅い敵と一定距離を保つのにも便利です。)
 
-### Where do I get this stuff?
+### どこで手に入れたらいいの？
 
-You may already have some of these modules, but if you don't, it's time to go use the Market.
-The next chapter will walk you through how to effectively use the market to purchase items.
+これらのうちいくつかのモジュールは既に持っているでしょうが、もし持っていないならば、マーケットの出番です。  
+次の章では、マーケットを使いこなして欲しいものを買う方法をお教えしましょう。

@@ -1,91 +1,51 @@
++++  
+prev = "/rookie-fitting/"  
+next = "/market/hubs/"  
+icon = "**3. **"  
+date = "2016-11-18T18:35:17-08:00"  
+title = "マーケットを使う"  
+toc = true  
 +++
-prev = "/rookie-fitting/"
-next = "/market/hubs/"
-icon = "<b>3. </b>"
-date = "2016-11-18T18:35:17-08:00"
-title = "Use the Market"
-toc = true
-+++
 
-### Searching the Market
+### マーケットで欲しいものを探す
 
-When following this guide you'll almost always be wanting particular items
-from the market. The fastest way to find those items is use the search box.
-Copy the name of the item and paste it into the box to the left of the
-"Search" button, then click that button. A list of results (most likely
-with only a single item, but sometimes more) will appear beneath.
-Click the item in the result list to see where that item is available.
+あなたがこのガイドに取り組んでいるとき、何度もマーケットからある特定のアイテムを買いたくなることでしょう。 検索欄を使うことで、それらのアイテムを素早く見つけることができます。 アイテムの名称をコピーして「検索」ボタンの左にある入力欄に貼り付け、それからボタンを押してみましょう。 結果の一覧 (大抵の場合一個だけですが、時々たくさん) が下に表示されます。 結果の一覧に出てきたアイテム名をクリックして、どこでそれが手に入るのか見てみましょう。
 
-### Buying Items
+### アイテムを買う
 
-When viewing market listings for a particular item you will see two sections:
-Sellers and Buyers. We're going to concentrate on the Sellers section for now
-because we want to buy items from those Sellers.
+マーケット画面である特定のアイテムを表示している時、「売却者」と「購入者」の2つの欄が見えるはずです。 今はこの「売却者」欄に集中しましょう。これらの「売却者」からアイテムを買おうとしているのですからね。
 
-#### Sort your sellers list
+#### 売却者リストを並び替える
 
-First of all: **make sure your sellers are sorted by Price, ascending**.
-This means that the price column should be the only column with an upwards-pointing
-triangle on the right side of it. Try clicking the price column header to change the sorting.
-Click the price column as many times as you need until it's sorting properly. This is
-to make sure you're not accidentally buying a highly overpriced version of the item
-just because it happens to be a system closer.
+マーケットで最も大事なことは: **売却者リストを値段で、安い順にソートすること** です。 つまり、各列の右側に付いている三角形のボタンのうち、価格の列のものだけが上向きになっていなければいけません。 並び替え順を変えるには、価格列の見出し部分をクリックしてみてください。 望ましい順番で並び替えられるまで、何回でも価格列をクリックしてみてください。 これは、たまたま近い場所の星系で売られているからといって、とてつもなく高い値段がついた商品を間違って買ってしまわないようにするためのものです。
 
-Sorting by price also helps you avoid a scam where someone lists an item for what seems to
-be a cheaper price, but actually has a few extra zeroes on the end - so you wind up
-paying 1 million isk instead of 1 thousand isk or similar.
+また、マーケットには、末尾にゼロをいくつか付け加えることによって、パッと見では他のものより安く見せかけようとする - 例えば 1000 ISK の商品に 100万ISK を払うハメになる - 詐欺をする人がいます。価格順に並び変えることによって、このような詐欺を避けることができます。
 
-#### Look at the availability
+#### 入手性を確かめてみよう
 
-Now, look through the list. The first column, **Jumps**, shows you how far you'll need to go
-to pick up the item after buying it. When you buy an item, you buy it in the station where
-it was listed - not necessarily in your current station. So if the 'Jumps' column reads
-'5', that means that after buying the item you'll need to jump through 5 stargates to reach
-the system where you bought the item. If the jumps column says 'System' it means the item
-is located in your current system but a different station, and if it says 'Station' it means
-that it's listed in the same station you're currently in.
+さて、リストを眺めていきましょう。 最初の列、 **ジャンプ** は、そのアイテムを購入した後に、それを受け取りに行くためにどれだけ遠くまで行かなければならないかを示しています。 アイテムを買うとき、それが陳列されているステーションで買うわけですが、そこが今いるステーションである必要はありません。 つまり、もし「ジャンプ」の列が「5」を示しているならば、それはそのアイテムを買った後にスターゲートを5回ジャンプしなければ買ったアイテムがある星系にたどり着けない。ということを意味するのです。 また、ジャンプ列に「システム」と書かれているならば、それはアイテムが同じ星系にあるが違うステーションにあるという意味で、「ステーション」と書かれているならば、それはあなたが今いるのと同じステーションに陳列されている、という意味です。
 
-Next up is **Quantity** - displaying how many items are available via that seller. If you want
-to buy more, you'll need to get them from multiple sellers.
+次に見てみるのは **数量** の列で、その売り手からいくつアイテムを買うことができるかを表示しています。 もしそこに書かれている以上の個数が必要ならば、他の売り手からも買う必要があります。
 
-The **Price** column lists the price per unit being offered; if the listed price is 100.00
-ISK and you want to buy 50 of the item, you'll wind up paying 5000 ISK total.
+そして **価格** 列は、売り手が提示している1ユニットあたりの価格を示しています。もし表示価格が 100.00 ISKで、そのアイテムを50個買いたいのならば、あなたは合計 5000 ISKを払うことになるでしょう。
 
-You can see exactly which station the items are listed from in the **Location** column. This is
-important - before buying items in another system, you'll probably want to check to make sure
-you can get there without having to go through low-security space (0.4 and below). Otherwise
-you might get ganked on the way. You can right-click on a particular seller and choose
-Location -> Set Destination to a set an autopilot course to it, and then look at the colored
-dots that the autopilot shows you: if any of them are orange or red, don't buy from there.
+**位置** の列を見れば、そのアイテムが実際にどこで陳列されているのかを確かめることができます。 この項目は重要です - 他の星系にあるアイテムを買う前にあなたはおそらく、ローセク領域 (セキュリティーステータスが0.4より低い星系) を通らずにそこに行けるかどうか確かめたくなるでしょう。 そうしなければ、向かっている途中にプレイヤー海賊にボコボコにされてしまうかもしれません。 特定の売却者を右クリックして、「位置」→「目的地を設定」を選ぶことによって、その場所にオートパイロット経路を設定することができます。そして画面左上のオートパイロット欄に並んでいる、点の列の色を確かめましょう: もしその中にオレンジ色や赤色のものがあるならば、そこから買うのはやめておきましょう。
 
-{{% notice tip %}}
-You can also click the gear icon at the top-right of the market window to set filters on the
-listings. For instance, you can uncheck the boxes for 'Low Sec' and 'Null Sec' to completely
-hide listings from lower security space.
+{{% notice tip %}}  
+マーケット画面の右上の方にある歯車アイコンをクリックすると、売却者リストから特定の条件を満たすものを省くことができます。 例えば、「ローセク」と「ヌルセク」のチェックを外すことで、セキュリティーステータスが低い地域に陳列されているアイコンを完全にリストから非表示にすることができます。 
 {{% /notice %}}
 
-#### Pick a seller to buy from
+#### 売り手を決めて買う
 
-For very cheap items, it's often worth it to buy it closer to avoid having to make extra jumps.
-For more expensive items, going a few more jumps to get a better price may be worth the time.
+とても安いアイテムに関しては、何回もジャンプして取りに行かなくても済むように、なるべく近いところから買うのがふつうです。  
+より高額なアイテムに関しては、少し必要なジャンプ数が多くても、それによって安く買えるならば時間をかけて受け取りに行く価値があります。
 
-Once you've chosen which seller you want to buy from, right-click the entry and choose 'Buy'
-which will pop up a window asking how many items you want to purchase. Type in the quantity
-(or stick with the default of 1) and press 'Buy'. Once you've bought an item, it will show
-up in the **Item Hangar** of the station where you bought it. You will need to fly to that
-station (if not the one you're currently in) and pick it up.
+どの売り手から買うか決まったら、その項目を右クリックして「購入」を押すと、そのアイテムを何個買うか決めるポップアップウィンドウが開きます。 数量欄をいじって (もしくはデフォルトの1個のままにしておいて) 「購入」ボタンを押しましょう。 アイテムを購入したら、陳列されていたステーションの **アイテムハンガー** に配送されます。 アイテムを受け取るためには、そのステーションまで船を飛ばす必要があります (もし今いるステーションでないのなら) 。
 
-If you bought an item but can't remember where, you can use the **Assets** window
-(<kbd>Alt</kbd>+<kbd>T</kbd>) to look through everything you own in EVE and find the station.
-Note however that the Assets window only updates every 5 minutes, so you may need to wait a
-few minutes for it to show up there.
+もしアイテムを買ったけれどもどこで買ったのか思い出せなくなってしまったら、 **個人資産** ウィンドウ  
+(<kbd>Alt</kbd>+<kbd>T</kbd>) を開くことで EVE 宇宙にある全てのあなたの資産を確かめ、それがあるステーションを見つけることができます。 ただし、個人資産ウィンドウは5分に1回しか更新されないことに注意してください。新しく買ったアイテムが表示されるには、何分か待つ必要があります。
 
-{{% notice note %}}
-Markets in EVE are on a per-region basis. This means that depending on where you are in the galaxy
-you'll see different sets of sellers. In your starter system, there are likely to be market listings
-for the basic modules you'll want. More advanced items, however, are unlikely to be available at a
-reasonable price. If you're looking for a particular item and can't find any sellers, you may need
-to go to a different region to find people listing it for sale. The next page will talk a bit about
-some of the 'market hubs' where you can buy almost anything. You can also use the player-run site
-[EVE-Central](https://eve-central.com/) to check what prices are like across all of EVE.
+{{% notice note %}}  
+EVE 宇宙のマーケットはリージョン単位に分かれています。 つまり、あなたが宇宙のどこにいるかによって、まったく違う売り手の一覧を見ることになるのです。 ゲーム開始システムでマーケットウィンドウを開いたならば、あなたがきっと必要な基本的なモジュールの数々が陳列されていることでしょう。 ですが、もっと高性能なアイテムに関しては、お得な価格で手に入る可能性は低いでしょう。 もしあるアイテムが必要なのに売り手が全く見つからない時は、違うリージョンに行ってみて誰かが陳列してないか探す必要があるでしょう。 次のページでは、ほとんどなんでも買うことができるいくつかの「マーケットハブ」について、少しお話ししましょう。 また、プレイヤーが運営している  
+[EVE-Central](https://eve-central.com/) というサイトで、EVE 宇宙全体を通してアイテムの価格を確認することもできます。(訳者注: 英語でのアイテム名しか受け付けません。) 
 {{% /notice %}}

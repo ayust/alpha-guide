@@ -1,30 +1,23 @@
++++  
+next = "/career-agents/"  
+prev = "/market/"  
+date = "2016-11-18T18:35:17-08:00"  
+title = "世界の商業地"  
+weight = 1  
 +++
-next = "/career-agents/"
-prev = "/market/"
-date = "2016-11-18T18:35:17-08:00"
-title = "Market Hubs"
-weight = 1
-+++
 
-While it's technically possible to sell items from any station in EVE, the vast majority
-of items are bought and sold at a small set of stations referred to as "market hubs".
-These stations will have literally thousands of times more items available than your
-average station.
+EVE ではどのステーションでもアイテムを売ることが可能なのですが、世界のアイテムの大半は「マーケットハブ」と呼ばれるいくつかのステーションで取引されています。 これらのステーションでは、あなたが今いる平均的なステーションより、文字通り数千倍も多くのアイテムを取り扱っているのです。
 
-`Jita IV - Moon 4 - Caldari Navy Assembly Plant` is the most popular market hub. It is located in Caldari space.
+`ジタ IV - 衛星 4 - カルダリ海軍 組み立て工場` は世界で最も有名なマーケットハブで、カルダリ領にあります。
 
-`Amarr VIII (Oris) - Emperor Family Academy` is also fairly popular, and is located in Amarr space.
+`アマー VIII (オリス) - 皇族 学院` もまた有名で、これはアマー領に位置しています。
 
-`Dodixie IX - Moon 20 - Federation Navy Assembly Plant` is the largest Gallente market hub.
+`ドディクシー IX - 衛星 20 - 連邦海軍 組み立て工場` はガレンテで最も巨大なマーケットハブです。
 
-`Rens VI - Moon 8 - Brutor Tribe Treasury` and `Hek VIII - Moon 12 - Boundless Creation Factory` are the largest Minmatar market hubs.
+`レンズ VI - 衛星 8 - ブルートー部族 宝物庫` と `ヘク VIII - 衛星 12 - バウンドレスクリエーション 工場` はミンマター領で最大のマーケットハブです。
 
-You can visit any of these hubs no matter the race of your character, but your starting system will likely be much
-closer to the market hubs in your own race's space.
+あなたは自分のキャラの国籍にかかわらずどの商業地でも訪れることができますが、ゲーム開始時の星系からならば、他のものより自分の国家のマーケットハブのほうがよっぽど近くにあるでしょう。
 
-{{% notice warning %}}
-When traveling to and from a distant trade hub, avoid low-security space. Sometimes the shortest
-route is through low security space; make sure your autopilot is set to take the **safest**
-route instead. Hostile players often camp the "faster" low-security routes between trade hubs
-in hopes of getting easy kills.
+{{% notice warning %}}  
+遠方の商業地を訪れるときは、ローセク地域の通行は避けるようにしましょう。 最短経路は時々ローセク地域を通ってしまうものです; オートパイロットはその代わりに **最も安全な** 経路に設定されていることを確認してください。 好戦的なプレイヤーはしばしば商業地の間の「最短」なローセク航路に陣取って、苦労せずにキルを得ようと企んでいます。 
 {{% /notice %}}

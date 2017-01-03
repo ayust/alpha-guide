@@ -1,27 +1,22 @@
-+++
-title = "Something Else?"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 999
-next = "/training/"
-prev = "/new-goals/trading/"
++++  
+title = "何か他の遊び方？"  
+toc = true  
+date = "2016-11-18T18:56:39-08:00"  
+weight = 999  
+next = "/training/"  
+prev = "/new-goals/trading/"  
 +++
 
-EVE players have historically been quite creative when it comes to player-driven
-content - everything from large dramatic diplomatic affairs to galaxy-shaping
-wars and scandals to small interactions noticed only by the couple of players
-involved.
+EVEのプレイヤーは歴史上、プレイヤー運営のコンテンツにかけてはかなりの創造性を発揮することで知られています - 銀河の勢力図を形作る大戦争の背後にある、外交官たちの壮大なドラマを始めとして、二三人のプレイヤーの間の、小さな人間関係の中だけで暴露されるスキャンダルなど、様々なものがあります。
 
 <div style="text-align: center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AdfFnTt2UT0" frameborder="0" allowfullscreen></iframe>
+crwMD_Iframe_0
 </div>
 
-In addition to the ideas listed here, there's also others mentioned in the
-[UniWiki 'EVE Careers 101'](http://wiki.eveuniversity.org/EVE_Careers_101)
-article, not to mention countless other possible ways to play.
+ここに示されているもの以外にも、例えば [Resident Eve プレイスタイルとキャリア（初心者向け）](http://everesearcher.blog.fc2.com/blog-entry-83.html) などで他の遊び方も言及されています。しかし、様々なサイトに書かれている以外にも、あり得る遊び方は数えきれないほどあります。
 
 {{% figure src="/images/wtd.jpg" %}}
 
-Image too small? Here's the [full-size version](/images/wtd.jpg).
+画像が小さすぎますか？ ここに[フルサイズ版](/images/wtd.jpg)があります。
 
-**Use your imagination: how will you make your mark on the EVE universe?**
+**想像力を働かせましょう: EVE宇宙であなたの名声を轟かせるにはどうしたらいい？**

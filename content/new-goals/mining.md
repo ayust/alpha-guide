@@ -1,34 +1,24 @@
++++  
+title = "採掘"  
+toc = true  
+date = "2016-11-18T18:56:39-08:00"  
+weight = 1  
+prev = "/new-goals/hauling/"  
+next = "/new-goals/missions/"  
 +++
-title = "Mining"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/new-goals/hauling/"
-next = "/new-goals/missions/"
-+++
 
-### What
+### って何？
 
-Mining involves harvesting resources from asteroids, either in asteroid belts
-or special mining signatures located via scanning.
+採掘では、アステロイドベルトや、スキャンによって見つかる特別な鉱石アノマリにおいて、アステロイドからの資源採掘に励むことになります。
 
-### How
+### どうやって？
 
-If you decide to pursue mining as a source of income, you'll probably want
-to use a Venture, as it is the best dedicated mining ship you have available
-as an alpha clone. Its 5000 m^3 Ore Hold allows it to store a significant
-amount of ore so that you don't have to return to a station to drop off
-your ore quite as often.
+もし収入源として採掘を追求しようと決めたなら、あなたはおそらくベンチャーを使いたくなることでしょう。これは、アルファクローンが使える船の中では一番採掘に向いているためです。 備え付けの5000m^3もの鉱石ベイによってかなりの量の鉱石を搭載することができるので、とても頻繁にステーションに戻り、鉱石を降ろしてくる必要がないのです。
 
-It's relatievly easy to sell the ore you mine, though the profits may be relatively
-low for highsec miners. Mining in lower security space can increase profits but also
-increases the level of risk, as players may frequently try to attack you.
+ハイセクでの採掘による収入は比較的低いですが、採掘した鉱石を売るのはかなり簡単です。 ローセク地域での採掘は収入は上がりますが、他のプレイヤーが頻繁に攻撃を試みてくるので、同時に被撃墜のリスクも上がります。
 
-You can read more about mining in the [UniWiki 'Mining' article](http://wiki.eveuniversity.org/Mining).
+採掘について詳しくは、 [B-OSP Wikiの「鉱石の採掘」のページ](http://seesaawiki.jp/eveonline_b-osp_wiki/d/%B9%DB%C0%D0%A4%CE%BA%CE%B7%A1) を見てみてください。
 
-### Why
+### なんで？
 
-Mining is probably the most sedate of all EVE income opportunities - once
-your mining lasers are activated on an asteroid, it's mostly just waiting
-for the raw ore to come streaming in. If you're mostly interested in socializing
-with other players, it can be a great activity to do while socializing.
+採掘はおそらく、EVEでの収入源の中では最も落ち着いて作業できるものでしょう - 採掘レーザーをアステロイドに向かって起動したら、残りのほとんどの時間は鉱石がどんどんカーゴに入ってくるのを待つだけです。 もし他のプレイヤーと親交を深めるのに一番興味があるなら、チャットの最中にやるのに最も適した仕事となるでしょう。

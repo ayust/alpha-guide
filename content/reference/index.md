@@ -1,11 +1,15 @@
-+++
-title = "Reference Material"
-toc = true
-icon = "<b>0. </b>"
-date = "2016-11-18T18:56:39-08:00"
-prev = "/learn-more/"
++++  
+title = "参考資料"  
+toc = true  
+icon = "**0. **"  
+date = "2016-11-18T18:56:39-08:00"  
+prev = "/learn-more/"  
 +++
 
-The pages in this section don't fit into the overall walkthrough in sections #1-9.
+この章では、1〜9章の一連の流れにうまく合わなかったページを集めています。
 
-Feel free to browse the list of references in the menu.
+メニュー内の資料を自由に選んで見てみてください。 
+
+{{% notice note %}}  
+この章は翻訳作業中です。
+{{% /notice %}}

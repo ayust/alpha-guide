@@ -1,22 +1,25 @@
++++  
+toc = true  
+date = "2016-11-18T17:13:07-08:00"  
+title = "このガイドについて"  
+weight = 101  
+next = "/start/prereqs/"  
+prev = "/start/"  
 +++
-toc = true
-date = "2016-11-18T17:13:07-08:00"
-title = "What is this guide for?"
-weight = 101
-next = "/start/prereqs/"
-prev = "/start/"
-+++
 
-This guide is designed to help alpha clone players quickly ramp up their competency in EVE Online.
+このガイドは EVE Online でαクローンプレイヤーの皆様が優れたカプセラとなる手助けをするためのものです。
 
-While we can't make you an expert overnight, we can start you out on the right foot and help you
-grasp the things that the tutorial might not cover, or cover them in more detail.
+もちろん、一晩でプロのカプセラに！なんてことはできませんが、EVE 生活の最初の一歩を正しく踏み出して、チュートリアルで学んだことをもっと詳しく、さらにはチュートリアルでは教えてくれないようなことも把握していきましょう。
 
-This guide isn't comprehensive. There are many other excellent resources out there that provide
-broader knowledge about EVE Online, and parts of this guide may link to them as well. However,
-this guide in particular aims to address the specific needs of alpha clone capsuleers.
+このガイドは EVE 宇宙で生きるためのすべての知識を網羅しているわけではありません。 このガイド以外にも、 EVE Online についての素晴らしい情報源がたくさん存在していますし、このガイドの一部のページにもそれらへのリンクを貼ってあります。 ですが、このガイドは特にαクローンの皆様のニーズに応えることを目的としているのです。
 
-{{% notice note %}}
-We're constantly updating and adding new information to the Guide.
-Have a suggestion? [Tell us!](https://github.com/ayust/alpha-guide/issues/new)
+{{% notice note %}}  
+私達は常にガイドの情報を更新したり、新しいものを追加したりしています。  
+何か追加・改善案がありますか？ [ぜひお伝え下さい！](https://github.com/ayust/alpha-guide/issues/new) (原文版のサイト)  
+{{% /notice %}}
+
+{{% notice note %}}  
+このガイドには翻訳がまだ完了していない箇所がありますが、順次翻訳作業を進めていく予定です。
+
+翻訳に何かご意見・ご感想がありましたら、[訳者Twitter](https://twitter.com/eve_maybe) もしくは [GitHub の Issue](https://github.com/maybe-eve/alpha-guide/issues/new) などでお知らせください。
 {{% /notice %}}

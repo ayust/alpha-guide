@@ -1,78 +1,54 @@
++++  
+title = "コープに参加する"  
+toc = true  
+icon = "**8. **"  
+date = "2016-11-18T18:56:39-08:00"  
+next = "/learn-more/"  
+prev = "/training/trade/"  
 +++
-title = "Join a Corporation"
-toc = true
-icon = "<b>8. </b>"
-date = "2016-11-18T18:56:39-08:00"
-next = "/learn-more/"
-prev = "/training/trade/"
-+++
 
-While it is certainly possible to play EVE alone, it's generally a lot more fun
-to have a group of other people who share your interests. Joining a corporation
-will give you many more options than you'd have flying alone.
+EVE は一人ぼっちで遊ぶことももちろんできますが、同じ興味を持った他の人たちとグループを組んだほうがもっと楽しいでしょう。 コーポレーション (コープとも) に参加すれば、一人で船を飛ばしていた頃よりも、活動の選択肢がもっと大きく広がるでしょう。
 
-### Starter NPC Corps
+### 最初のNPCコープ
 
-You start the game in one of these, automatically assigned based on how you created
-your character - your race and bloodline. If you ever join a different corp and then
-quit it later, you'll be placed back into another NPC corp based on your race.
+あなたはキャラクタークリエイトでの選択、つまり種族や血統に応じて、NPCコープのうち1つに、自動的に割り当てられた状態で始めることになります。 もし何か別のコープに入社して、後になってそこから退社した場合は、種族に応じた別の NPC コープに戻されることになります。
 
-All NPC corps have a built-in tax rate of 10%. That means any mission rewards you earn
-will be charged a 10% fee.
+すべての NPC コープは例外なく 10% の税率を設定しています。つまり、ミッション報酬はすべて 10% 課税されることになります。
 
-### Factional Warfare NPC Corps
+### 国家間戦争 NPC コープ
 
-Faction Warfare (FW) allows you to sign up to PvP for your race's empire in low-sec
-space: Amarr vs. Minmatar and Caldari vs. Gallente. There are two ways of getting into
-faction warfare - you can either join the empire's FW NPC corp, or you can find a
-player-run corp that participates in faction warfare.
+国家間戦争 (FW とも) に入社すると、ローセク領域において、あなたの種族の国家のために PvP 戦闘を行うことができます。それぞれ、 アマー 対 ミンマター、そして カルダリ 対 ガレンテ となっています。 国家間戦争に参加する方法は2つあります - 国家所属の国家間戦争 NPC コープに参加してもよいですし、国家間戦争に参加しているプレイヤー運営のコープを探してそこに入社することもできます。
 
-For more details about Faction Warfare, see the [UniWiki Factional Warfare guide]
-(http://wiki.eveuniversity.org/Factional Warfare).
+国家間戦争について詳しくは、 \[プレイヤー運営の もふもふwiki による国家間戦争の解説ページ\](http://evewiki.wiki.fc2.com/wiki/%E5%9B%BD%E5%AE%B6%E9%96%93%E6%88%A6%E4%BA%89(Factional%20War)) を見てみてください。
 
-### Player-run Corps
+### プレイヤー運営コープ
 
-Players can create their own corporations (and in fact the majority of corporations
-in EVE are player-created). These corporations can set their own tax rates, declare
-war against one another, conquer parts of null-security space, and more.
+プレイヤーは自分自身のコープをつくることができます。 (そして実は、EVE にある数多くのコープのうちほとんどはプレイヤー運営のものです。) これらのコープでは、独自の税率を設定したり、他のコープに戦争をしかけたり、ヌルセク領域の一部分を征服したり、他にも様々なことができます。
 
-{{% notice tip %}}
-Don't accept random corp invitations - the average quality of a corporation that invites
-players randomly out of the blue is very low. Instead, look for a corporation that
-is dedicated to doing what you're interested in doing and ask about recruitment.
+{{% notice tip %}}  
+唐突に送られてきたコープ入社招待は、決して承諾しないようにしましょう - ランダムにプレイヤーを選んで唐突に招待を送ってくるコープの質というのは、平均的にはですが、どうしようもないものです。 その代わりに、自分がやりたいと思っていることに精通しているコープを自分で探して、採用してもらえないか聞いてみましょう。
 {{% /notice %}}
 
-[EVE University](http://www.eveuniversity.org/) is a well-known player corp in
-EVE that is devoted to teaching new players. There are many other player-run corps
-as well. We recommend the following resources for finding a corporation that suits
-your interests:
+[J-UNI Beginners Academy](https://forums.eveonline.com/default.aspx?g=posts&m=6689849) は、最近設立された初心者支援専門の日本語コープです。 同様に、プレイヤー運営のコープは他にもたくさんあります。 あなたの興味に合ったコープを探すために、次の情報源をたどってみることをオススメします:
 
- * The [Recruitment Center](https://forums.eveonline.com/default.aspx?g=topics&f=265)
-   on the official forums
- * The [r/evejobs](https://www.reddit.com/r/evejobs/) subreddit 
- * [This blog post](https://mikeazariah.wordpress.com/2016/11/17/ooc-joining-the-gang/)
-   by Mike Azariah about corps that are recruiting alpha-clone players
+- ゲーム内の「ヘルプ」チャンネルで質問してみる
+- Twitter で #evejapan タグを付けてツイートしてみる 
+- 前述の「J-UNI」に入社して、日本人コープからの勧誘を受ける
 
-{{% notice note %}}
-There are a handful of large nullsec corps that recruit rather freely
-amongst new players and often organize group content in nullsec space: 
-[Brave Newbies](http://www.bravecollective.com/),
-[Karmafleet](https://recruit.karmafleet.org/),
-[Pandemic Horde](https://www.reddit.com/r/pandemichorde/),
-and [Dreddit](http://dredditisrecruiting.com/).
+{{% notice note %}}  
+英語圏には、むしろ新人プレイヤーこそ積極的に受け入れて、しばしばヌルセク領域での大人数コンテンツを企画したりする、大規模ヌルセクコープがいくつか存在しています:  
+[Brave Newbies](http://www.bravecollective.com/) 、  
+[Karmafleet](https://recruit.karmafleet.org/) 、  
+[Pandemic Horde](https://www.reddit.com/r/pandemichorde/) 、   
+[Dreddit](http://dredditisrecruiting.com/) などが有名です。もし英語に堪能ならば、検討する価値は十分あります。
 {{% /notice %}}
 
-It's okay to take your time finding a corporation that suits your interests. It's also
-okay to change your mind if you join a corporation and find that you don't like it.
+自分の興味に合ったコープを探すのに時間をかけるのは全く問題ありません。そして、コープに入ってから自分には合わないなと感じたら、心変わりして抜けてしまうのもまた問題ありません。
 
-{{% notice warning %}}
-Remember that once you trade items, send someone isk or give anything else away they
-can do whatever they want with it. Be wary if a recruiter asks for a fee to join
-their corporation or offers to move your items. It might be a scam.
+{{% notice warning %}}  
+あなたが誰かとアイテムをトレードしたり、ISKや何か別のものをあげてしまったならば、貰った人はそれを好きなように使ってしまうことができます。 もし人事担当者が、彼らのコープに入ったりあなたのアイテムを移動させたりするのに料金を請求しようとしたなら、十分に注意してください。 もしかしたら詐欺かもしれません！
 {{% /notice %}}
 
-{{% notice info %}}
-You can leave a corp that you've joined by right-clicking on your own name and choosing
-<kbd>Quit Corporation?</kbd> > <kbd>Confirm Quit Corporation</kbd>. Doing so will place
-you back into an NPC corp based on your race.
+{{% notice info %}}  
+参加したコープから脱退したい場合、自分の名前を右クリックして <kbd></kbd> <kbd></kbd> と選択することで抜けることができます。 そうすれば、種族に応じたNPCコープに戻されるでしょう。
 {{% /notice %}}

@@ -1,64 +1,41 @@
++++  
+toc = true  
+date = "2016-11-18T17:33:01-08:00"  
+title = カルダリ (イビス)"  
+weight = 1  
+next = "/market/"  
+prev = "/rookie-fitting/"  
 +++
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Caldari (Ibis)"
-weight = 1
-next = "/market/"
-prev = "/rookie-fitting/"
-+++
 
-The Caldari corvette is the Ibis.
+カルダリ向けのコルベット艦はイビス (Ibis) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119446/svg/119446-alpha-ibis-wdrone.svg?privatetoken=3595180998788120576"><a href="https://o.smium.org/loadout/private/119446/3595180998788120576">Alpha Ibis w/Drones を Osmium で見る</a></object>### 武器
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119446/svg/119446-alpha-ibis-wdrone.svg?privatetoken=3595180998788120576"><a href="https://o.smium.org/loadout/private/119446/3595180998788120576">View Alpha Ibis w/Drone on Osmium</a></object>
+ルーキーシップ (コルベット艦) は、「小型 (small)」欄にある武器が装備できます。 このFITでは `75mmガトリングレールI (75mm Gatling Rail I)` タレットを2台ハイスロットに装備しています。 レールガンは長距離用のハイブリッド兵器で、短距離用のブラスターとは相対的です。 レールガンはちょっと打撃力には劣りますが、攻撃可能範囲に近づくのに時間がかかり敵の攻撃を受けまくるなんてことにはならず、すぐに敵と交戦することができます。
 
-### Weapons
+民間人用兵器と違って、これらの兵器は (そして他のほとんどの兵器も) 弾薬を装填しないと使うことができません。 これらのレールガンには `アンチマター弾 (Antimatter Charge S)` が数斉射分装填されています。 しかし、カーゴホールドに少なくとも1000斉射くらい撃てるほどの量の弾薬を持ち歩くべきです。 アンチマター弾はハイブリッド弾の中では最も射程が短いですが、与えるダメージも最も大きいです。
 
-Rookie ships (corvettes) use weapons from the 'small' size bracket.
-This fit uses two `75mm Gatling Rail I` turrets in the high slots.
-Railguns are a long-ranged weapon system, relative to Blasters, the short-ranged hybrid-gun option.
-While they pack a bit less punch, the Railguns let you engage sooner,
-without spending as much time flying into range while taking enemy fire.
+そして、長距離武装のレールガンと組み合わせて使うことで、中距離で効果的に戦うことができます。 その場合、ふつうは約2500mで敵をオービットしたくなるはずです。 動き続ける敵から遠すぎても近すぎても、射撃は外れやすくなってしまいますからね。
 
-Unlike civilian guns, these - and most other weapons - have to be loaded with ammunition to function.
-The railguns are loaded with `Antimatter Charge S` rounds.
-You should carry at least 1000 rounds with you.
-They are the shortest-range hybrid ammunition, but inflict the most damage. 
+また、 `ホーネットI (Hornet I)` 戦闘用ドローンを使うこともできます。これは遠くの敵に自分で交戦しにいき、キネティックダメージを与え、さらに弾薬とは異なり繰り返し使うことができます。 ワープで帰る前に、もしくはドローンが敵の攻撃でダメージを受けているとき、ドローンベイに帰還するよう命令するのを忘れないようにしてください。
 
-When used in combination with the long-range railguns, they allow you to fight effectively at medium range.
-You will usually want to command your ship to orbit at about 2500m from your target.
-Being too near or too far from a moving target may cause your shots to miss.
-
-The reusable `Hornet I` combat drone can be launched to fly independently to distant enemies,
-dealing Kinetic damage to them.  Remember to order your drone to return to your
-Drone Bay before warping, or if it is taking damage from enemy fire.
-
-{{% notice info %}}
-To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% notice info %}}  
+戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。  
+これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 
 {{% /notice %}}
 
-Additionally, the Ibis fits a `Magnetic Field Stabilizer I` in a low slot.
-This passively increases the damage output and rate of fire of its railguns.
+さらに、このイビスはロースロットに `磁場制御機I (Magnetic Field Stabilizer I)` を装備しています。  
+これによってレールガンのダメージ出力と連射速度が自動的に強化されます。
 
-### Defenses
+### 防御
 
-Since the Ibis is bonused for shield resistances, this fit is designed around shields.
-It uses a `Small Shield Booster I` in one of the medium slots.
-While leaving it active for extended periods can severely strain the ship's capacitor,
-it will greatly increase survivability when used in short bursts.
+イビスはシールドの属性防御にボーナスを持っているので、このFITはシールドを重視しています。 `小型シールドブースターI (Small Shield Booster I)` をミディアムスロットの１つに装備しています。 これを付けっぱなしにしていると船の電力への負担が激しくなりますが、短い時間途切れ途切れに使うことによって生存性を上げることができます。
 
-The Ibis also fits a `Damage Control I`, which increases the ship's resistances, 
-reducing incoming damage and making the shield booster work more effectively.
+また、船の属性耐性 (レジスタンス) を上げる `ダメージ制御I (Damage Control I)` も装備しています。レジスタンスを上げることで被ダメージが減り、シールドブースターが効果的に働くようになります。
 
-### Utility
+### ユーティリティ
 
-The `1MN Afterburner I` provides your ship with additional speed. 
-This makes it easier to bring enemy ships into an appropriate range for your guns,
-and to maintain that distance.  The increased speed can also help you evade enemy fire.
+`1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。 これによって敵を攻撃する際の適切な攻撃範囲に船を移動させやすくなり、またその距離を維持しやすくもなります。 また、高速で移動することで敵の攻撃も当たりづらくなります。
 
-### Where do I get this stuff?
+### どこで手に入れたらいいの？
 
-You may already have some of these modules, but if you don't, it's time to go use the Market.
-The next chapter will walk you through how to effectively use the market to purchase items.
+これらのうちいくつかのモジュールは既に持っているでしょうが、もし持っていないならば、マーケットの出番です。  
+次の章では、マーケットを使いこなして欲しいものを買う方法をお教えしましょう。

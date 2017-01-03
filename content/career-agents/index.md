@@ -1,26 +1,21 @@
-+++
-title = "Talk to Career Agents"
-toc = true
-icon = "<b>4. </b>"
-date = "2016-11-18T18:56:39-08:00"
-next = "/career-agents/business/"
-prev = "/market/hubs/"
++++  
+title = "キャリアエージェントと話す"  
+toc = true  
+icon = "**4. **"  
+date = "2016-11-18T18:56:39-08:00"  
+next = "/career-agents/business/"  
+prev = "/market/hubs/"  
 +++
 
-In addition to the introductory tutorial, there are also a handful of Career Agents
-which will provide you with various missions introducing you to a particular kind of
-gameplay. These missions are an excellent way to explore some of the possibilities in
-EVE while also acquiring some extra ISK and ship hulls.
+最初の入門チュートリアルに加えて、様々なミッションを通してある特定の遊び方を紹介してくれるキャリアエージェントたちも存在しています。 これらのミッションは EVE でできること・したいことを色々探して見る最適の方法であると同時に、達成することでそれなりの ISK や新たな艦船を貰ったりすることもできます。
 
-{{% notice tip %}}
-If you need to open the Career Agents window again (e.g. because you closed it),
-press <kbd>F12</kbd> to open the 'Help' window and click the 'Show Career Agents' button.
+{{% notice tip %}}  
+もしキャリアエージェントウィンドウをもう一回開き直す必要があるなら (例えば: 間違って閉じちゃったとか) 、  
+<kbd>F12</kbd> で表示される「ヘルプ」ウィンドウから「キャリアエージェントを表示」ボタンを押してください。
 {{% /notice %}}
 
-We recommend that you complete all of the career agent mission chains now. The pages in
-this section will provide brief descriptions of what each chain will teach you and the
-rewards you will receive for completing them.
+私達としては、連続しているキャリアエージェントミッションの数々を、今から全部やってみることをオススメします。 この章のページでは、それぞれの連続ミッションで学べることや、達成することで得られる報酬について、簡単に説明していきます。
 
-{{% notice note %}}
-Be sure to read all mission text carefully - some objectives are easily missed.
+{{% notice note %}}  
+ミッションの内容を注意深く読んでください - いくつかの目標はとても見逃してしまいがちです。  
 {{% /notice %}}

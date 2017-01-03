@@ -1,6 +1,6 @@
 baseurl = "https://www.thealphasguide.com/"
-title = "The Alpha's Guide to the Galaxy"
-languageCode = "en-us"
+title = "銀河カプセラガイド"
+languageCode = "ja-jp"
 
 theme = "hugo-theme-learn"
 publishdir = "public"

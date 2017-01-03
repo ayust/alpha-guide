@@ -1,40 +1,26 @@
++++  
+toc = true  
+date = "2016-11-18T18:59:33-08:00"  
+title = "ビジネスエージェント"  
+weight = 1  
+next = "/career-agents/exploration/"  
+prev = "/career-agents/"  
 +++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "Business Agent"
-weight = 1
-next = "/career-agents/exploration/"
-prev = "/career-agents/"
-+++
 
-This mission chain is **Balancing the Books**. Its 10 missions will have you doing
-salvaging, hacking, mining, and a bit of running around delivering things to agents
-in different systems. These are ways that you can make money in EVE without having
-to use your weapons.
+この連続ミッションは **帳尻合わせ** という名前です。 この10連ミッションでは、サルベージやハッキング、採掘、そして違う星系にいるエージェントへのちょっとした輸送を行うことになるでしょう。 これらの方法でなら、EVE 世界において武器を使わなくてもお金を稼ぐことができます。
 
-If you get stuck, there's a video guide to the missions that begins
-here: https://www.youtube.com/watch?v=2RtjAYs8spU
+もしつまづいてしまった場合、プレイヤー運営の B-OSP Wiki にあるミッションのガイドを読むこともできます:  
+http://seesaawiki.jp/eveonline_b-osp_wiki/d/%C4%A2%BF%AC%B9%E7%A4%EF%A4%BB%A1%CA1%A1%BF10%A1%CB
 
-Since the video guide was made in 2015, the older interfaces may look a bit
-different from what you see now, but the general steps to complete the mission
-will be the same.
+このページは2015年に作られたものなので、インターフェースが古くてあなたが今見ているものとちょっと違っているかもしれませんが、ミッションをクリアする大筋の手順は同じままでしょう。
 
-As you complete the chain, you'll earn a couple of new ships, some skill books,
-some modules, and a good chunk of ISK.
+10連ミッションをすべて終えたら、新しい艦船、スキル本、モジュール、そしてそこそこいい額のISKを獲得できます。
 
-#### Common Stumbling Blocks
+#### よくあるつまづき
 
- * In mission 2 of 10, the Black Box is inside the "Civilian Transport Ship Wreck"
-   near the NPC pirate.  Use the provided Civilian Salvager module to access the wreck,
-   then loot the Black Box from it and return to your agent.
- * In mission 3 of 10, you must mine Veldspar from the mission site to complete the mission,
-   even if you already have sufficient Tritanium.  Mining from an asteroid belt will not complete the mission.
- * In mission 6 of 10, the Tracking Computer I is most easily acquired from the Market.
-   See the [Use the Market](/market/) section if you're having trouble.
- * In mission 9 of 10, you can use `1MN Afterburner I` modules acquired from other Career Agent
-   missions or from the Market.  Make sure they are Repackaged (right-click -> "Repackage")
-   or the agent will not accept them.
- * In mission 10 of 10, the manufacturing process will take substantial time;
-   you can do other things (such as other career agent missions) while the build is in progress.
-   Some of the minerals required may be most easily sourced through the Market rather than via mining.
-   You can also just buy the ammunition off the market, despite what the agent says.
+- 2番目のミッションでは、必要なブラックボックスはNPC海賊の近くにある「市民輸送船残骸」の中にあります。 支給された民間人仕様サルベージャーを使ってその残骸にアクセスし、それからブラックボックスを回収してエージェントの元に帰還しましょう。
+- 3番目のミッションでは、もし十分な量のトリタニウムを既に持っていても、ミッションサイトでベルドスパーを採掘しなければミッションを達成することはできません。アステロイドベルトで採掘しても、同様にミッションは達成できません。
+- 6番目のミッションでは、トラッキングコンピューターIはマーケットで買ってしまうのが一番楽でしょう。  
+    もし困ったことがあったら、 [マーケットを使ってみよう](/market/) の章を見なおしてみてください。
+- 9番目のミッションでは、 他のキャリアエージェントから貰ったり、マーケットで買ったりした `1MNアフターバーナーI (1MN Afterburner I)` モジュールを使うことができます。 その際は、必ずリパッケージ (右クリック -> 「リパッケージ」) するようにしてください。そうしなければ、エージェントには受け取ってもらえないでしょう。
+- 10番目のミッションでは、製造プロセスが終わるまでには大幅に時間がかかるでしょう。製造中に、他のこと (例えば他のキャリアエージェントのミッション) をすることもできます。 必要なミネラルのうちいくつかは、採掘するよりマーケットで買ってしまったほうが、ほとんどの場合手に入りやすいでしょう。 エージェントの言ったことを無視して、弾薬をマーケットで購入してしまうこともできます。

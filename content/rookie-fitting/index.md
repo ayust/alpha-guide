@@ -1,23 +1,17 @@
++++  
+icon = "**2. **"  
+date = "2016-11-18T17:26:45-08:00"  
+title = "ルーキーシップをFITしよう"  
+prev = "/start/prereqs/"  
 +++
-icon = "<b>2. </b>"
-date = "2016-11-18T17:26:45-08:00"
-title = "Fit Your Rookie Ship"
-prev = "/start/prereqs/"
-+++
 
-Now that you're done with the tutorial (and probably just got your ship blown up),
-you might be wondering what to do next.
+さて、チュートリアルが終わった (そしておそらく撃墜されてきた) ところでしょう。
 
-Don't panic!
+パニクってはいけません！
 
-The easiest ship to get your hands on is your own race's corvette (typically known
-as a "rookie ship"). You get one for free if you don't have any other ships in the
-station you're in. In fact, you probably already have one if you docked up after
-exploding.
+EVE 宇宙でもっとも簡単に手に入る船はコルベット艦 (ふつうは「ルーキーシップ」と呼ばれています) です。 もしあなたがステーションに入港したときに船を何も持っていないならば、一隻無料で手に入れることができます。 実際のところ、爆死した後目覚めたステーションに既に一隻用意されているはずです。
 
-You can significantly improve the effectiveness of your rookie ship by properly fitting
-it with modules bought from the market. Select your race below to see a suggested fit
-for your racial rookie ship that you can use without having to train more skills.
+マーケットで手に入れたモジュール (装備) を適切にFITする (装備する) ことで、あなたのルーキーシップを大幅に強化することができます。 あなたの種族を選んで、その種族のルーキーシップのオススメのFITを見てみましょう。自分の種族のルーキーシップはこれ以上新たにスキルをトレーニングしなくても使うことができます、
 
-[Amarr](/rookie-fitting/amarr/) / [Caldari](/rookie-fitting/caldari/) /
-[Gallente](/rookie-fitting/gallente/) / [Minmatar](/rookie-fitting/minmatar/)
+[アマー (Amarr)](/rookie-fitting/amarr/) / [カルダリ (Caldari)](/rookie-fitting/caldari/) /  
+[ガレンテ (Gallente)](/rookie-fitting/gallente/) / [ミンマター (Minmatar)](/rookie-fitting/minmatar/)

@@ -1,66 +1,44 @@
++++  
+title = "ミッションランナー"  
+toc = true  
+date = "2016-11-18T18:56:39-08:00"  
+weight = 1  
+prev = "/new-goals/mining/"  
+next = "/new-goals/ratting/"  
 +++
-title = "Mission Running"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/new-goals/mining/"
-next = "/new-goals/ratting/"
-+++
 
-### What
+### って何？
 
-Mission running is PvE content: getting missions from NPC agents
-and then completing them for the mission rewards and the bounties from
-any hostile NPCs you destroy along the way.
+ミッションはPvEコンテンツです: NPCエージェントからミッションを受諾し、完了して報酬をもらい、そしてそのなかで撃墜した敵性 NPC にかかっていた懸賞金も手に入れます。
 
-### How
+### どうやって？
 
-If you decide to pursue mission running as a source of income, you'll
-want to build up standing with a particular NPC corporation in order
-to get access to higher tiers of mission agents (which can then give
-you harder missions with better rewards).  Training the skills `Social`
-and `Connections` will grant you quicker access to higher-level missions.
+もしミッション回しを主な収入源として暮らしていくならば、特定のNPCコープからのスタンディングを上げ、より高い地位のミッションエージェント (より難しいミッションとより高い報酬をくれます) に接触できるようになりたくなるでしょう。 `ソーシャル` と `コネクション` のスキルを鍛えることで、そのような高位のミッションをより早くもらえるようになります。
 
-In order to tackle these harder missions you'll also want to continue
-upgrading to larger classes of ships such as cruisers and battlecruisers.
-In general, you'll want:
+これらのより難しいミッションに取り組むためには、船を巡洋艦や巡洋戦艦といったもっと大きな艦種に乗り換えていきたくなるでしょう。  
+一般的に必要なのは:
 
- * Frigates/destroyers for Level 1 missions
- * Destroyers/cruisers for Level 2 missions
- * Cruisers/battlecruisers for Level 3 missions
- * A well-fit battlecruiser for Level 4 missions
+- レベル1ミッション: フリゲートもしくは駆逐艦
+- レベル2ミッション: 駆逐艦もしくは巡洋艦
+- レベル3ミッション: 巡洋艦もしくは巡洋戦艦
+- レベル4ミッション: 適切にFITした巡洋戦艦
 
-{{% notice note %}}
-The only battlecruiser that alpha clones can use is the `Gnosis`.
+{{% notice note %}}  
+アルファクローンで使える唯一の巡洋戦艦は `グノーシス` です。  
 {{% /notice %}}
 
-You can read more on the [UniWiki 'Missions' page](http://wiki.eveuniversity.org/Missions).
+詳しくは、 [B-OSP Wiki のミッション関連のページ](http://seesaawiki.jp/eveonline_b-osp_wiki/d/%A5%DF%A5%C3%A5%B7%A5%E7%A5%F3%B4%F0%C1%C3%C3%CE%BC%B1) を見てみてください。
 
-Once you've received a mission from an agent, you can look it up in the
-[EVE-Survival](http://eve-survival.org/wikka.php?wakka=MissionReports)
-mission listings to get more details about what kind of dps you might face
-from enemies in the mission and which enemise may trigger more spawns.
+エージェントからミッションを受領した際、 [EVEonlineJP Wiki](http://wikiwiki.jp/eveonlinejp/?%A5%DF%A5%C3%A5%B7%A5%E7%A5%F3) にあるミッション一覧を見て、どのような強さの攻撃を受けるのかや、どの敵を倒すと次の敵集団が出現するかなど、ミッションに関する詳しい情報をチェックすることができます。
 
-{{% notice warning %}}
-Killing ships of the four major empires will often net you large penalties to [faction 
-standings](http://wiki.eveuniversity.org/Faction_Standings) with them.
-If those standings get very low (below -5.0), you will be shot on sight in their space.
-For that reason, it is recommended to decline missions that send you to fight the 
-four major empires (Amarr, Caldari, Gallente, and Minmatar).
+{{% notice warning %}}  
+四大帝国所属の艦船を撃墜してしまうと、彼らからあなたへの [勢力スタンディング](http://wiki.eveuniversity.org/Faction_Standings) が大きく下がってしまうことがしばしばあります。 もしそのスタンディングがとても低く (5.0以下) なってしまった場合、彼らの領土に進入するとすぐに攻撃されてしまうでしょう。 そういう理由で、四大帝国 (アマー、カルダリ、ガレンテ、ミンマター) と戦わされるようなミッションは断ることをオススメします。
 {{% /notice %}}
 
-You can see the icon for the type of enemies the mission will send you to fight in the Mission Objectives.
-You can decline one mission per four hours from a given agent without penalty, 
-and receive a new one in its place; declining frequently will carry a standings penalty
-with the mission issuer.  If you need to decline more frequently, consider
-finding another nearby agent and doing missions for them while you wait.
+ミッション目標の欄にあるアイコンによって、ミッションでどの勢力の敵と戦うことになるのかを確かめることができます。 ミッションは各エージェントごとに4時間に１回だけ、ペナルティなしで断ることができ、代わりに新しいミッションを受領することができます。しかし、頻繁に断るとエージェントからのスタンディングが下がってしまうでしょう。 もしより頻繁にミッションを断らなければいけないならば、近くにいる別のエージェントを探して、4時間経つのを待つ間にそちらのミッションをやることを検討してください。
 
-### Why
+### なんで？
 
-Mission running produces a fairly steady stream of ISK - the mission rewards
-will pay out a certain amount, plus you'll also be paid the bounties for any
-hostile NPCs you killed.
+ミッション回しはかなり安定したISK収入源となるでしょう - ミッション報酬として毎回一定の金額を受け取ることができ、さらに撃墜したあらゆる敵対的NPCに応じて懸賞金が支払われるでしょう。
 
-You'll also be rewarded with loyalty points (LP) for the NPC corporation that
-is giving you the missions. These LP can be traded for items from the NPC corp's
-Loyalty Point Store.
+さらに、ミッションをくれたNPCコープ固有のロイヤルティポイント (LP) も同時に獲得できます。このLPを使うと、そのNPCコープのロイヤリティポイントストアでアイテムを購入することができます。

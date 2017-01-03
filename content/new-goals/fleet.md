@@ -1,41 +1,26 @@
++++  
+title = "フリートPvP"  
+toc = true  
+date = "2016-11-18T18:56:39-08:00"  
+weight = 1  
+prev = "/new-goals/fw/"  
+next = "/new-goals/ganking/"  
 +++
-title = "Fleet PvP"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/new-goals/fw/"
-next = "/new-goals/ganking/"
-+++
 
-### What
+### って何？
 
-Fleet PvP involves flying together with potentially hundreds of other players,
-to meet fleets of other players on the field of battle and destroy them.
+フリートPvPは、他の人々と、ひょっとすると何百人ものプレイヤーと一緒に船を飛ばし、他のプレイヤーのフリートと戦場で出会い、そして撃墜する、といったものです。
 
-### How
+### どうやって？
 
-Most large fleets are driven by battles between corporations.
-As such, taking place in a large fleet battle usually means being in one of the corporations involved.
+大規模フリートはほとんどの場合、コーポレーション間の戦闘において運用されています。そういうこともあって、普通、大規模なフリートに参加するということは、戦闘を行っているコープのうちの1つに参加することを意味します。
 
-Some of the better-known corporations which actively recruit new players and 
-seek out large-scale fleet battles are Brave Newbies and Pandemic Horde.
-These battles can also be found in many, many corporations throughout New Eden;
-probably the best place to search is in sovereignty-holding nullsec alliances.
+新人カプセラを積極的に受け入れ、大規模な戦闘を追い求めていることで有名なコーポレーションは Brave Newbies と Pandemic Horde です。(訳者注: 英語圏のコープです) そのような戦闘にはニューエデン中のたくさん、とてもたくさんのコープが参加しています。おそらく、領有権を持っているヌルセクアライアンスに所属しているコープを探すのが一番よいでしょう。
 
-There are also some groups which accept pilots from any corporation into their fleets,
-and then set out to stir up trouble against any groups they come across
-(known as "NPSI" fleets, for "Not Purple, Shoot It", referring to the fact that
-any non-fleetmate is a viable target)
-rather than trying to accomplish a strategic objective for their own benefit.
-The best-known of these is Spectre Fleet, but others certainly exist.
+プレイヤー集団のうちいくつかは、彼らのフリートに他のどのコーポレーションのパイロットでも参加することを認めています。そして、自分たちの利益のために戦略的な目標を達成しようとするわけではなく、むしろ戦闘を楽しむために、出会った他の集団に対して無差別に喧嘩を吹きかけています。 (このようなフリートは英語の「Not Purple, Shoot It」 の頭文字を取って「NPSI」フリートと呼ばれていて、これは日本語で言えば「同じフリートでないプレイヤーは全員標的にする」という意味です。) 一番有名なものは Spectre Fleet ですが、同じようなことをしている他の集団も確かに存在しています。
 
-Alternately, the group Red Vs. Blue holds arranged fleet battle in high-security space,
-and focuses on new-player-friendly ships and relatively fair fights, 
-offering the large fleet battle experience without the commitment of living in null-security space.
+また、「Red Vs. Blue」という集団はハイセク領域においてフリート戦を編成・開催していて、新人プレイヤーでも扱いやすい船を使うことと、比較的公平な戦いをすることに重点を置いています。これによって、ヌルセク領域で生活しなくても、大規模なフリート戦闘を楽しむことができます。
 
-### Why
+### なんで？
 
-Large fleet battles are primarily driven by conflicts between player corporations and alliances.
-Conflicts can arise for a variety of reasons - desire to claim more territory and enjoy its resources,
-grudge matches over long-ago insults, mercenary contracts, or any of a countless number of others.
-By working together, you'll have the chance to make a lasting mark on the face of EVE.
+大規模なフリート戦は主にプレイヤーが運営するコーポレーションやアライアンス同士の衝突によって引き起こされています。 衝突はいろいろな理由で起こります - より多くの領土の支配権を握り、豊かな資源を満喫したいという欲望のため、昔受けた屈辱に対する恨みを晴らすため、傭兵として戦う契約を受けたから……他にも数えきれないほどたくさんの理由があります。 彼らと一緒に戦うことによって、あなたの名をEVE宇宙に轟かせるきっかけが生まれるでしょう。

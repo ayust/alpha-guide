@@ -1,116 +1,98 @@
++++  
+nomenu = true  
+toc = true  
+date = "2016-11-18T17:33:01-08:00"  
+title = "Tormentor"  
+weight = 1  
+prev = "/upgrading-ships/amarr/"  
 +++
-nomenu = true
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Tormentor"
-weight = 1
-prev = "/upgrading-ships/amarr/"
-+++
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119455/svg/119455-alpha-clone---starter-tormentor-wdrones.svg?privatetoken=3966349955089563648"><a href="https://o.smium.org/loadout/private/119455/3966349955089563648">View Alpha Clone - Starter Tormentor w/Drones on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119455/svg/119455-alpha-clone---starter-tormentor-wdrones.svg?privatetoken=3966349955089563648"><a href="https://o.smium.org/loadout/private/119455/3966349955089563648">View Alpha Clone - Starter Tormentor w/Drones on Osmium</a></object>### 武器
 
-### Weapons
-
-The Tormentor uses 3 `Small Focused Pulse Laser I` turrets.
-Pulse lasers are the "short-ranged" laser system, dealing more damage with better tracking
+The Tormentor uses 3 `Small Focused Pulse Laser I` turrets.  
+Pulse lasers are the "short-ranged" laser system, dealing more damage with better tracking  
 than the longer-ranged beam lasers.
 
-The pulse lasers are each loaded with a single `Multifrequency S` crystal.
-These basic crystals will never burn out, so you will only need to buy three.
-Multifrequency is the shortest-ranged basic crystal, but does the most damage.
-Since you're going to be fighting at close range anyway, more damage is good.
+パルスレーザーはそれぞれ `多周波S (Multifrequency S)` クリスタルを一つ装填しています。 These basic crystals will never burn out, so you will only need to buy three. 多周波クリスタルは最も射程が短く、最もダメージが高い基本クリスタルです。 Since you're going to be fighting at close range anyway, more damage is good.
 
-The Tormentor also includes two `Hobgoblin I` and two `Acolyte I` combat drones.
+The Tormentor also includes two `Hobgoblin I` and two `Acolyte I` combat drones.  
 Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
 
-{{% notice info %}}
-To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% notice info %}}  
+To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I.  
+We recommend you use some of the skill points from the Mini Skill Injector  
+given in the tutorial to train these skills, as they will be useful in many ships. ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。
 {{% /notice %}}
 
-Additionally, this fit uses a `Heat Sink I` in a low slot.
+Additionally, this fit uses a `Heat Sink I` in a low slot.  
 This passively increases the damage output and rate of fire of its lasers.
 
-### Defenses
+### 防御
 
 This ship uses a `Small Armor Repairer I` in one of the low slots to repair incoming damage.
 
-It also fits a `Damage Control I` and an `Adaptive Nano Plating I` in its low slots
+It also fits a `Damage Control I` and an `Adaptive Nano Plating I` in its low slots  
 to increase its resistance to damage.
 
-### Utility
+### ユーティリティ
 
-The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
-catch enemy ships and also makes your ship harder to hit.
+`1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。これによって敵に追いつくのが簡単になり、敵の攻撃を食らいにくくもなります。
 
-The `Stasis Webifier I` helps your lasers apply their damage better, because it's easier to hit
-the slower targets. (It also makes it easier to stay in range of the slower enemies.)
+`ステイシスウェビファイヤーI (Stasis Webifier I)` を使うと敵の速度を遅くすることができるのでレーザーが当たりやすくなり、与えるダメージが増えます。(また、速度が遅い敵と一定距離を保つのにも便利です。)
 
-The `Small Capacitor Booster I` can provide your ship with an instant injection of Capacitor.
-This module must be fueled by charges, which act as consumable batteries.  Load it with 
+The `Small Capacitor Booster I` can provide your ship with an instant injection of Capacitor. This module must be fueled by charges, which act as consumable batteries. Load it with   
 `Cap Booster 200` bought from the market, and bring along as many spares as you can carry (about 10).
 
 ### Rigs
 
-Rigs are passive modifications to a ship, trading off one attribute against another.
-Unlike modules, rigs cannot be removed without being destroyed. 
-As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
+Rigs are passive modifications to a ship, trading off one attribute against another. Unlike modules, rigs cannot be removed without being destroyed. As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs  
 are often relatively expensive and may be difficult to find near your starter station.
 
-A `Small Energy Collision Accelerator I` rig will give your energy turrets additional damage output,
+A `Small Energy Collision Accelerator I` rig will give your energy turrets additional damage output,  
 though it also increases the Powergrid usage of your guns.
 
 ### How To Fly
 
-This is designed as a brawling fit.  Fly in close to your targets
+This is designed as a brawling fit. Fly in close to your targets  
 and begin orbiting them at about 2500m, applying your web to slow them down.
 
-This ship has a Capacitor Booster.  As the charges for it are quite bulky,
-you can carry only a limited number.  Try to save the Booster charges for emergencies
-when you need the extra capacitor to run your repair module continuously. 
-Under normal circumstances, use your repper sparingly, off your ship's base capacitor.
-Keep an eye on your capacitor, and try not to let it go below about 25%.
+This ship has a Capacitor Booster. As the charges for it are quite bulky,  
+you can carry only a limited number. Try to save the Booster charges for emergencies  
+when you need the extra capacitor to run your repair module continuously. Under normal circumstances, use your repper sparingly, off your ship's base capacitor. Keep an eye on your capacitor, and try not to let it go below about 25%.
 
-As always, if the incoming damage is proving too much for your ship
+As always, if the incoming damage is proving too much for your ship  
 and you're beginning to take structure damage, warp out.
 
 ## Future Improvements
 
-The above fit should be usable with starting skills unless otherwise noted,
-and it uses relatively cheap and widely-available modules.  
+The above fit should be usable with starting skills unless otherwise noted,  
+and it uses relatively cheap and widely-available modules.
 
-As you accumulate skill points and ISK, you will be able to fit more potent
-modules to your ship, increasing its effectiveness.  These modules may not be
+As you accumulate skill points and ISK, you will be able to fit more potent  
+modules to your ship, increasing its effectiveness. These modules may not be  
 readily available outside of trade hubs, but it can be worth the trip.
 
-We recommend working towards the following improved fit:
-
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118455/svg/118455-alpha-clone---improved-tormentor.svg?privatetoken=7188800484906369024"><a href="https://o.smium.org/loadout/private/118455/7188800484906369024">View Alpha Clone - Improved Tormentor on Osmium</a></object>
-
-The improved fit will require the training of the following skills to use all installed equipment:
+We recommend working towards the following improved fit:<object type="image/svg+xml" data="https://o.smium.org/api/convert/118455/svg/118455-alpha-clone---improved-tormentor.svg?privatetoken=7188800484906369024"><a href="https://o.smium.org/loadout/private/118455/7188800484906369024">View Alpha Clone - Improved Tormentor on Osmium</a></object>The improved fit will require the training of the following skills to use all installed equipment:
 
 * `Weapon Upgrades` Level IV
 * `Hull Upgrades` Level IV
 * `Drones` Level III
 * `Light Drone Operation` Level I
 
-The improved fit adds two `Small Auxiliary Nano Pump I` to increase the
+The improved fit adds two `Small Auxiliary Nano Pump I` to increase the  
 effectiveness and efficiency of your Armor Repairer.
 
-Once you have the skills to use them, you should fill your Drone Bay with Combat Drones.
-`Hobgoblin I` drones have the most damage output, while `Warrior I` drones have the most speed.
+Once you have the skills to use them, you should fill your Drone Bay with Combat Drones. `Hobgoblin I` drones have the most damage output, while `Warrior I` drones have the most speed.
 
-Nearly every module has been improved to a "meta" version, requiring less fitting space
-and granting improved effectiveness, but costing more ISK and/or being less widely available,
+Nearly every module has been improved to a "meta" version, requiring less fitting space  
+and granting improved effectiveness, but costing more ISK and/or being less widely available,  
 or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:
 
- * Guns: 3x `Small Focused Anode Pulse Particle Stream I`
- * Propulsion: `1MN Y-S8 Compact Afterburner`
- * Web: `Fleeting Compact Stasis Webifier`
- * Injector: `Small Electrochemical Capacitor Booster I`
- * Damage Control: `Damage Control II`
- * Armor Repairer: `Small Armor Repairer II`
- * Damage Mod: `Heat Sink II`
- * Resists: `'Refuge' Adaptive Nano Plating I`
+* Guns: 3x `Small Focused Anode Pulse Particle Stream I`
+* Propulsion: `1MN Y-S8 Compact Afterburner`
+* Web: `Fleeting Compact Stasis Webifier`
+* Injector: `Small Electrochemical Capacitor Booster I`
+* Damage Control: `Damage Control II`
+* Armor Repairer: `Small Armor Repairer II`
+* Damage Mod: `Heat Sink II`
+* Resists: `'Refuge' Adaptive Nano Plating I`

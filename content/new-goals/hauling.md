@@ -1,61 +1,33 @@
++++  
+title = "輸送"  
+toc = true  
+date = "2016-11-18T18:56:39-08:00"  
+weight = 1  
+prev = "/new-goals/ganking/"  
+next = "/new-goals/mining/"  
 +++
-title = "Hauling"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/new-goals/ganking/"
-next = "/new-goals/mining/"
-+++
 
-### What
+### って何？
 
-The hauler's trade involves ferrying goods along the spacelanes of New Eden,
-whether raw materials to fuel the fires of industry,
-weapons, ammunition and ships to replace the losses of PvPers,
-or transporting underpriced goods to a location where they can be sold for a profit.
+輸送業者は、ニューエデンに広がる航路に沿って商品を運び、交易をします。それは産業を動かすのに欠かせない原料を供給するためであったり、PvPプレイヤーに武器・弾薬・船を補給するためだったり、叩き売りされている商品を高く売れる場所に搬送して利益を得るためだったりします。
 
-### How
+### どうやって？
 
-The primary tool of a hauler is the Industrial ship.
-These ships can haul tens or hundreds of times as much cargo as combat vessels,
-while being remarkably cheap themselves.
+輸送業者が主に使う船は輸送艦です。  
+これらの船は、戦闘用の船の何十倍・何百倍もの量の貨物を運ぶことができ、しかも非常に安価なのが特長です。
 
-If looking to be a trucker-for-hire, you'll want to look primarily at Courier contracts.
-Other players can offer payment to those willing to relocate their goods,
-rather than moving every ship, module and piece of ammo themselves.
+もしあなたが雇われトラック運転手になりたいなら、主に輸送契約を探して受領したくなることでしょう。 他のプレイヤーは自分の船やモジュールや弾薬をすべて自分で運ぶよりは、むしろ報酬を支払って運んでもらおうとすることがあるのです。
 
-When accepting a courier contract, you'll have to provide some ISK as collateral.
-That ISK will be returned to you when you complete the contract,
-but if you fail to complete it for any reason (such as the loss of your ship and the package),
-the collateral will be forfeit.  You can peek inside the packages you're transporting
-to see what's inside - if it's worth more than the collateral, you can simply keep the package yourself,
-forfeiting the collateral but gaining their goods.
+輸送契約を受領した時、担保としていくらかISKを払う必要があります。 担保は契約を完了したときに返却されますが、何らかの理由(例えば船を撃墜され荷物を失ってしまったとき)で失敗した場合、没収されてしまいます。 また、輸送する荷物の中身をのぞき見ることもできます - もしそれが担保より高値で売れそうならば、荷物を手元においたまま契約を放棄し、担保と引き換えに中身を頂いてしまってもよいのです。
 
-Finding a good courier contract can often be tough - there's a lot of other haulers out there,
-and many of the contracts available at any times are the ones other haulers have already
-declined to take, often due to poor rewards for the time and risk investment.
-Additionally, some courier contracts are, in essence, traps, requiring you to move through
-low-security space where you can be attacked freely, or requiring you to deliver things to a 
-station where you cannot dock, forcing you to fail the contract and forfeit your collateral.
+条件のいい輸送契約を探すのは大変な場合が多いです - 他にも輸送業者はたくさんいますし、受領可能な契約一覧はそういった先客が受領を拒否したものでいつも溢れかえっています。そのような契約は時間やリスクに対して報酬が少なすぎるのです。 さらに、輸送契約のうちの一部は、実質的には罠です。自由に攻撃されてしまうローセク領域を通らせたり、あなたに入港を許可しないステーションに配達させようとして、契約をわざと失敗させ、担保を没収しようとするのです。
 
-There are some corporations which have a hauling focus, the most notable being 
-Red Frog Freight and Push Industries.  Many courier contracts are issued directly
-to the hauling corporations rather than through public contracts,
-so if space trucking is your thing, you may want to look into joining one of these groups.
+いくつかのコーポレーションは輸送を活動の中心に据えています。そのなかでもっとも注目すべきなのは Red Frog Freight と Push Industries です。 輸送契約の多くは公開契約として発注されるのではなく、輸送専門コープに直接発注されています。そういうわけで、もしあなたが宇宙運送業界で生きていきたいのならば、そのようなコープに所属することを検討してみましょう。
 
-{{% notice warning %}}
-As noted in the Ganking section, other players can attack you in high-security space.
-Your best defense against this is to be aware, be alert, and never use autopilot,
-as it will leave you vulnerable for long periods while flying to the gates.
-Your second-best defense is to carry little enough value in your hold,
-and mount strong enough defenses, that you're un-economical to attack.
-In an Industrial, a good rule of thumb is not to exceed 20 million ISK in value 
-for each 10k EHP your ship has.
+{{% notice warning %}}  
+「海賊」の節で記したように、ハイセク領域でも他のプレイヤーに攻撃されることがあります。 これに対する最善の防御策は、注意・情報収集・そしてオートパイロットを決して使わないことです。オートパイロットを使うと、ゲートに移動する際に長い時間無防備な状態になってしまいます。 それに次ぐ防御策は、十分低い価値の貨物を積み、そして十分強力な防御を積むことで、カミカゼするのにかかるコストと見合わなくさせることです。 経験則としては、積む貨物の価格は、輸送艦の耐久力1万EHP (耐性まで考慮した有効HP) ごとに2000万ISKを超えないようにするとよいでしょう。
 {{% /notice %}}
 
-### Why
+### なんで？
 
-Hauling can provide a slow, but steady, stream of income
-while requiring a relatively small amount of player attention.
-Some also find it soothing to sail amongst the stars
-and watch the traffic of other players passing them by.
+輸送では、他の職業に比べて作業中にそこまで注意を払わなくてよく、控えめながらも安定した収入を得ることができます。 また、星々を渡り歩き、通りかかった他のプレイヤーが自分の船を走らせていく様を見守るのも、心地良いと感じるかもしれません。

@@ -1,27 +1,25 @@
++++  
+title = "学び続けよう"  
+toc = true  
+icon = "**9. **"  
+date = "2016-11-18T18:56:39-08:00"  
+next = "/reference/"  
+prev = "/corps/"  
 +++
-title = "Keep Learning"
-toc = true
-icon = "<b>9. </b>"
-date = "2016-11-18T18:56:39-08:00"
-next = "/reference/"
-prev = "/corps/"
-+++
 
-At this point you should be off to an excellent start in EVE:
+今この時点で、あなたは EVE 生活の最高のスタートを切ったと言えるでしょう：
 
- * You've explored different options for what to do.
- * You have some ships with effective fits and know how to use them.
- * You have a plan for training new skills.
- * You've (probably) found a group of people to play with.
+- これから何をしようか様々な選択肢を検討した。
+- 効果的なFITの艦船をいくつか持っていて、それを使ってどのように戦えばいいか知っている。
+- 新しいスキルをトレーニングしていく計画がある。
+- あなたが一緒に遊びたいと思う人々の集まりを (たぶん) 見つけた。
 
-EVE has a lot of complexity. To explore more of it, consider checking out some of these other
-excellent sites:
+EVE は非常に複雑なゲームです。様々な要素についてさらに調べていくには、これらの別の素晴らしいウェブサイトを見てみることをオススメします。
 
- * [UniWiki](http://wiki.eveuniversity.org) is maintained by EVE University with articles on a wide
-variety of EVE topics.
- * [BRAVE Wiki](https://wiki.braveineve.com/) is another wiki maintained by Brave Newbies.
- * [Crossing Zebras](http://crossingzebras.com/) is an EVE fan site with many articles and podcasts about EVE.
- * The official [EVE Community](https://community.eveonline.com/) site has news, patch notes, and forums to read.
+- [UniWiki](http://wiki.eveuniversity.org) は EVE University によって管理されている、EVE に関する様々な話題を取り扱っているサイトです。
+- [BRAVE Wiki](https://wiki.braveineve.com/) は Brave Newbies によって管理されている Wiki です。
+- [Crossing Zebras](http://crossingzebras.com/) は様々な記事やポッドキャストを掲載している EVE のファンサイトです。
+- 公式サイトである [EVE Community](https://community.eveonline.com/) ではニュースやパッチノート、そしてフォーラムを読むことができます。
 
-You can also browse the final section of this site (Reference Material) for individual tips and information that
-didn't fit into the "walkthrough" portion of the guide.
+(訳者注: 上記のサイトはすべて英語です。)  
+また、このサイトの最後の章 (参考資料) では、細かい豆知識や、このガイドの「ひと通りやってみる」という側面にそぐわないような情報を見ることもできます。

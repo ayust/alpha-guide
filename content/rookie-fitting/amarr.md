@@ -1,56 +1,36 @@
++++  
+toc = true  
+date = "2016-11-18T17:33:01-08:00"  
+title = "アマー (インパロール)"  
+weight = 1  
+next = "/market/"  
+prev = "/rookie-fitting/"  
 +++
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Amarr (Impairor)"
-weight = 1
-next = "/market/"
-prev = "/rookie-fitting/"
-+++
 
-The Amarr corvette is the Impairor.
+アマー向けのコルベット艦は「インパロール (Impairor)」です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">Alpha Impairor w/Drones を Osmium で見る</a></object>### 武器
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">View Alpha Impairor w/Drone on Osmium</a></object>
+ルーキーシップはフリゲート艦の一種なので、「小型 (small)」欄にある武器が装備できます。 このFITでは `ガトリングパルスレーザーI (Gatling Pulse Laser I)` タレットを2台ハイスロットに装備しています。 パルスレーザーは射程が短いですが、ビームレーザーよりもFITしやすい (装備に必要なCPUやパワーグリッドが少ない) のが特徴です。 ルーキーシップにおいては接近戦が普通の戦い方ですので、近距離武装を使うのがぴったりです。
 
-### Weapons
+パルスレーザーはそれぞれ `多周波S (Multifrequency S)` クリスタルを一つ装填しています。 これらの基本クリスタルは燃え尽きることがないので、2つだけあれば大丈夫です。 多周波クリスタルは最も射程が短く、最もダメージが高い基本クリスタルです。 結局のところ接近戦を仕掛けるのですから、与えるダメージは大きい方がいいでしょうね。
 
-Since rookie ships are frigates, they use weapons from the 'small' size bracket.
-This fit uses two `Gatling Pulse Laser I` turrets in the high slots.
-Pulse lasers are shorter ranged but easier to fit than beam lasers.
-Because you're generally going to be fighting things at close range
-in a rookie ship, using a shorter-ranged weapon system is fine.
+また、 `アコライトI (Acolyte I)` 戦闘用ドローンを使うこともできます。これは遠くの敵に自分で交戦しにいき、EMダメージを与え、さらに弾薬とは異なり繰り返し使うことができます。 ワープで帰る前に、もしくはドローンが敵の攻撃でダメージを受けているとき、ドローンベイに帰還するよう命令するのを忘れないようにしてください。
 
-The pulse lasers are each loaded with a single `Multifrequency S` crystal.
-These basic crystals will never burn out, so all you need to buy is two.
-Multifrequency is the shortest-ranged basic crystal, but does the most damage.
-Since you're going to be fighting a close range anyway, more damage is good.
-
-The reusable `Acolyte I` combat drone can be launched to fly independently to distant enemies,
-dealing EM damage to them.  Remember to order your drone to return to your
-Drone Bay before warping, or if it is taking damage from enemy fire.
-
-{{% notice info %}}
-To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% notice info %}}  
+戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。  
+これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 
 {{% /notice %}}
 
-### Defenses
+### 防御
 
-Since the Impairor is bonused for armor resistances, this fit is designed around armor.
-It uses a `Small Armor Repairer I` in one of the low slots. It also fits a `Damage Control I`
-which increases the ship's resistances, reducing incoming damage and making the armor repairer
-more effective.
+インパロールはアーマーの属性防御にボーナスを持っているので、このFITはアーマーを重視しています。 `小型アーマーリペアラI (Small Armor Repairer I)`をロースロットの１つに装備しています。 また、船の属性耐性 (レジスタンス) を上げる `ダメージ制御I (Damage Control I)` も装備しています。レジスタンスを上げることで被ダメージが減り、アーマーリペアラが効果的に働くようになります。
 
-### Utility
+### ユーティリティ
 
-The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
-catch enemy ships and also makes your ship harder to hit.
+`1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。これによって敵に追いつくのが簡単になり、敵の攻撃を食らいにくくもなります。
 
-The `Stasis Webifier I` helps your lasers apply their damage better, because it's easier to hit
-the slower targets. (It also makes it easier to stay in range of the slower enemies.)
+`ステイシスウェビファイヤーI (Stasis Webifier I)` を使うと敵の速度を遅くすることができるのでレーザーが当たりやすくなり、与えるダメージが増えます。(また、速度が遅い敵と一定距離を保つのにも便利です。)
 
-### Where do I get this stuff?
+### どこで手に入れたらいいの？
 
-You may already have some of these modules, but if you don't, it's time to go use the Market.
-The next chapter will walk you through how to effectively use the market to purchase items.
+これらのうちいくつかのモジュールは既に持っているでしょうが、もし持っていないならば、マーケットの出番です。  
+次の章では、マーケットを使いこなして欲しいものを買う方法をお教えしましょう。

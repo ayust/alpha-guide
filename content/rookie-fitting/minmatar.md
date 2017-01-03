@@ -1,59 +1,41 @@
++++  
+toc = true  
+date = "2016-11-18T17:33:01-08:00"  
+title = "ミンマター (リーパー)"  
+weight = 1  
+next = "/market/"  
+prev = "/rookie-fitting/"  
 +++
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Minmatar (Reaper)"
-weight = 1
-next = "/market/"
-prev = "/rookie-fitting/"
-+++
 
-The Minmatar corvette is the Reaper.
+ミンマター向けのコルベット艦はリーパー (Reaper) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">Alpha Reaper w/Drones を Osmium で見る</a></object>### 武器
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">View Alpha Reaper w/Drone on Osmium</a></object>
+ルーキーシップ (コルベット艦) は、「小型 (small)」欄にある武器が装備できます。 このFITでは `125mmガトリングオートキャノンI (125mm Gatling AutoCannon I)` タレットを2台ハイスロットに装備しています。 オートキャノンはアーティラリより射程には劣りますが、より射撃が素早いのが特徴です。 ルーキーシップにおいては接近戦が普通の戦い方ですので、近距離武装を使うのがぴったりです。
 
-### Weapons
+これらのオートキャノンにはそれぞれ `フュージョン弾S (Fusion S)` が200発ずつ装填されていますが、戦闘の最中に弾切れになってしまわないように、カーゴホールドに予備の弾薬を少なくとも2000発は用意しておくべきでしょう。
 
-Rookie ships (corvettes) use weapons from the 'small' size bracket.
-This fit uses two `125mm Gatling AutoCannon I` turrets in the high slots.
-Autocannons are shorter ranged but faster firing than artillery.
-Because you're generally going to be fighting things at close range
-in a rookie ship, using a shorter-ranged weapon system is fine.
+フュージョン弾はプロジェクタイル弾のなかでは最も射程が短い種類の一つですが、他のものよりも大きなエクスプローシブ属性ダメージを誇ります。  
+結局のところ接近戦を仕掛けるのですから、ダメージは大きい方がいいでしょう。
 
-The autocannons are loaded with 200 `Fusion S` each, but you should carry at least 2000
-extra ammo in your cargo hold to make sure you don't run out while fighting.
+また、 `ウォリアーI (Warrior I)` 戦闘用ドローンを使うこともできます。これは遠くの敵に自分で交戦しにいき、エクスプローシブダメージを与え、さらに弾薬とは異なり繰り返し使うことができます。 ワープで帰る前に、もしくはドローンが敵の攻撃でダメージを受けているとき、ドローンベイに帰還するよう命令するのを忘れないようにしてください。
 
-Fusion is one of the shorter-ranged projectile ammo types, but does more explosive damage.
-Since you're going to be fighting a close range anyway, more damage is good.
-
-The reusable `Warrior I` combat drone can be launched to fly independently to distant enemies,
-dealing Explosive damage to them.  Remember to order your drone to return to your
-Drone Bay before warping, or if it is taking damage from enemy fire.
-
-{{% notice info %}}
-To use the combat drone, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% notice info %}}  
+戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。  
+これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。 
 {{% /notice %}}
 
-The `Gyrostabilizer I` in one of the low slots improves your projectile turrets, increasing
-their damage per shot and rate of fire.
+また、ロースロットに `回転制御機I (Gyrostabilizer I)` を一個装備して、プロジェクタイルタレットのダメージと連射速度を強化しています。
 
-### Defenses
+### 防御
 
-Since the Reaper is bonused for shield boosters, this fit is based around shields. It uses a
-`Small Shield Booster I` in one of the mid slots. (A medium shield booster could fit, but it
-uses much more capacitor for each cycle, which on a rookie ship will quickly run out.)
+リーパーはシールドブースターにボーナスを持っているので、このFITはシールドを重視しています。 `小型シールドブースターI (Small Shield Booster I)` をミディアムスロットの１つに装備しています。 (中型シールドブースターを装備することはできますが、小型に比べて一回ごとにとても大量のキャパシタを消費するので、ルーキーシップではすぐ電力を使い果たしてしまいます。)
 
-The fit also uses a `Damage Control I` in one of its low slots, which increases the ship's
-resistances, reducing incoming damage and making the shield booster more effective.
+また、船の属性耐性 (レジスタンス) を上げる `ダメージ制御I (Damage Control I)` も装備しています。レジスタンスを上げることで被ダメージが減り、シールドブースターが効果的に働くようになります。
 
-### Utility
+### ユーティリティ
 
-The `1MN Afterburner I` provides your ship with additional speed. This both makes it easier to
-catch enemy ships and also makes your ship harder to hit.
+`1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。これによって敵に追いつくのが簡単になり、敵の攻撃を食らいにくくもなります。
 
-### Where do I get this stuff?
+### どこで手に入れたらいいの？
 
-You may already have some of these modules, but if you don't, it's time to go use the Market.
-The next chapter will walk you through how to effectively use the market to purchase items.
+これらのうちいくつかのモジュールは既に持っているでしょうが、もし持っていないならば、マーケットの出番です。  
+次の章では、マーケットを使いこなして欲しいものを買う方法をお教えしましょう。

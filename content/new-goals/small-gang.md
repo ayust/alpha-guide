@@ -1,50 +1,28 @@
++++  
+title = "スモールギャングPVP"  
+toc = true  
+date = "2016-11-18T18:56:39-08:00"  
+weight = 1  
+prev = "/new-goals/salvaging/"  
+next = "/new-goals/trading/"  
 +++
-title = "Small-Gang PvP"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/new-goals/salvaging/"
-next = "/new-goals/trading/"
-+++
 
-### What
+### って何？
 
-Small-Gang PvP is the practice of hopping in a ship,
-heading out with yourself and a few friends,
-and looking for trouble and the elusive "good fight".
+スモールギャング (小規模フリート) PvPとは、船に飛び乗って、自分と数人の友達だけで戦いを求めて星々を渡り歩き、戦いの機会を、そしてなかなか見つけられない「グッド・ファイト ("良き戦い"、お互いの健闘を称える挨拶) 」を探し求める、というものです。
 
-### How
+### どうやって？
 
-Get a ship and get out there!
+船を用意して出かけましょう！
 
-Making some friends, or joining a corporation (the latter of which often leads to the former),
-means you'll have a group of people to go out on PvP "roams" with,
-but there's nothing stopping you from going out on solo roams.
+友達を何人か作ったり、コープに参加したり (後者の場合、しばしば前者につながります) することによって、PvPローミング (戦いを求めて旅して回ること) に一緒に行く仲間を得ることができます。しかし、一人でローミングに出かけることももちろんできます。
 
-One common piece of advice for new players, once they've gotten their feet under them
-and acquired some ISK, is to buy fifty frigates, then go out and lose each and every one - 
-and to try and learn something from each death.
+新人プレイヤーに共通して言えるアドバイスとしては、収入源を確保して、フリゲートを50隻用意できるくらい十分なISKを稼いでから、ローミングに出かけて一隻一隻と撃墜されてきましょう - そしてそれぞれの敗北から何か教訓を学び、それを次の船で試してみましょう。
 
-The targets of PvP roams can be varied, but will almost universally involve
-leaving high-security space.  Roaming through lowsec or nullsec are the most common,
-but wormhole roams are a possibility as well.  Using <a href=evemaps.dotlan.net>Dotlan</a>'s
-maps for the area you're flying through, especially the "NPC Kills" filter,
-can help you pick out areas with player activity; a large number of "Ship/Pod Kills"
-may indicate a gatecamp waiting to pick off anyone who comes through, which,
-depending on the size of your gang, may be a good or a bad thing.
+PvPローミングの活動場所は様々ですが、ハイセク領域を除けばほとんどどこでも行われています。 ローセクかヌルセク領域でのローミングが最も一般的ですが、ワームホール星系でのローミングも同様に行われることがあります。 <a href=evemaps.dotlan.net>Dotlan</a> を使ってローミングで通る地域の地図を眺めて、特に「NPC Kills」欄を見ることで、プレイヤーの活動が盛んな地域を調べて、そこを活動場所に選ぶことができます。また、「Ship/Pod Kills」欄の数が多い場合は、通りがかった人を狙い撃とうと待っているゲートキャンプがあることが予想されます。あなたのフリートの人数次第で、そこに突っ込むのは良いことにも悪いことにもなるでしょう。
 
-In gangs of more than a couple people, it's fairly common to have one player act as the "scout",
-moving ahead and finding targets of opportunity for the fleet to attack,
-or reporting danger that lies in the way.  This role is perfectly suited to Frigate pilots.
-Mastering the use of the Directional Scanner can be vital to a scout;
-see <a href=http://wiki.eveuniversity.org/Directional_Scanner_Guide>Eve University's Directional Scanner
-Guide</a> for more information.
+3人以上のフリートでは、1人のプレイヤーを「スカウト (偵察) 」として派遣することがかなり一般的です。先行してフリートが攻撃できそうな目標を探したり、航路上にある危険を知らせたりするのが役目です。 この役割はフリゲート乗りのパイロットに最適です。 スカウトにとっては、指向性スキャン (ディレクショナルスキャン、Dスキャン) の使い方を極めることが生命線となります。 詳しくは、 [B-OSP Wikiの「Dスキャンの使い方」のページ](http://seesaawiki.jp/eveonline_b-osp_wiki/d/D%A5%B9%A5%AD%A5%E3%A5%F3%A4%CE%BB%C8%A4%A4%CA%FD) をご覧ください。
 
-### Why
+### なんで？
 
-PvP in EVE can generate quite a rush,
-and several pilots report cases of "the shakes" after a close battle.
-Working with your friends to outsmart opponents and overpower them,
-or simply prey on any hapless victims you find,
-can be a good way to socialize with your fleetmates,
-grow as a pilot and, quite simply, have fun.
+EVEにおけるPvPはかなりの快感を生み出すことがあり、何人かのパイロットは激戦の後にある種の「発作」が起きる、とも言っています。 友達と一緒に敵を出し抜いて蹂躙したり、単にあなたが出会ったかわいそうな犠牲者の冥福を祈ったりすることは、戦友と仲良くなったり、パイロットとして成長したり、そして単純に楽しんだりするのに、とても良い方法と言えるでしょう。

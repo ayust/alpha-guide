@@ -1,135 +1,91 @@
-+++
-nomenu = true
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Venture"
-weight = 1
-prev = "/upgrading-ships/caldari/"
++++  
+nomenu = true  
+toc = true  
+date = "2016-11-18T17:33:01-08:00"  
+title = "ベンチャー"  
+weight = 1  
+prev = "/upgrading-ships/amarr/"  
 +++
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">Alpha Clone - Starter Venture w/Drones を Osmium で見る</a></object>
 
-{{% notice info %}}
-Mining frigates are primarily intended for gathering resources rather than combat.
-As such, this ship's turret hardpoints are used for mining lasers rather than weaponry,
-leaving it **unarmed**.
-For self-defense in asteroid belts, 
-or for missions where destroying ships is required in addition to mining ore,
-it is highly recommended to train for the use of Drones.
-Otherwise, if you find yourself forced into combat, your best option is to simply run away.
+{{% notice info %}}  
+採掘フリゲートは戦闘のためではなく、主に資源採掘のためのものです。 よって、この船のタレットハードポイントは武器ではなく採掘レーザーによって埋まることになります。  
+**武装せずに**残しておきましょう。 アステロイドベルトでの自己防衛のため、もしくは鉱石採掘に加えて敵を倒さないといけないようなミッションのために、ドローンを使えるようスキルを取ることを強くオススメします。 それ以外の場合、もし戦闘せざるを得ない状況に陥ったならば、単に逃げてしまうのが最良の選択肢です。
 {{% /notice %}}
 
-### Mining Tools
+### 採掘用ツール
 
-The Venture uses two `Miner I` in its high slots.
-Its role bonus makes them as effective as four Miners would be on most other ships,
-and training the Mining Frigate skill higher can improve that further.  Note that mined ore
-will go into the venture's 5000 m3 ore hold, rather than its 50 m3 main cargo bay.
+ベンチャーにはハイスロットに `採掘機I (Miner I)` を2機装備します。 固定ボーナスによって、他の船に4機の採掘機を装備したのと同じ採掘効率を得られ、採掘フリゲートスキルを伸ばすことによってさらに効率を上げることができます。 採掘された鉱石は 50m3 しかないメインのカーゴベイではなく、 5000m3 の容量がある鉱石ホールドに格納されることに注意してください。
 
-It also mounts a `Survey Scanner I` in a mid slot,
-which you can use to view the amount of ore remaining in nearby asteroids,
-so that you will know when your current asteroid is nearly depleted
-and which others have the largest amount of ore (and thus the most uninterrupted mining time).
+さらに、近くにあるアステロイドに残っている鉱石の量を知ることができる `サーベイスキャナーI (Survey Scanner I)` をミディアムスロットに装備しています。これによって、今掘っているアステロイドがいつ枯渇寸前になるのか、そしてどの他のアステロイドが最も多く鉱石を含んでいるのか (つまり、どれくらい長く中断しないで掘り続けられるのか) 、を知ることができます。
 
-### Defenses
+### 防御
 
-This fit uses a `Medium Shield Extender I` in one of the mid slots to give it additional shield HP,
-providing it more time to react and escape in case of attack.
+この FIT では、 `中型シールドエクステンダーI (Medium Shield Extender I)` をミディアムスロットの1つに装備してシールドHPを追加し、攻撃を受けた際に反応して逃げるための時間をより多く確保しています。
 
-It also fits a `Damage Control I` in a low slot to increase its resistance to damage.
+また、ロースロットに `ダメージ制御I (Damage Control I)` を装備し、ダメージに対する耐性を高めています。
 
-The Venture also includes two `Hobgoblin I` drones to defend itself against weak NPC pirates.
-Remember to recall your drones before warping, or if they begin taking damage from enemy fire.
+このベンチャーは弱いNPC海賊への防御のために `ホブゴブリンI (Hobgoblin I)` ドローンも装備しています。  
+ワープする前に、もしくは敵からダメージを受けている場合、自艦にドローンを呼び戻すのを忘れないようにしましょう。
 
-{{% notice info %}}
-To use the combat drones, you will need to train the skills `Drones` III and `Light Drone Operation` I.
-We recommend you use some of the skill points from the Mini Skill Injector
-given in the tutorial to train these skills, as they will be useful in many ships.
-You will need to purchase a skillbook from the Market to learn Light Drone Operation.
+{{% notice info %}}  
+戦闘用ドローンを使うには、 `ドローン` III と `ライトドローンオペレーション` I のスキルを習得する必要があります。  
+これらのスキルは今後乗ることになる多くの船で役に立つので、チュートリアルで貰ったミニスキルインジェクターから得たスキルポイントのうち、いくらかをこれらに割くことをオススメします。 ライトドローンオペレーションを習得するためには、マーケットでスキル本を買う必要があるでしょう。
 {{% /notice %}}
 
-### Utility
+### ユーティリティ
 
-The `1MN Afterburner I` provides your ship with additional speed. This makes it quicker to
-fly between asteroids, and helps in evading hostile targets.
+`1MNアフターバーナーI (1MN Afterburner I)` を使うと船を加速させることができます。これにより、アステロイドからアステロイドへと移動するのが早くなり、敵対的な船から逃げるのにも役に立ちます。
 
-The `Salvager I` allows you to salvage any Wrecks you come across for valuable materials.
-It is not part of the primary purpose of this ship, but can provide some side income
-when the opportunity arises.
+`サルベージャーI (Salvager I)` を使うと、遭遇した残骸から価値のある素材をサルベージすることができます。 これはこの船の本来の目的とは外れますが、機会さえあればいくらかの副収入を得られるかもしれません。
 
-### Rigs
+### リグ
 
-Rigs are passive modifications to a ship, trading off one attribute against another.
-Unlike modules, rigs cannot be removed without being destroyed. 
-As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
-are often relatively expensive and may be difficult to find near your starter station.
+リグを装備すると、他の性能を犠牲にして、船の性能に改造を加えることができます。 モジュールと異なり、リグは取り外すことができず、代わりに破壊されます。 これは初心者向けのFITなので、リグはあまり使用していません。というのも、多くの「最適な」リグは比較的高価なことが多く、あなたのゲーム開始ステーションの近くではおそらく手に入らないからです。
 
-This fit uses two `Small Anti-EM Screen Reinforcer I` and one `Small Anti-Thermal Screen Reinforcer I`
-to improve the damage resistance of its shields.
+このFITでは `小型対EMスクリーンレインフォーサーI (Small Anti-EM Screen Reinforcer I)` を2つと `小型対キネティックスクリーンレインフォーサーI (Small Anti-Thermal Screen Reinforcer I)`  
+を1つ装備し、シールドのダメージ耐性を高めています。
 
-### How To Fly
+### 運用方法
 
-The Venture is a mining frigate.  As such, it should primarily be looking
-through asteroid belts and ore Anomalies for valuable rocks, harvesting them,
-and selling the ore or using it for industry, while avoiding combat whenever possible.
+ベンチャーは採掘フリゲートです。 それゆえ、価値の高い鉱石を求めてアステロイドベルトや鉱石アノマリを飛び回り、採掘して、手に入れた鉱石を売ったり製造に使ったりするのが主な使い道で、戦闘は可能な限り避けるべきです。
 
-Simply fly your ship within range (10km) of an asteroid and activate your mining lasers.
-You can split them between asteroids or focus them on a single rock as you desire.
+単純にアステロイドの採掘範囲 (10km) まで航行し、採掘レーザーを起動しましょう。  
+採掘先を2つのアステロイドに分けて起動してもいいですし、1つのアステロイドに集中させてもいいです。
 
-In systems of 0.8 security or lower, NPC pirates will appear in the asteroid belts.
-Your shields allow you to sustain fire from weaker rats for some time, but it is probably
-best to simply find a different asteroid belt, until you've trained in the use of Combat Drones
-which can destroy the attackers for you.
+セキュリティステータスが0.8以下の星系では、アステロイドベルトにNPC海賊が出現するでしょう。 この船のシールドでなら弱い敵からの攻撃にしばらく耐えることができますが、スキルを覚えて戦闘ドローンを使えるようになり、敵を撃墜できるようになるまでは、単に別のアステロイドベルトを探したほうがいいでしょう。
 
-As always, if incoming damage is proving too much for your ship
-and you're beginning to take structure damage, warp out.
+いつもいつでも、受けているダメージが船の耐久力に比べて多すぎるならば、そしてストラクチャまでダメージが入り始めているならば、ワープして逃げましょう。
 
-## Future Improvements
+## 将来の改善プラン
 
-The above fit should be usable with starting skills unless otherwise noted,
-and it uses relatively cheap and widely-available modules.  
+以上のFITは特に記述がなければゲーム開始時のスキルだけで使うことができるはずで、比較的安価で手に入りやすいモジュールを使っています。
 
-As you accumulate skill points and ISK, you will be able to fit more potent
-modules to your ship, increasing its effectiveness.  These modules may not be
-readily available outside of trade hubs, but it can be worth the trip.
+スキルポイントとISKが手に入るにつれて、より強力なモジュールをFITできるようになり、それにより船の性能が上がっていくでしょう。 これらのモジュールはマーケットハブでないと簡単には手に入らないかもしれませんが、買いに行くだけの価値はあるものです。
 
-We recommend working towards the following improved fit:
+いずれ、以下に挙げる改良版のFITを装備できるようにすることをオススメします:<object type="image/svg+xml" data="https://o.smium.org/api/convert/118496/svg/118496-alpha-clone---improved-venture.svg?privatetoken=1980229761703608320"><a href="https://o.smium.org/loadout/private/118496/1980229761703608320">Alpha Clone - Improved Venture を Osmium で見る</a></object>この改良版のFITのすべての装備を使えるようにするには、以下のスキルを覚える必要があるでしょう:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118496/svg/118496-alpha-clone---improved-venture.svg?privatetoken=1980229761703608320"><a href="https://o.smium.org/loadout/private/118496/1980229761703608320">View Alpha Clone - Improved Venture on Osmium</a></object>
+* `採掘` レベルIV
+* `シールド強化` レベルIV
+* `採掘強化` レベルIV
+* `ドローン` レベルIII
+* `ライトドローンオペレーション` レベルI
 
-The improved fit will require the training of the following skills to use all installed equipment:
+この改良版のFITではアフターバーナーではなく `5MNクワッドリフ抑制型マイクロワープドライブ` を使っています。 MWDは使うとキャパシタを大量に消費し、船のシグネチャ半径も大幅に増加させるので、アフターバーナーとは違って、敵の攻撃から逃げるのには向いていません。 しかし、得られる速度ボーナスは大幅に強化されています。
 
-* `Mining` Level IV
-* `Shield Upgrades` Level IV
-* `Mining Upgrades` Level IV
-* `Drones` Level III
-* `Light Drone Operation` Level I
+MWDは違う場所に移動するときにのみ起動し、到着したら止めてしまうようにしましょう。
 
-The improved fit uses a `5MN Quad LiF Restrained Microwarpdrive` rather than an Afterburner.
-An MWD takes a large amount of capacitor to run, 
-and causes a large increase to your ship's signature radius,
-meaning that unlike the Afterburner, it is not useful for evading enemy fire.
-However, it provides a massively increased speed bonus.
+ドローンを操作するためのスキルが揃ったら、ドローンベイに戦闘ドローンを詰め込みましょう。 `ホブゴブリンI (Hobgoblin I)` ドローンはダメージ出力が一番高く、`ウォリアーI (Warrior I)` ドローンは移動速度が一番速いです。
 
-You should activate the MWD only when moving to a new position,
-and disable it once you have arrived.
+そしてこの改良版FITではダメージコントロールを抜いて `採掘レーザー強化II` を装備しています。ベンチャーの防御力は落ちてしまいますが、代わりに鉱石の採掘量が増加します。
 
-Once you have the skills to use them, you should fill your Drone Bay with Combat Drones.
-`Hobgoblin I` drones have the most damage output, while `Warrior I` drones have the most speed.
+さらに、EM ダメージに少し弱くなるのと引き換えに全体でのシールドHPを増加させるため、対EMリグを1つ `小型コア防衛フィールドエクステンダーI` に入れ替えています。
 
-The improved fit uses a `Mining Laser Upgrade II` in place of the Damage Control.
-This weakens the Venture's defenses, but increases its ore intake.
+改良版FITでは、採掘レーザーの強化によって必要なCPUを使ってしまったので、もはやサルベージャーは装備していません。
 
-Additionally, it replaces one Anti-EM rig with a `Small Core Defense Field Extender I`,
-for more overall shield HP at the cost of some vulnerability to EM damage.
+ほとんどすべてのモジュールは、FITしやすく性能が向上している代わりに値段が高く手に入りづらい「メタ」版強化品に入れ替えることができ、またさらに ISK やスキルポイントが必要で FIT するのが非常に難しい T2 版強化品に入れ替えることもできます。
 
-The improved fit no longer mounts the Salvager, as the enhancements to its mining
-lasers consume the CPU that would be required.
-
-Nearly every module has been improved to a "meta" version, requiring less fitting space
-and granting improved effectiveness, but costing more ISK and/or being less widely available,
-or a t2 version, which costs more ISK, requires more skillpoints, and is harder to fit:
-
- * Mining Lasers: 2x `Miner II`
- * Shield Extender: `Medium Shield Extender II`
- * Survey Scanner: `Survey Scanner II`
+* 採掘レーザー: 2x `採掘機II (Miner II)`
+* シールドエクステンダー: `中型シールドエクステンダーII (Medium Shield Extender II)`
+* サーベイスキャナー: `サーベイスキャナーII (Survey Scanner II)`
