@@ -1,7 +1,7 @@
 +++
 toc = true
 date = "2016-11-18T17:33:01-08:00"
-title = カルダリ (イビス)"
+title = "カルダリ (イビス)"
 weight = 1
 next = "/market/"
 prev = "/rookie-fitting/"
