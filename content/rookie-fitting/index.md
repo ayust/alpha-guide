@@ -1,5 +1,5 @@
 +++
-icon = "**2. **"
+icon = "<b>2. </b>"
 date = "2016-11-18T17:26:45-08:00"
 title = "ルーキーシップをFITしよう"
 prev = "/start/prereqs/"

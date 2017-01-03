@@ -1,7 +1,7 @@
 +++
 title = "学び続けよう"
 toc = true
-icon = "**9. **"
+icon = "<b>9. </b>"
 date = "2016-11-18T18:56:39-08:00"
 next = "/reference/"
 prev = "/corps/"

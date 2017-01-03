@@ -1,7 +1,7 @@
 +++
 title = "新しい船に乗り換える"
 toc = true
-icon = "**5. **"
+icon = "<b>5. </b>"
 date = "2016-11-18T18:56:39-08:00"
 prev = "/career-agents/military/"
 +++

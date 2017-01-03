@@ -1,7 +1,7 @@
 +++
 title = "参考資料"
 toc = true
-icon = "**0. **"
+icon = "<b>0. </b>"
 date = "2016-11-18T18:56:39-08:00"
 prev = "/learn-more/"
 +++

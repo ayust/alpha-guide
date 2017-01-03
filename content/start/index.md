@@ -1,6 +1,6 @@
 +++
 chapter = true
-icon = "**1. **"
+icon = "<b>1. </b>"
 date = "2016-11-18T16:35:02-08:00"
 title = "はじめに"
 next = "/start/welcome/"

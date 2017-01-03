@@ -1,7 +1,7 @@
 +++
 title = "キャリアエージェントと話す"
 toc = true
-icon = "**4. **"
+icon = "<b>4. </b>"
 date = "2016-11-18T18:56:39-08:00"
 next = "/career-agents/business/"
 prev = "/market/hubs/"

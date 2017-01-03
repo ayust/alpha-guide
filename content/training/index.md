@@ -1,7 +1,7 @@
 +++
 title = "目的別おすすめスキル"
 toc = true
-icon = "**7. **"
+icon = "<b>7. </b>"
 date = "2016-11-18T18:56:39-08:00"
 next = "/training/core/"
 prev = "/new-goals/something-else/"

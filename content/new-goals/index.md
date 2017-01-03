@@ -1,7 +1,7 @@
 +++
 title = "君の冒険はどこにある？"
 toc = true
-icon = "**6. **"
+icon = "<b>6. </b>"
 date = "2016-11-18T18:56:39-08:00"
 prev = "/upgrading-ships/"
 next = "/new-goals/exploration/"

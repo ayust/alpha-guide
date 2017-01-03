@@ -1,7 +1,7 @@
 +++
 title = "コープに参加する"
 toc = true
-icon = "**8. **"
+icon = "<b>8. </b>"
 date = "2016-11-18T18:56:39-08:00"
 next = "/learn-more/"
 prev = "/training/trade/"
