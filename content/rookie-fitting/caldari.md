@@ -7,7 +7,11 @@ next = "/market/"
 prev = "/rookie-fitting/"
 +++
 
-カルダリ向けのコルベット艦はイビス (Ibis) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119446/svg/119446-alpha-ibis-wdrone.svg?privatetoken=3595180998788120576"><a href="https://o.smium.org/loadout/private/119446/3595180998788120576">Alpha Ibis w/Drones を Osmium で見る</a></object>### 武器
+カルダリ向けのコルベット艦はイビス (Ibis) です。
+
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119446/svg/119446-alpha-ibis-wdrone.svg?privatetoken=3595180998788120576"><a href="https://o.smium.org/loadout/private/119446/3595180998788120576">Alpha Ibis w/Drones を Osmium で見る</a></object>
+
+### 武器
 
 ルーキーシップ (コルベット艦) は、「小型 (small)」欄にある武器が装備できます。 このFITでは `75mmガトリングレールI (75mm Gatling Rail I)` タレットを2台ハイスロットに装備しています。 レールガンは長距離用のハイブリッド兵器で、短距離用のブラスターとは相対的です。 レールガンはちょっと打撃力には劣りますが、攻撃可能範囲に近づくのに時間がかかり敵の攻撃を受けまくるなんてことにはならず、すぐに敵と交戦することができます。
 

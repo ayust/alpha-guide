@@ -19,7 +19,5 @@ prev = "/start/"
 {{% /notice %}}
 
 {{% notice note %}}
-このガイドには翻訳がまだ完了していない箇所がありますが、順次翻訳作業を進めていく予定です。
-
-翻訳に何かご意見・ご感想がありましたら、[訳者Twitter](https://twitter.com/eve_maybe) もしくは [GitHub の Issue](https://github.com/maybe-eve/alpha-guide/issues/new) などでお知らせください。
+このガイドには翻訳がまだ完了していない箇所がありますが、順次翻訳作業を進めていく予定です。 翻訳に何かご意見・ご感想がありましたら、[訳者Twitter](https://twitter.com/eve_maybe) もしくは [GitHub の Issue](https://github.com/maybe-eve/alpha-guide/issues/new) などでお知らせください。
 {{% /notice %}}
