@@ -10,7 +10,7 @@ prev = "/new-goals/trading/"
 EVEのプレイヤーは歴史上、プレイヤー運営のコンテンツにかけてはかなりの創造性を発揮することで知られています - 銀河の勢力図を形作る大戦争の背後にある、外交官たちの壮大なドラマを始めとして、二三人のプレイヤーの間の、小さな人間関係の中だけで暴露されるスキャンダルなど、様々なものがあります。
 
 <div style="text-align: center;">
-<iframe width="560" height="315" src="http://embed.nicovideo.jp/watch/sm24971863?oldScript=1" frameborder="0" allowfullscreen></iframe>
+<a target="_blank" href="http://www.nicovideo.jp/watch/sm24971863">【ニコニコ動画】“This is EVE” - Uncensored (2014)</a>
 </div>
 
 ここに示されているもの以外にも、例えば [Resident Eve プレイスタイルとキャリア（初心者向け）](http://everesearcher.blog.fc2.com/blog-entry-83.html) などで他の遊び方も言及されています。しかし、様々なサイトに書かれている以外にも、あり得る遊び方は数えきれないほどあります。
