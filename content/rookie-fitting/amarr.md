@@ -7,7 +7,11 @@ next = "/market/"
 prev = "/rookie-fitting/"
 +++
 
-アマー向けのコルベット艦は「インパロール (Impairor)」です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">Alpha Impairor w/Drones を Osmium で見る</a></object>### 武器
+アマー向けのコルベット艦は「インパロール (Impairor)」です。
+
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">Alpha Impairor w/Drones を Osmium で見る</a></object>
+
+### 武器
 
 ルーキーシップはフリゲート艦の一種なので、「小型 (small)」欄にある武器が装備できます。 このFITでは `ガトリングパルスレーザーI (Gatling Pulse Laser I)` タレットを2台ハイスロットに装備しています。 パルスレーザーは射程が短いですが、ビームレーザーよりもFITしやすい (装備に必要なCPUやパワーグリッドが少ない) のが特徴です。 ルーキーシップにおいては接近戦が普通の戦い方ですので、近距離武装を使うのがぴったりです。
 

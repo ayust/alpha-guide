@@ -7,7 +7,11 @@ next = "/market/"
 prev = "/rookie-fitting/"
 +++
 
-ミンマター向けのコルベット艦はリーパー (Reaper) です。<object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">Alpha Reaper w/Drones を Osmium で見る</a></object>### 武器
+ミンマター向けのコルベット艦はリーパー (Reaper) です。
+
+<object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">Alpha Reaper w/Drones を Osmium で見る</a></object>
+
+### 武器
 
 ルーキーシップ (コルベット艦) は、「小型 (small)」欄にある武器が装備できます。 このFITでは `125mmガトリングオートキャノンI (125mm Gatling AutoCannon I)` タレットを2台ハイスロットに装備しています。 オートキャノンはアーティラリより射程には劣りますが、より射撃が素早いのが特徴です。 ルーキーシップにおいては接近戦が普通の戦い方ですので、近距離武装を使うのがぴったりです。
 
