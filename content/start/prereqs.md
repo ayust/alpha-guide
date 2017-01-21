@@ -1,11 +1,11 @@
-+++
-title = "Prerequisites"
-weight = 102
-prev = "/start/welcome/"
-next = "/rookie-fitting/"
-toc = true
-date = "2016-11-18T17:18:12-08:00"
-+++
+{
+  "date": "2016-11-18T17:18:12-08:00",
+  "next": "/rookie-fitting/",
+  "prev": "/start/welcome/",
+  "title": "Prerequisites",
+  "toc": "true",
+  "weight": "102"
+}
 
 This guide assumes that you have completed the initial Aura tutorial in EVE Online, but haven't yet talked to any Career Agents.
 **If you haven't finished the tutorial with Aura yet, go do that first.**

@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "Military Agents"
-weight = 1
-next = "/upgrading-ships/"
-prev = "/career-agents/industry/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/upgrading-ships/",
+  "prev": "/career-agents/industry/",
+  "title": "Military Agents",
+  "toc": "true",
+  "weight": "1"
+}
 
 There are actually two military career agents - the regular Military Agent and the Advanced Military Agent.
 We recommend doing both chains - first the regular agent, then the advanced agent.

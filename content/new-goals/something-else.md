@@ -1,11 +1,11 @@
-+++
-title = "Something Else?"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 999
-next = "/training/"
-prev = "/new-goals/trading/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/training/",
+  "prev": "/new-goals/trading/",
+  "title": "Something Else?",
+  "toc": "true",
+  "weight": "999"
+}
 
 EVE players have historically been quite creative when it comes to player-driven
 content - everything from large dramatic diplomatic affairs to galaxy-shaping

@@ -1,10 +1,10 @@
-+++
-title = "Your First Wormhole"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/reference/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "prev": "/reference/",
+  "title": "Your First Wormhole",
+  "toc": "true",
+  "weight": "1"
+}
 
 You've just scanned down a wormhole for the first time, and you're sitting next to it
 in space, wondering... "should I jump in?" You may have heard that wormholes are

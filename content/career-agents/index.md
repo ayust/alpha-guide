@@ -1,11 +1,11 @@
-+++
-title = "Talk to Career Agents"
-toc = true
-icon = "<b>4. </b>"
-date = "2016-11-18T18:56:39-08:00"
-next = "/career-agents/business/"
-prev = "/market/hubs/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "icon": "<b>4. </b>",
+  "next": "/career-agents/business/",
+  "prev": "/market/hubs/",
+  "title": "Talk to Career Agents",
+  "toc": "true"
+}
 
 In addition to the introductory tutorial, there are also a handful of Career Agents
 which will provide you with various missions introducing you to a particular kind of

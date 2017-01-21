@@ -1,11 +1,11 @@
-+++
-title = "Amarr Ships"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-next = "/new-goals/"
-prev = "/upgrading-ships/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/new-goals/",
+  "prev": "/upgrading-ships/",
+  "title": "Amarr Ships",
+  "toc": "true",
+  "weight": "1"
+}
 
 Over the course of your Career Agent missions, 
 they will have given you some of the following ships.

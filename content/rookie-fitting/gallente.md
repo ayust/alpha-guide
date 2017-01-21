@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Gallente (Velator)"
-weight = 1
-next = "/market/"
-prev = "/rookie-fitting/"
-+++
+{
+  "date": "2016-11-18T17:33:01-08:00",
+  "next": "/market/",
+  "prev": "/rookie-fitting/",
+  "title": "Gallente (Velator)",
+  "toc": "true",
+  "weight": "1"
+}
 
 The Gallente corvette is the Velator.
 

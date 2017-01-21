@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "Business Agent"
-weight = 1
-next = "/career-agents/exploration/"
-prev = "/career-agents/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/career-agents/exploration/",
+  "prev": "/career-agents/",
+  "title": "Business Agent",
+  "toc": "true",
+  "weight": "1"
+}
 
 This mission chain is **Balancing the Books**. Its 10 missions will have you doing
 salvaging, hacking, mining, and a bit of running around delivering things to agents

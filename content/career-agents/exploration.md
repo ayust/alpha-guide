@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "Exploration Agent"
-weight = 1
-next = "/career-agents/industry/"
-prev = "/career-agents/business/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/career-agents/industry/",
+  "prev": "/career-agents/business/",
+  "title": "Exploration Agent",
+  "toc": "true",
+  "weight": "1"
+}
 
 This mission chain walks you through how to use the scanning interfaces
 in EVE. Scanning lets you locate things like wormholes, data and relic sites

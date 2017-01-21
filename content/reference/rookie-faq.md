@@ -1,10 +1,10 @@
-+++
-title = "Rookie Chat FAQ"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/reference/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "prev": "/reference/",
+  "title": "Rookie Chat FAQ",
+  "toc": "true",
+  "weight": "1"
+}
 
 _A list of questions frequently asked in the Rookie Help channel
 and their associated answers._

@@ -1,11 +1,11 @@
-+++
-title = "Faction Warfare"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/new-goals/exploration/"
-next = "/new-goals/fleet/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/new-goals/fleet/",
+  "prev": "/new-goals/exploration/",
+  "title": "Faction Warfare",
+  "toc": "true",
+  "weight": "1"
+}
 
 ### What
 

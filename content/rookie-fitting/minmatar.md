@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Minmatar (Reaper)"
-weight = 1
-next = "/market/"
-prev = "/rookie-fitting/"
-+++
+{
+  "date": "2016-11-18T17:33:01-08:00",
+  "next": "/market/",
+  "prev": "/rookie-fitting/",
+  "title": "Minmatar (Reaper)",
+  "toc": "true",
+  "weight": "1"
+}
 
 The Minmatar corvette is the Reaper.
 

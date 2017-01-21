@@ -1,11 +1,11 @@
-+++
-nomenu = true
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "Corax"
-weight = 1
-prev = "/upgrading-ships/caldari/"
-+++
+{
+  "date": "2016-11-18T17:33:01-08:00",
+  "nomenu": "true",
+  "prev": "/upgrading-ships/caldari/",
+  "title": "Corax",
+  "toc": "true",
+  "weight": "1"
+}
 
 <object type="image/svg+xml" data="https://o.smium.org/api/convert/118658/svg/118658-alpha-clone---starter-corax.svg?privatetoken=196222959671574528"><a href="https://o.smium.org/loadout/private/118658/196222959671574528">View Alpha Clone - Starter Corax on Osmium</a></object>
 

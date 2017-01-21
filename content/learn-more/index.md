@@ -1,11 +1,11 @@
-+++
-title = "Keep Learning"
-toc = true
-icon = "<b>9. </b>"
-date = "2016-11-18T18:56:39-08:00"
-next = "/reference/"
-prev = "/corps/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "icon": "<b>9. </b>",
+  "next": "/reference/",
+  "prev": "/corps/",
+  "title": "Keep Learning",
+  "toc": "true"
+}
 
 At this point you should be off to an excellent start in EVE:
 

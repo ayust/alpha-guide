@@ -1,11 +1,11 @@
-+++
-title = "Ratting"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/new-goals/missions/"
-next = "/new-goals/salvaging/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/new-goals/salvaging/",
+  "prev": "/new-goals/missions/",
+  "title": "Ratting",
+  "toc": "true",
+  "weight": "1"
+}
 
 ### What
 

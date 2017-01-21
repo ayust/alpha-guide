@@ -1,9 +1,9 @@
-+++
-icon = "<b>2. </b>"
-date = "2016-11-18T17:26:45-08:00"
-title = "Fit Your Rookie Ship"
-prev = "/start/prereqs/"
-+++
+{
+  "date": "2016-11-18T17:26:45-08:00",
+  "icon": "<b>2. </b>",
+  "prev": "/start/prereqs/",
+  "title": "Fit Your Rookie Ship"
+}
 
 Now that you're done with the tutorial (and probably just got your ship blown up),
 you might be wondering what to do next.

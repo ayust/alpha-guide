@@ -1,11 +1,11 @@
-+++
-title = "Exploration Skills"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 2
-next = "/training/mining/"
-prev = "/training/combat/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/training/mining/",
+  "prev": "/training/combat/",
+  "title": "Exploration Skills",
+  "toc": "true",
+  "weight": "2"
+}
 
 If you've chosen to try out exploration further, you'll want to train the following:
 

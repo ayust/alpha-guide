@@ -1,11 +1,11 @@
-+++
-title = "Ship Skills"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 2
-next = "/training/trade/"
-prev = "/training/mining/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/training/trade/",
+  "prev": "/training/mining/",
+  "title": "Ship Skills",
+  "toc": "true",
+  "weight": "2"
+}
 
 Nearly everyone will want to train their race's Frigate skill up to at least
 Level III, as this both improves the effectiveness of their frigate's ship bonuses

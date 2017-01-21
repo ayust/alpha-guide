@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "Industry Agent"
-weight = 1
-next = "/career-agents/military/"
-prev = "/career-agents/exploration/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/career-agents/military/",
+  "prev": "/career-agents/exploration/",
+  "title": "Industry Agent",
+  "toc": "true",
+  "weight": "1"
+}
 
 This chain is **Making Mountains of Molehills**. Its 10 missions focus
 on how to produce new items in EVE from scratch: mining raw materials

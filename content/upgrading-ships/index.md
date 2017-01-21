@@ -1,10 +1,10 @@
-+++
-title = "Upgrade to a New Ship"
-toc = true
-icon = "<b>5. </b>"
-date = "2016-11-18T18:56:39-08:00"
-prev = "/career-agents/military/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "icon": "<b>5. </b>",
+  "prev": "/career-agents/military/",
+  "title": "Upgrade to a New Ship",
+  "toc": "true"
+}
 
 By this point you should have the resources to move on from the basic rookie ship to
 something better. The ships you have available will depend on your race, so choose
