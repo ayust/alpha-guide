@@ -1,10 +1,10 @@
-+++
-title = "How to Fit Ships Well"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-prev = "/reference/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "prev": "/reference/",
+  "title": "How to Fit Ships Well",
+  "toc": "true",
+  "weight": "1"
+}
 
 The walkthrough portion of this guide has a number of suggested fits, but perhaps
 you want to design your own fits - or a fit for a ship that isn't mentioned. Well, as they say...give a capsuleer a fit and they'll fly for a day. Teach a capsuleer to fit, and they'll keep flying for the rest of their immortal life.

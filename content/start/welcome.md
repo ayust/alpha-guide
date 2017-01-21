@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T17:13:07-08:00"
-title = "このガイドについて"
-weight = 101
-next = "/start/prereqs/"
-prev = "/start/"
-+++
+{
+  "date": "2016-11-18T17:13:07-08:00",
+  "next": "/start/prereqs/",
+  "prev": "/start/",
+  "title": "このガイドについて",
+  "toc": "true",
+  "weight": "101"
+}
 
 このガイドは EVE Online でαクローンプレイヤーの皆様が優れたカプセラとなる手助けをするためのものです。
 

@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "ビジネスエージェント"
-weight = 1
-next = "/career-agents/exploration/"
-prev = "/career-agents/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/career-agents/exploration/",
+  "prev": "/career-agents/",
+  "title": "ビジネスエージェント",
+  "toc": "true",
+  "weight": "1"
+}
 
 この連続ミッションは **帳尻合わせ** という名前です。 この10連ミッションでは、サルベージやハッキング、採掘、そして違う星系にいるエージェントへのちょっとした輸送を行うことになるでしょう。 これらの方法でなら、EVE 世界において武器を使わなくてもお金を稼ぐことができます。
 

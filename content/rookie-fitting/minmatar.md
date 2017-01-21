@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "ミンマター (リーパー)"
-weight = 1
-next = "/market/"
-prev = "/rookie-fitting/"
-+++
+{
+  "date": "2016-11-18T17:33:01-08:00",
+  "next": "/market/",
+  "prev": "/rookie-fitting/",
+  "title": "ミンマター (リーパー)",
+  "toc": "true",
+  "weight": "1"
+}
 
 ミンマター向けのコルベット艦はリーパー (Reaper) です。
 

@@ -1,11 +1,11 @@
-+++
-title = "目的別おすすめスキル"
-toc = true
-icon = "<b>7. </b>"
-date = "2016-11-18T18:56:39-08:00"
-next = "/training/core/"
-prev = "/new-goals/something-else/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "icon": "<b>7. </b>",
+  "next": "/training/core/",
+  "prev": "/new-goals/something-else/",
+  "title": "目的別おすすめスキル",
+  "toc": "true"
+}
 
 さて、貴方はもう EVE 世界において何をしたいのかだいたい検討がついていることでしょう。だから、今こそいよいよスキルキューをいじって、貴方の選んだ活動に便利なスキルをトレーニングし始める時期なのです。
 

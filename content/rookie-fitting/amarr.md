@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T17:33:01-08:00"
-title = "アマー (インパロール)"
-weight = 1
-next = "/market/"
-prev = "/rookie-fitting/"
-+++
+{
+  "date": "2016-11-18T17:33:01-08:00",
+  "next": "/market/",
+  "prev": "/rookie-fitting/",
+  "title": "アマー (インパロール)",
+  "toc": "true",
+  "weight": "1"
+}
 
 アマー向けのコルベット艦は「インパロール (Impairor)」です。
 

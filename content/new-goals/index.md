@@ -1,11 +1,11 @@
-+++
-title = "君の冒険はどこにある？"
-toc = true
-icon = "<b>6. </b>"
-date = "2016-11-18T18:56:39-08:00"
-prev = "/upgrading-ships/"
-next = "/new-goals/exploration/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "icon": "<b>6. </b>",
+  "next": "/new-goals/exploration/",
+  "prev": "/upgrading-ships/",
+  "title": "君の冒険はどこにある？",
+  "toc": "true"
+}
 
 EVE はサンドボックス型ゲームです。つまりチュートリアルを終わらせてしまったら、もはや達成しないといけない特定の目標なんてものはありません。さあ、あなたのやりたいことを見つける時間です。
 

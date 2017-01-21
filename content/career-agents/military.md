@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "軍事エージェント"
-weight = 1
-next = "/upgrading-ships/"
-prev = "/career-agents/industry/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/upgrading-ships/",
+  "prev": "/career-agents/industry/",
+  "title": "軍事エージェント",
+  "toc": "true",
+  "weight": "1"
+}
 
 実際は軍事キャリアエージェントは2人いて、一人は通常の軍事エージェント、もう一人が軍事（応用編）エージェントです。
 私達としては2つの連続ミッションを両方とも、最初に普通のを、そして次に応用編をやることをオススメします。

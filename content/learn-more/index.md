@@ -1,11 +1,11 @@
-+++
-title = "学び続けよう"
-toc = true
-icon = "<b>9. </b>"
-date = "2016-11-18T18:56:39-08:00"
-next = "/reference/"
-prev = "/corps/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "icon": "<b>9. </b>",
+  "next": "/reference/",
+  "prev": "/corps/",
+  "title": "学び続けよう",
+  "toc": "true"
+}
 
 今この時点で、あなたは EVE 生活の最高のスタートを切ったと言えるでしょう：
 

@@ -1,11 +1,11 @@
-+++
-title = "Core Skills"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-next = "/training/combat/"
-prev = "/training/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/training/combat/",
+  "prev": "/training/",
+  "title": "Core Skills",
+  "toc": "true",
+  "weight": "1"
+}
 
 There are some skills that basically every player will want to train
 because they're useful no matter what ship you're flying.

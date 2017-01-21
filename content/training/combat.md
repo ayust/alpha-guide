@@ -1,11 +1,11 @@
-+++
-title = "Combat Skills"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 2
-next = "/training/exploration/"
-prev = "/training/core/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/training/exploration/",
+  "prev": "/training/core/",
+  "title": "Combat Skills",
+  "toc": "true",
+  "weight": "2"
+}
 
 If you've chosen a path that involves fighting other ships, here are some
 skills you'll probably want to train:

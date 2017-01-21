@@ -1,11 +1,11 @@
-+++
-toc = true
-date = "2016-11-18T18:59:33-08:00"
-title = "探検エージェント"
-weight = 1
-next = "/career-agents/industry/"
-prev = "/career-agents/business/"
-+++
+{
+  "date": "2016-11-18T18:59:33-08:00",
+  "next": "/career-agents/industry/",
+  "prev": "/career-agents/business/",
+  "title": "探検エージェント",
+  "toc": "true",
+  "weight": "1"
+}
 
 この連続ミッションでは、スキャンウィンドウの使い方について説明しています。スキャンを使えば、ワームホールや、ハッキングできるデータサイト・遺跡サイト、さらには他のプレイヤーの艦船の位置までも特定することができます。
 

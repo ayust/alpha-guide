@@ -1,11 +1,11 @@
-+++
-title = "Trade Skills"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 2
-next = "/corps/"
-prev = "/training/ship/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/corps/",
+  "prev": "/training/ship/",
+  "title": "Trade Skills",
+  "toc": "true",
+  "weight": "2"
+}
 
 If you've chosen a path that involves lots of buying and selling things on
 the market, you'll want to improve your trading skills. You can skip these

@@ -1,11 +1,11 @@
-+++
-title = "Mining Skills"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 2
-next = "/training/ship/"
-prev = "/training/exploration/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/training/ship/",
+  "prev": "/training/exploration/",
+  "title": "Mining Skills",
+  "toc": "true",
+  "weight": "2"
+}
 
 If you've chosen to further explore mining, you'll want to train these skills:
 

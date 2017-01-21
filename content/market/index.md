@@ -1,11 +1,11 @@
-+++
-prev = "/rookie-fitting/"
-next = "/market/hubs/"
-icon = "<b>3. </b>"
-date = "2016-11-18T18:35:17-08:00"
-title = "マーケットを使う"
-toc = true
-+++
+{
+  "date": "2016-11-18T18:35:17-08:00",
+  "icon": "<b>3. </b>",
+  "next": "/market/hubs/",
+  "prev": "/rookie-fitting/",
+  "title": "マーケットを使う",
+  "toc": "true"
+}
 
 ### マーケットで欲しいものを探す
 

@@ -1,11 +1,11 @@
-+++
-title = "Gallente Ships"
-toc = true
-date = "2016-11-18T18:56:39-08:00"
-weight = 1
-next = "/new-goals/"
-prev = "/upgrading-ships/"
-+++
+{
+  "date": "2016-11-18T18:56:39-08:00",
+  "next": "/new-goals/",
+  "prev": "/upgrading-ships/",
+  "title": "Gallente Ships",
+  "toc": "true",
+  "weight": "1"
+}
 
 キャリアエージェントミッションをこなす中で、エージェントたちは次に挙げる艦船のうちいくつかを支給してくれたことでしょう。 これらの船はあなたが乗っているルーキーシップよりも強力です。 そのうえ性能が特化されていて、それぞれある特定の目的のために作られています。
 
