@@ -58,7 +58,7 @@ or `Small Memetic Algorithm Bank I`, doing the same thing for data sites.
 
 ### How To Fly
 
-The Imicus is an Exploration ship.  It should be primarily avoiding combat,
+The Probe is an Exploration ship.  It should be primarily avoiding combat,
 searching for Cosmic Signatures and retrieving their contents.
 
 If you are in hostile space (0.4 security or lower, or wormhole space),
