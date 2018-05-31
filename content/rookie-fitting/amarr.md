@@ -9,7 +9,28 @@
 
 The Amarr corvette is the Impairor.
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119443/svg/119443-alpha-impairor-wdrone.svg?privatetoken=9063189616642752512"><a href="https://o.smium.org/loadout/private/119443/9063189616642752512">View Alpha Impairor w/Drone on Osmium</a></object>
+### EFT
+[Impairor, Impairor alpha]
+
+Gatling Pulse Laser I
+
+Gatling Pulse Laser I
+
+
+1MN Afterburner I
+
+Stasis Webifier I
+
+
+Small Armor Repairer I
+
+Damage Control I
+
+
+Acolyte I x1
+
+
+Multifrequency S x2
 
 ### Weapons
 
