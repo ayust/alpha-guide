@@ -9,28 +9,20 @@
 
 The Amarr corvette is the Impairor.
 
-### EFT
-[Impairor, Impairor alpha]
+### Importable Fit
+    [Impairor, Impairor alpha]
+    
+    Gatling Pulse Laser I
+    Gatling Pulse Laser I
 
-Gatling Pulse Laser I
+    1MN Afterburner I
+    Stasis Webifier I
 
-Gatling Pulse Laser I
+    Small Armor Repairer I
+    Damage Control I
 
-
-1MN Afterburner I
-
-Stasis Webifier I
-
-
-Small Armor Repairer I
-
-Damage Control I
-
-
-Acolyte I x1
-
-
-Multifrequency S x2
+    Acolyte I x1
+    Multifrequency S x2
 
 ### Weapons
 
