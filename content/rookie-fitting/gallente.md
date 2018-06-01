@@ -9,8 +9,23 @@
 
 The Gallente corvette is the Velator.
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119448/svg/119448-alpha-velator-wdrones.svg?privatetoken=4210567194314014720"><a href="https://o.smium.org/loadout/private/119448/4210567194314014720">View Alpha Velator w/Drones on Osmium</a></object>
+### Importable Fit
 
+    [Velator, Velator alpha]
+
+    75mm Gatling Rail I
+    75mm Gatling Rail I
+
+    1MN Afterburner I
+    Stasis Webifier I
+
+    Small Armor Repairer I
+    Damage Control I
+
+    Hobgoblin I x2
+
+    Antimatter Charge S x1400
+    
 ### Weapons
 
 Rookie ships (corvettes) use weapons from the 'small' size bracket.
