@@ -7,7 +7,28 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118493/svg/118493-alpha-clone---starter-merlin.svg?privatetoken=5553736800737951744"><a href="https://o.smium.org/loadout/private/118493/5553736800737951744">View Alpha Clone - Starter Merlin on Osmium</a></object>
+### Importable Fit
+    [Merlin, Merlin alpha]
+
+    Light Electron Blaster I
+    Light Electron Blaster I
+    Light Electron Blaster I
+
+    Medium Shield Booster I
+    Stasis Webifier I
+    Small Capacitor Booster I
+    1MN Afterburner I
+
+    Magnetic Field Stabilizer I
+    Magnetic Field Stabilizer I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+
+    Cap Booster 200 x11
+    Antimatter Charge S x2600
 
 ### Weapons
 
@@ -82,7 +103,26 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118494/svg/118494-alpha-clone---improved-merlin.svg?privatetoken=1249520022083076096"><a href="https://o.smium.org/loadout/private/118494/1249520022083076096">View Alpha Clone - Improved Merlin on Osmium</a></object>
+    [Merlin, Merlin Alpha+]
+
+    Modal Light Ion Particle Accelerator I
+    Modal Light Ion Particle Accelerator I
+    Modal Light Ion Particle Accelerator I
+
+    Medium Shield Booster II
+    1MN Y-S8 Compact Afterburner
+    Fleeting Compact Stasis Webifier
+    Eutectic Compact Cap Recharger
+
+    Magnetic Field Stabilizer II
+    Magnetic Field Stabilizer II
+    Damage Control II
+
+    Small Anti-EM Screen Reinforcer I
+    Small Capacitor Control Circuit I
+    Small Capacitor Control Circuit I
+
+    Antimatter Charge S x2360
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
