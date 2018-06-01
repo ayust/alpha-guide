@@ -7,7 +7,27 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118484/svg/118484-alpha-clone---starter-condor.svg?privatetoken=546979529847996416"><a href="https://o.smium.org/loadout/private/118484/546979529847996416">View Alpha Clone - Starter Condor on Osmium</a></object>
+### Importable Fit
+    [Condor, Condor alpha]
+
+    Light Missile Launcher I
+    Light Missile Launcher I
+    Light Missile Launcher I
+
+    Small Shield Booster I
+    1MN Afterburner I
+    Small Capacitor Booster I
+    Stasis Webifier I
+
+    Ballistic Control System I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+
+    Scourge Light Missile x620
+    Cap Booster 200 x11
 
 {{% notice info %}}
 This is a missile ship.  You will need to train at least **`Missile Launcher Operation` Level II**
@@ -86,7 +106,25 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118485/svg/118485-alpha-clone---improved-condor.svg?privatetoken=1178552409140494336"><a href="https://o.smium.org/loadout/private/118485/1178552409140494336">View Alpha Clone - Improved Condor on Osmium</a></object>
+    [Condor, Condor alpha+]
+
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+
+    Small Shield Booster II
+    5MN Quad LiF Restrained Microwarpdrive
+    Cap Recharger II
+    Missile Guidance Computer II
+
+    Ballistic Control System II
+    Damage Control II
+
+    Small Capacitor Control Circuit I
+    Small Capacitor Control Circuit I
+
+    Missile Range Script x1
+    Scourge Light Missile x620
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
