@@ -7,7 +7,27 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118267/svg/118267-alpha-clone---starter-punisher.svg?privatetoken=367926092784205824"><a href="https://o.smium.org/loadout/private/118267/367926092784205824">View Alpha Clone - Starter Punisher on Osmium</a></object>
+### Importable Fit
+
+    [Punisher, Punisher alpha]
+
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+
+    1MN Afterburner I
+    Stasis Webifier I
+
+    400mm Steel Plates I
+    Small Armor Repairer I
+    Damage Control I
+    Adaptive Nano Plating I
+    Micro Auxiliary Power Core I
+
+    Small Energy Collision Accelerator I
+
+    Multifrequency S x4
 
 ### Weapons
 
@@ -81,7 +101,27 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118435/svg/118435-alpha-clone---improved-punisher.svg?privatetoken=3174680224218480640"><a href="https://o.smium.org/loadout/private/118435/3174680224218480640">View Alpha Clone - Improved Punisher on Osmium</a></object>
+    [Punisher, Punisher alpha+]
+
+    Small Focused Anode Pulse Particle Stream I
+    Small Focused Anode Pulse Particle Stream I
+    Small Focused Anode Pulse Particle Stream I
+    Small Focused Anode Pulse Particle Stream I
+
+    1MN Y-S8 Compact Afterburner
+    Fleeting Compact Stasis Webifier
+
+    400mm Rolled Tungsten Compact Plates
+    Small Armor Repairer II
+    Damage Control II
+    'Refuge' Adaptive Nano Plating I
+    Heat Sink II
+
+    Small Ancillary Current Router I
+    Small Trimark Armor Pump I
+    Small Trimark Armor Pump I
+
+    Multifrequency S x4
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
