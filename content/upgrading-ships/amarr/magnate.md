@@ -7,7 +7,24 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118462/svg/118462-alpha-clone---starter-magnate.svg?privatetoken=1963450153406824448"><a href="https://o.smium.org/loadout/private/118462/1963450153406824448">View Alpha Clone - Starter Magnate on Osmium</a></object>
+### Importable Fit
+
+    [Magnate, Magnate alpha]
+
+    Core Probe Launcher I
+
+    Data Analyzer I
+    Relic Analyzer I
+    1MN Afterburner I
+
+    Small Armor Repairer I
+    Damage Control I
+    Warp Core Stabilizer I
+
+    Small Gravity Capacitor Upgrade I
+    Small Gravity Capacitor Upgrade I
+
+    Core Scanner Probe I x8
 
 {{% notice info %}}
 As exploration frigates are intended for exploration rather than combat, this ship is **unarmed**.
@@ -75,7 +92,26 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118463/svg/118463-alpha-clone---improved-magnate.svg?privatetoken=5748721499863252992"><a href="https://o.smium.org/loadout/private/118463/5748721499863252992">View Alpha Clone - Improved Magnate on Osmium</a></object>
+    [Magnate, Magnate alpha+]
+
+    Core Probe Launcher I
+
+    Data Analyzer I
+    Relic Analyzer I
+    5MN Cold-Gas Enduring Microwarpdrive
+
+    Small Armor Repairer II
+    Damage Control II
+    Warp Core Stabilizer I
+    Warp Core Stabilizer I
+
+    Small Gravity Capacitor Upgrade I
+    Small Gravity Capacitor Upgrade I
+
+    Hobgoblin I x4
+    Warrior I x4
+
+    Sisters Core Scanner Probe x8
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
