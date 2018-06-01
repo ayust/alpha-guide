@@ -7,7 +7,30 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118658/svg/118658-alpha-clone---starter-corax.svg?privatetoken=196222959671574528"><a href="https://o.smium.org/loadout/private/118658/196222959671574528">View Alpha Clone - Starter Corax on Osmium</a></object>
+### Importable Fit
+    [Corax, Corax alpha]
+
+    Rocket Launcher I
+    Rocket Launcher I
+    Rocket Launcher I
+    Rocket Launcher I
+    Rocket Launcher I
+    Rocket Launcher I
+    Rocket Launcher I
+
+    Small Shield Booster I
+    EM Ward Amplifier I
+    1MN Afterburner I
+    Stasis Webifier I
+
+    Ballistic Control System I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+    Small Anti-Kinetic Screen Reinforcer I
+
+    Scourge Rocket x2260
 
 {{% notice info %}}
 This is a missile ship.  You will need to train at least **`Rockets` Level I** before you will be able to use its weapons.
@@ -74,7 +97,29 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118660/svg/118660-alpha-clone---improved-corax.svg?privatetoken=2275141002433921024"><a href="https://o.smium.org/loadout/private/118660/2275141002433921024">View Alpha Clone - Improved Corax on Osmium</a></object>
+    [Corax, Corax alpha+]
+
+    'Arbalest' Rocket Launcher I
+    'Arbalest' Rocket Launcher I
+    'Arbalest' Rocket Launcher I
+    'Arbalest' Rocket Launcher I
+    'Arbalest' Rocket Launcher I
+    'Arbalest' Rocket Launcher I
+    'Arbalest' Rocket Launcher I
+
+    Small Shield Booster II
+    Cap Recharger II
+    1MN Monopropellant Enduring Afterburner
+    X5 Enduring Stasis Webifier
+
+    Ballistic Control System II
+    Damage Control II
+
+    Small Anti-EM Screen Reinforcer I
+    Small Capacitor Control Circuit I
+    Small Capacitor Control Circuit I
+
+    Scourge Rocket x2315
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
