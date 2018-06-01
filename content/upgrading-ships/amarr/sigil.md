@@ -7,7 +7,23 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118471/svg/118471-alpha-clone---starter-sigil.svg?privatetoken=703829454870282240"><a href="https://o.smium.org/loadout/private/118471/703829454870282240">View Alpha Clone - Starter Sigil on Osmium</a></object>
+### Importable Fit
+    [Sigil, Sigil alpha]
+
+    Large Shield Extender I
+    Medium Shield Extender I
+    Medium Shield Extender I
+    10MN Afterburner I
+
+    Damage Control I
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Expanded Cargohold I
+
+    Medium Anti-EM Screen Reinforcer I
+    Medium Anti-Thermal Screen Reinforcer I
 
 {{% notice info %}}
 As industrial ships are intended for item transport rather than combat, this ship is **unarmed**.
@@ -87,7 +103,23 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118473/svg/118473-alpha-clone---improved-sigil.svg?privatetoken=1970777419153408000"><a href="https://o.smium.org/loadout/private/118473/1970777419153408000">View Alpha Clone - Improved Sigil on Osmium</a></object>
+    [Sigil, Sigil alpha+]
+
+    Large F-S9 Regolith Compact Shield Extender
+    Large F-S9 Regolith Compact Shield Extender
+    Upgraded EM Ward Amplifier I
+    10MN Y-S8 Compact Afterburner
+
+    Damage Control II
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Expanded Cargohold II
+
+    Medium Cargohold Optimization I
+    Medium Cargohold Optimization I
+    Medium Cargohold Optimization I
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
