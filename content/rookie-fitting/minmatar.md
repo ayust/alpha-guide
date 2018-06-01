@@ -9,7 +9,22 @@
 
 The Minmatar corvette is the Reaper.
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119447/svg/119447-alpha-reaper-wdrone.svg?privatetoken=5479867580904636416"><a href="https://o.smium.org/loadout/private/119447/5479867580904636416">View Alpha Reaper w/Drone on Osmium</a></object>
+### Importable Fit
+
+    [Reaper, Reaper alpha]
+
+    125mm Gatling AutoCannon I
+    125mm Gatling AutoCannon I
+
+    Small Shield Booster I
+    1MN Afterburner I
+
+    Gyrostabilizer I
+    Damage Control I
+
+    Warrior I x1
+
+    Fusion S x2400
 
 ### Weapons
 
