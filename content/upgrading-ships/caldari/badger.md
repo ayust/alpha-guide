@@ -7,7 +7,20 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118481/svg/118481-alpha-clone---starter-badger.svg?privatetoken=1102763042573123584"><a href="https://o.smium.org/loadout/private/118481/1102763042573123584">View Alpha Clone - Starter Badger on Osmium</a></object>
+### Importable Fit
+    [Badger, Badger alpha]
+
+    Large Shield Extender I
+    Medium Shield Extender I
+    EM Ward Amplifier I
+    EM Ward Amplifier I
+    Thermal Dissipation Amplifier I
+    10MN Afterburner I
+
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Damage Control I
 
 {{% notice info %}}
 As industrial ships are intended for item transport rather than combat, this ship is **unarmed**.
@@ -83,7 +96,23 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118483/svg/118483-alpha-clone---improved-badger.svg?privatetoken=1050794835939688448"><a href="https://o.smium.org/loadout/private/118483/1050794835939688448">View Alpha Clone - Improved Badger on Osmium</a></object>
+    [Badger, Badger alpha+]
+
+    Large Shield Extender II
+    Medium Shield Extender II
+    EM Ward Amplifier II
+    Limited Adaptive Invulnerability Field I
+    Thermal Dissipation Amplifier II
+    10MN Y-S8 Compact Afterburner
+
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Damage Control II
+
+    Medium Cargohold Optimization I
+    Medium Cargohold Optimization I
+    Medium Cargohold Optimization I
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
