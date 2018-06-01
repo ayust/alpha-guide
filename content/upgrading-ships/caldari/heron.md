@@ -7,7 +7,26 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118487/svg/118487-alpha-clone---starter-heron.svg?privatetoken=51919643438219264"><a href="https://o.smium.org/loadout/private/118487/51919643438219264">View Alpha Clone - Starter Heron on Osmium</a></object>
+### Importable Fit
+    [Heron, Heron Alpha]
+
+    Core Probe Launcher I
+
+    Data Analyzer I
+    Relic Analyzer I
+    Medium Shield Extender I
+    EM Ward Amplifier I
+    1MN Afterburner I
+
+    Damage Control I
+    Micro Auxiliary Power Core I
+
+    Small Gravity Capacitor Upgrade I
+    Small Gravity Capacitor Upgrade I
+
+    Hobgoblin I x7
+
+    Core Scanner Probe I x8
 
 {{% notice info %}}
 As exploration frigates are intended for exploration rather than combat, this ship is **unarmed**.
@@ -74,7 +93,25 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118488/svg/118488-alpha-clone---improved-heron.svg?privatetoken=1113267141009735680"><a href="https://o.smium.org/loadout/private/118488/1113267141009735680">View Alpha Clone - Improved Heron on Osmium</a></object>
+    [Heron, Heron Alpha+]
+
+    Core Probe Launcher I
+
+    Data Analyzer I
+    Relic Analyzer I
+    Scan Rangefinding Array I
+    Scan Acquisition Array I
+    5MN Cold-Gas Enduring Microwarpdrive
+
+    Damage Control II
+    Nanofiber Internal Structure II
+
+    Small Gravity Capacitor Upgrade I
+    Small Gravity Capacitor Upgrade I
+
+    Hobgoblin I x7
+
+    Sisters Core Scanner Probe x8
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
