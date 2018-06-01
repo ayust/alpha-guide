@@ -9,7 +9,7 @@
 
 ### Importable Fit
 
-    [Executioner, Starter Executioner]
+    [Executioner, Executioner alpha]
 
     Small Focused Pulse Laser I
     Small Focused Pulse Laser I
@@ -96,7 +96,7 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-    [Executioner, *Starter Executioner]
+    [Executioner, Executioner alpha+]
 
     Small Focused Anode Pulse Particle Stream I
     Small Focused Anode Pulse Particle Stream I
