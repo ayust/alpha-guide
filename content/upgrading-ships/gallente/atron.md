@@ -7,7 +7,23 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118501/svg/118501-alpha-clone---starter-atron.svg?privatetoken=7015883971993010176"><a href="https://o.smium.org/loadout/private/118501/7015883971993010176">View Alpha Clone - Starter Atron on Osmium</a></object>
+### Importable Fit
+    [Atron, Atron alpha]
+
+    Light Ion Blaster I
+    Light Ion Blaster I
+    Light Ion Blaster I
+
+    1MN Afterburner I
+    Stasis Webifier I
+    Small Capacitor Booster I
+
+    Magnetic Field Stabilizer I
+    Small Armor Repairer I
+    Damage Control I
+
+    Cap Booster 200 x11
+    Antimatter Charge S x2360
 
 ### Weapons
 
@@ -84,7 +100,26 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118502/svg/118502-alpha-clone---improved-atron.svg?privatetoken=2111440561624842240"><a href="https://o.smium.org/loadout/private/118502/2111440561624842240">View Alpha Clone - Improved Atron on Osmium</a></object>
+    [Atron, Atron alpha+]
+
+    Modal Light Ion Particle Accelerator I
+    Modal Light Ion Particle Accelerator I
+    Modal Light Ion Particle Accelerator I
+
+    5MN Y-T8 Compact Microwarpdrive
+    X5 Enduring Stasis Webifier
+    Small Electrochemical Capacitor Booster I
+
+    Magnetic Field Stabilizer II
+    Damage Control II
+    Small 'Accommodation' Vestment Reconstructer I
+
+    Small Ancillary Current Router I
+    Small Anti-Explosive Pump I
+    Small Auxiliary Nano Pump I
+
+    Cap Booster 200 x11
+    Antimatter Charge S x2360
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
