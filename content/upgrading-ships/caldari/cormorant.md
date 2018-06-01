@@ -8,7 +8,7 @@
 }
 
 ### Importable Fit
-    [Cormorant, Alpha Cormorant]
+    [Cormorant, Cormorant alpha]
 
     125mm Railgun I
     125mm Railgun I
@@ -101,7 +101,7 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-    [Cormorant, Alpha+ Cormorant]
+    [Cormorant, Cormorant alpha+]
 
     150mm Prototype Gauss Gun
     150mm Prototype Gauss Gun
