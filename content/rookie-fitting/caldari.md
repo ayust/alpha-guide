@@ -9,7 +9,23 @@
 
 The Caldari corvette is the Ibis.
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119446/svg/119446-alpha-ibis-wdrone.svg?privatetoken=3595180998788120576"><a href="https://o.smium.org/loadout/private/119446/3595180998788120576">View Alpha Ibis w/Drone on Osmium</a></object>
+### Importable Fit
+
+    [Ibis, Ibis alpha]
+
+    75mm Gatling Rail I
+    75mm Gatling Rail I
+
+    Small Shield Booster I
+    1MN Afterburner I
+
+    Magnetic Field Stabilizer I
+    Damage Control I
+
+    Hornet I x1
+
+    Antimatter Charge S x1400
+
 
 ### Weapons
 
