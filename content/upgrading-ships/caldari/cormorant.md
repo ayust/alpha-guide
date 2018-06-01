@@ -7,7 +7,30 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118477/svg/118477-simulated-cormorant.svg?privatetoken=4681329501542547456"><a href="https://o.smium.org/loadout/private/118477/4681329501542547456">View *Simulated Cormorant on Osmium</a></object>
+### Importable Fit
+    [Cormorant, Cormorant alpha]
+
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+
+    Medium Shield Booster I
+    1MN Afterburner I
+    Small Capacitor Booster I
+
+    Magnetic Field Stabilizer I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+
+    Cap Booster 200 x31
+    Antimatter Charge S x3060
 
 ### Weapons
 
@@ -78,7 +101,28 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118480/svg/118480-alpha-clone---improved-cormorant.svg?privatetoken=988938429179887616"><a href="https://o.smium.org/loadout/private/118480/988938429179887616">View Alpha Clone - Improved Cormorant on Osmium</a></object>
+    [Cormorant, Cormorant alpha+]
+
+    150mm Prototype Gauss Gun
+    150mm Prototype Gauss Gun
+    150mm Prototype Gauss Gun
+    150mm Prototype Gauss Gun
+    150mm Prototype Gauss Gun
+    150mm Prototype Gauss Gun
+    150mm Prototype Gauss Gun
+
+    Small Shield Booster II
+    1MN Monopropellant Enduring Afterburner
+    Cap Recharger II
+
+    Magnetic Field Stabilizer II
+    Damage Control II
+
+    Small Anti-EM Screen Reinforcer I
+    Small Capacitor Control Circuit I
+    Small Capacitor Control Circuit I
+
+    Antimatter Charge S x2500
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
