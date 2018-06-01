@@ -7,7 +7,28 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118491/svg/118491-alpha-clone---starter-kestrel.svg?privatetoken=8200551619994058752"><a href="https://o.smium.org/loadout/private/118491/8200551619994058752">View Alpha Clone - Starter Kestrel on Osmium</a></object>
+### Importable Fit
+    [Kestrel, Kestrel Alpha]
+
+    Light Missile Launcher I
+    Light Missile Launcher I
+    Light Missile Launcher I
+    Light Missile Launcher I
+
+    Small Shield Booster I
+    Small Capacitor Booster I
+    Stasis Webifier I
+    1MN Afterburner I
+
+    Ballistic Control System I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+
+    Scourge Light Missile x660
+    Cap Booster 200 x11
 
 {{% notice info %}}
 This is a missile ship.  You will need to train at least **`Missile Launcher Operation` Level II**
@@ -84,7 +105,27 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118492/svg/118492-alpha-clone---improved-kestrel.svg?privatetoken=8863426676206338048"><a href="https://o.smium.org/loadout/private/118492/8863426676206338048">View Alpha Clone - Improved Kestrel on Osmium</a></object>
+    [Kestrel, Kestrel Alpha+]
+
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+
+    Small Shield Booster II
+    Cap Recharger II
+    Missile Guidance Computer II
+    5MN Quad LiF Restrained Microwarpdrive
+
+    Ballistic Control System II
+    Damage Control II
+
+    Small Capacitor Control Circuit I
+    Small Anti-EM Screen Reinforcer I
+    Small Processor Overclocking Unit I
+
+    Missile Range Script x1
+    Scourge Light Missile x660
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
