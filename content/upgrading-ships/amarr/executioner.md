@@ -7,7 +7,24 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118457/svg/118457-alpha-clone---starter-executioner.svg?privatetoken=7331827611737260032"><a href="https://o.smium.org/loadout/private/118457/7331827611737260032">View Alpha Clone - Starter Executioner on Osmium</a></object>
+### Importable Fit
+
+    [Executioner, Executioner alpha]
+
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+
+    1MN Afterburner I
+    Stasis Webifier I
+    Small Capacitor Booster I
+
+    Heat Sink I
+    Small Armor Repairer I
+    Damage Control I
+
+    Cap Booster 200 x11
+    Multifrequency S x3
 
 ### Weapons
 
@@ -79,7 +96,26 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118458/svg/118458-starter-executioner.svg?privatetoken=8882447389848240128"><a href="https://o.smium.org/loadout/private/118458/8882447389848240128">View *Starter Executioner on Osmium</a></object>
+    [Executioner, Executioner alpha+]
+
+    Small Focused Anode Pulse Particle Stream I
+    Small Focused Anode Pulse Particle Stream I
+    Small Focused Anode Pulse Particle Stream I
+
+    5MN Y-T8 Compact Microwarpdrive
+    Fleeting Compact Stasis Webifier
+    Small Electrochemical Capacitor Booster I
+
+    Heat Sink I
+    Small Armor Repairer II
+    Damage Control II
+
+    Small Ancillary Current Router I
+    Small Auxiliary Nano Pump I
+    Small Auxiliary Nano Pump I
+
+    Cap Booster 200 x11
+    Multifrequency S x3
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
