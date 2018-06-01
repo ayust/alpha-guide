@@ -7,7 +7,30 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119455/svg/119455-alpha-clone---starter-tormentor-wdrones.svg?privatetoken=3966349955089563648"><a href="https://o.smium.org/loadout/private/119455/3966349955089563648">View Alpha Clone - Starter Tormentor w/Drones on Osmium</a></object>
+### Importable Fit
+
+    [Tormentor, Tormentor alpha]
+
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+
+    1MN Afterburner I
+    Stasis Webifier I
+    Small Capacitor Booster I
+
+    Heat Sink I
+    Small Armor Repairer I
+    Damage Control I
+    Adaptive Nano Plating I
+
+    Small Energy Collision Accelerator I
+
+    Acolyte I x2
+    Hobgoblin I x2
+
+    Cap Booster 200 x11
+    Multifrequency S x3
 
 ### Weapons
 
@@ -87,7 +110,30 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118455/svg/118455-alpha-clone---improved-tormentor.svg?privatetoken=7188800484906369024"><a href="https://o.smium.org/loadout/private/118455/7188800484906369024">View Alpha Clone - Improved Tormentor on Osmium</a></object>
+    [Tormentor, Tormentor alpha+]
+
+    Small Focused Anode Pulse Particle Stream I
+    Small Focused Anode Pulse Particle Stream I
+    Small Focused Anode Pulse Particle Stream I
+
+    1MN Y-S8 Compact Afterburner
+    Fleeting Compact Stasis Webifier
+    Small Electrochemical Capacitor Booster I
+
+    Heat Sink II
+    Small Armor Repairer II
+    Damage Control II
+    'Refuge' Adaptive Nano Plating I
+
+    Small Energy Collision Accelerator I
+    Small Auxiliary Nano Pump I
+    Small Auxiliary Nano Pump I
+
+    Warrior I x2
+    Hobgoblin I x2
+
+    Cap Booster 200 x11
+    Multifrequency S x3
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
