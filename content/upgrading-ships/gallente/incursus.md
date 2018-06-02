@@ -7,7 +7,25 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119456/svg/119456-alpha-clone---starter-incursus-wdrone.svg?privatetoken=4346902259586564096"><a href="https://o.smium.org/loadout/private/119456/4346902259586564096">View Alpha Clone - Starter Incursus w/Drone on Osmium</a></object>
+### Importable Fit
+    [Incursus, Incursus alpha]
+
+    Light Neutron Blaster I
+    Light Neutron Blaster I
+    Light Neutron Blaster I
+	
+    1MN Afterburner I
+    Stasis Webifier I
+    Small Capacitor Booster I
+
+    Magnetic Field Stabilizer I
+    Small Armor Repairer I
+    Damage Control I
+
+    Hobgoblin I x1
+
+    Cap Booster 200 x11
+    Antimatter Charge S x2240
 
 ### Weapons
 
@@ -92,7 +110,28 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118513/svg/118513-alpha-clone---improved-incursus.svg?privatetoken=5817811791190687744"><a href="https://o.smium.org/loadout/private/118513/5817811791190687744">View Alpha Clone - Improved Incursus on Osmium</a></object>
+    [Incursus, Incursus alpha+]
+
+    Anode Light Neutron Particle Cannon I
+    Anode Light Neutron Particle Cannon I
+    Anode Light Neutron Particle Cannon I
+
+    1MN Y-S8 Compact Afterburner
+    Fleeting Compact Stasis Webifier
+    Small Electrochemical Capacitor Booster I
+
+    Magnetic Field Stabilizer II
+    Small Armor Repairer II
+    Damage Control II
+
+    Small Anti-Explosive Pump I
+    Small Anti-Thermal Pump I
+    Small Anti-Kinetic Pump I
+
+    Hobgoblin I x1
+
+    Cap Booster 200 x11
+    Antimatter Charge S x2240
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
