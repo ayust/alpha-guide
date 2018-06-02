@@ -7,7 +7,30 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119457/svg/119457-alpha-clone---starter-breacher-wdrones.svg?privatetoken=337734242219851776"><a href="https://o.smium.org/loadout/private/119457/337734242219851776">View Alpha Clone - Starter Breacher w/Drones on Osmium</a></object>
+### Importable Fit
+    [Breacher, Breacher alpha]
+
+    Rocket Launcher I
+    Rocket Launcher I
+    Rocket Launcher I
+
+    Medium Shield Booster I
+    1MN Afterburner I
+    Stasis Webifier I
+    Small Capacitor Booster I
+
+    Ballistic Control System I
+    Missile Guidance Enhancer I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+
+    Warrior I x2
+
+    Nova Rocket x1111
+    Cap Booster 200 x11
 
 {{% notice info %}}
 This is a missile ship.  You will need to train at least **`Rockets` Level I** 
@@ -95,7 +118,29 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118527/svg/118527-alpha-clone---improved-breacher.svg?privatetoken=5891712325630558208"><a href="https://o.smium.org/loadout/private/118527/5891712325630558208">View Alpha Clone - Improved Breacher on Osmium</a></object>
+    [Breacher, Breacher alpha+]
+
+    'Arbalest' Rocket Launcher I
+    'Arbalest' Rocket Launcher I
+    'Arbalest' Rocket Launcher I
+
+    Medium Clarity Ward Booster I
+    1MN Monopropellant Enduring Afterburner
+    X5 Enduring Stasis Webifier
+    Small Electrochemical Capacitor Booster I
+
+    Missile Guidance Enhancer II
+    Ballistic Control System II
+    Damage Control II
+
+    Small Core Defense Capacitor Safeguard I
+    Small Anti-EM Screen Reinforcer I
+    Small Core Defense Capacitor Safeguard I
+
+    Warrior I x2
+
+    Nova Rocket x1135
+    Cap Booster 200 x11
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
