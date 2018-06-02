@@ -7,7 +7,20 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118540/svg/118540-alpha-clone---starter-wreathe.svg?privatetoken=8297636787329695744"><a href="https://o.smium.org/loadout/private/118540/8297636787329695744">View Alpha Clone - Starter Wreathe on Osmium</a></object>
+### Importable Fit
+    [Wreathe, Wreathe alpha]
+
+    Large Shield Extender I
+    Medium Shield Extender I
+    EM Ward Amplifier I
+    Thermal Dissipation Amplifier I
+    10MN Afterburner I
+
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Damage Control I
 
 {{% notice info %}}
 As industrial ships are intended for item transport rather than combat, this ship is **unarmed**.
@@ -83,7 +96,23 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118541/svg/118541-alpha-clone---improved-wreathe.svg?privatetoken=7264777537249607680"><a href="https://o.smium.org/loadout/private/118541/7264777537249607680">View Alpha Clone - Improved Wreathe on Osmium</a></object>
+    [Wreathe, Wreathe alpha+]
+
+    Large Shield Extender II
+    Medium Shield Extender II
+    EM Ward Amplifier II
+    Thermal Dissipation Amplifier II
+    10MN Y-S8 Compact Afterburner
+
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Damage Control II
+
+    Medium Cargohold Optimization I
+    Medium Cargohold Optimization I
+    Medium Cargohold Optimization I
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
