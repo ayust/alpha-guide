@@ -7,7 +7,27 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118536/svg/118536-alpha-clone---starter-slasher.svg?privatetoken=3553268839602978816"><a href="https://o.smium.org/loadout/private/118536/3553268839602978816">View Alpha Clone - Starter Slasher on Osmium</a></object>
+### Importable Fit
+    [Slasher, Slasher alpha]
+
+    200mm AutoCannon I
+    200mm AutoCannon I
+    200mm AutoCannon I
+
+    1MN Afterburner I
+    Stasis Webifier I
+    Small Capacitor Booster I
+    Small Shield Booster I
+
+    Gyrostabilizer I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+    Small Projectile Collision Accelerator I
+
+    Cap Booster 200 x11
+    Fusion S x2360
 
 ### Weapons
 
@@ -85,7 +105,25 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118537/svg/118537-alpha-clone---improved-slasher.svg?privatetoken=7620532255357665280"><a href="https://o.smium.org/loadout/private/118537/7620532255357665280">View Alpha Clone - Improved Slasher on Osmium</a></object>
+    [Slasher, Slasher alpha+]
+
+    200mm Light 'Scout' Autocannon I
+    200mm Light 'Scout' Autocannon I
+    200mm Light 'Scout' Autocannon I
+
+    5MN Y-T8 Compact Microwarpdrive
+    Fleeting Compact Stasis Webifier
+    Small Electrochemical Capacitor Booster I
+    Small Shield Booster II
+
+    Gyrostabilizer II
+    Damage Control II
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+    Small Projectile Collision Accelerator I
+
+    Fusion S x2360
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
