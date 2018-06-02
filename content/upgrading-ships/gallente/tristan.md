@@ -7,7 +7,25 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118518/svg/118518-alpha-clone---starter-tristan.svg?privatetoken=5479837116701605888"><a href="https://o.smium.org/loadout/private/118518/5479837116701605888">View Alpha Clone - Starter Tristan on Osmium</a></object>
+### Importable Fit
+    [Tristan, Tristan alpha]
+
+    Light Neutron Blaster I
+    Light Neutron Blaster I
+
+    1MN Afterburner I
+    Small Capacitor Booster I
+
+    Drone Damage Amplifier I
+    Small Armor Repairer I
+    Damage Control I
+
+    Small Hybrid Collision Accelerator I
+
+    Hobgoblin I x8
+
+    Cap Booster 200 x11
+    Antimatter Charge S x1160
 
 {{% notice info %}}
 This is a drone ship.  You will need to train at least **`Drones` Level III**
@@ -87,7 +105,27 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118519/svg/118519-alpha-clone---improved-tristan.svg?privatetoken=7327835096038244352"><a href="https://o.smium.org/loadout/private/118519/7327835096038244352">View Alpha Clone - Improved Tristan on Osmium</a></object>
+    [Tristan, Tristan alpha+]
+
+    Anode Light Neutron Particle Cannon I
+    Anode Light Neutron Particle Cannon I
+
+    1MN Monopropellant Enduring Afterburner
+    Small Electrochemical Capacitor Booster I
+    X5 Enduring Stasis Webifier
+
+    Drone Damage Amplifier II
+    Small Armor Repairer II
+    Damage Control II
+
+    Small Anti-Explosive Pump I
+    Small Auxiliary Nano Pump I
+    Small Auxiliary Nano Pump I
+
+    Hobgoblin I x8
+
+    Cap Booster 200 x11
+    Antimatter Charge S x1160
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
