@@ -7,7 +7,30 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118538/svg/118538-alpha-clone---starter-thrasher.svg?privatetoken=6337645336726601728"><a href="https://o.smium.org/loadout/private/118538/6337645336726601728">View Alpha Clone - Starter Thrasher on Osmium</a></object>
+### Importable Fit
+    [Thrasher, Thrasher alpha]
+
+    200mm Autocannon I
+    200mm Autocannon I
+    200mm Autocannon I
+    200mm Autocannon I
+    200mm Autocannon I
+    200mm Autocannon I
+    200mm Autocannon I
+    
+    Medium Shield Booster I
+    1MN Afterburner I
+    Small Capacitor Booster I
+    
+    Gyrostabilizer I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Core Defense Capacitor Safeguard I
+    Small Core Defense Capacitor Safeguard I
+    
+    Fusion S x5840
+    Cap Booster 200 x11
 
 ### Weapons
 
@@ -79,7 +102,29 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118539/svg/118539-alpha-clone---improved-thrasher.svg?privatetoken=7790281401688915968"><a href="https://o.smium.org/loadout/private/118539/7790281401688915968">View Alpha Clone - Improved Thrasher on Osmium</a></object>
+    [Thrasher, Thrasher alpha+]
+
+    200mm Light Prototype Automatic Cannon
+    200mm Light Prototype Automatic Cannon
+    200mm Light Prototype Automatic Cannon
+    200mm Light Prototype Automatic Cannon
+    200mm Light Prototype Automatic Cannon
+    200mm Light Prototype Automatic Cannon
+    200mm Light Prototype Automatic Cannon
+    
+    Medium Shield Booster II
+    5MN Quad LiF Restrained Microwarpdrive
+    Small Electrochemical Capacitor Booster I
+    
+    Gyrostabilizer II
+    Damage Control II
+
+    Small Anti-EM Screen Reinforcer I
+    Small Core Defense Capacitor Safeguard I
+    Small Core Defense Capacitor Safeguard I
+    
+    Fusion S x5840
+    Cap Booster 200 x11
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
