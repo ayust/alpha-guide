@@ -7,7 +7,24 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/119454/svg/119454-alpha-clone---starter-venture-wdrones.svg?privatetoken=8529239342533574656"><a href="https://o.smium.org/loadout/private/119454/8529239342533574656">View Alpha Clone - Starter Venture w/Drones on Osmium</a></object>
+### Importable Fit
+    [Venture, Venture alpha]
+
+    Miner I
+    Miner I
+    Salvager I
+
+    Survey Scanner I
+    Medium Shield Extender I
+    1MN Afterburner I
+
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+
+    Hobgoblin I x2
 
 {{% notice info %}}
 Mining frigates are primarily intended for gathering resources rather than combat.
@@ -95,7 +112,22 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118496/svg/118496-alpha-clone---improved-venture.svg?privatetoken=1980229761703608320"><a href="https://o.smium.org/loadout/private/118496/1980229761703608320">View Alpha Clone - Improved Venture on Osmium</a></object>
+    [Venture, Venture alpha+]
+
+    Miner II
+    Miner II
+
+    Survey Scanner II
+    Medium Azeotropic Restrained Shield Extender
+    5MN Quad LiF Restrained Microwarpdrive
+
+    Mining Laser Upgrade II
+
+    Small Core Defense Field Extender I
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+
+    Hobgoblin I x2
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
