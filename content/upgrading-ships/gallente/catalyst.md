@@ -7,7 +7,28 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118506/svg/118506-alpha-clone---starter-catalyst.svg?privatetoken=472855717238276096"><a href="https://o.smium.org/loadout/private/118506/472855717238276096">View Alpha Clone - Starter Catalyst on Osmium</a></object>
+### Importable Fit
+    [Catalyst, Catalyst alpha]
+
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+    125mm Railgun I
+
+    1MN Afterburner I
+    Stasis Webifier I
+
+    Magnetic Field Stabilizer I
+    Small Armor Repairer I
+    Damage Control I
+
+    Small Hybrid Collision Accelerator I
+
+    Antimatter Charge S x3140
 
 ### Weapons
 
@@ -70,7 +91,29 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118507/svg/118507-alpha-clone---improved-catalyst.svg?privatetoken=2896119769365217280"><a href="https://o.smium.org/loadout/private/118507/2896119769365217280">View Alpha Clone - Improved Catalyst on Osmium</a></object>
+    [Catalyst, Catalyst alpha+]
+
+    125mm Prototype Gauss Gun
+    125mm Prototype Gauss Gun
+    125mm Prototype Gauss Gun
+    125mm Prototype Gauss Gun
+    125mm Prototype Gauss Gun
+    125mm Prototype Gauss Gun
+    125mm Prototype Gauss Gun
+    125mm Prototype Gauss Gun
+
+    5MN Quad LiF Restrained Microwarpdrive
+    X5 Enduring Stasis Webifier
+
+    Magnetic Field Stabilizer II
+    Small Armor Repairer II
+    Damage Control II
+
+    Small Anti-Explosive Pump I
+    Small Capacitor Control Circuit I
+    Small Capacitor Control Circuit I
+
+    Antimatter Charge S x3140
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
