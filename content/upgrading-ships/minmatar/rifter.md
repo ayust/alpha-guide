@@ -7,7 +7,26 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118530/svg/118530-alpha-clone---starter-rifter.svg?privatetoken=550023798372433920"><a href="https://o.smium.org/loadout/private/118530/550023798372433920">View Alpha Clone - Starter Rifter on Osmium</a></object>
+### Importable Fit
+    [Rifter, Rifter alpha]
+
+    200mm AutoCannon I
+    200mm AutoCannon I
+    200mm AutoCannon I
+
+    1MN Afterburner I
+    Stasis Webifier I
+    Small Capacitor Booster I
+
+    Gyrostabilizer I
+    Small Armor Repairer I
+    Damage Control I
+
+    Small Projectile Collision Accelerator I
+    Small Projectile Burst Aerator I
+
+    Cap Booster 200 x11
+    Fusion S x2360
 
 ### Weapons
 
@@ -53,7 +72,7 @@ are often relatively expensive and may be difficult to find near your starter st
 A `Small Projectile Collision Accelerator I` rig will give your projectile turrets additional damage output,
 though it also increases the Powergrid usage of your guns.
 
-A `Small Projectile Collision Accelerator I` rig will give your projectile turrets a quicker rate of fire,
+A `Small Projectile Burst Aerator I` rig will give your projectile turrets a quicker rate of fire,
 though it also increases the Powergrid usage of your guns.
 
 ### How To Fly
@@ -81,7 +100,26 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118533/svg/118533-alpha-clone---improved-rifter.svg?privatetoken=4794550474462199808"><a href="https://o.smium.org/loadout/private/118533/4794550474462199808">View Alpha Clone - Improved Rifter on Osmium</a></object>
+    [Rifter, Rifter alpha+]
+
+    200mm Light 'Scout' Autocannon I
+    200mm Light 'Scout' Autocannon I
+    200mm Light 'Scout' Autocannon I
+
+    5MN Quad LiF Restrained Microwarpdrive
+    X5 Enduring Stasis Webifier
+    Small Electrochemical Capacitor Booster I
+
+    Gyrostabilizer II
+    Small Armor Repairer II
+    Damage Control II
+
+    Small Anti-Explosive Pump I
+    Small Auxiliary Nano Pump I
+    Small Auxiliary Nano Pump I
+
+    Cap Booster 200 x11
+    Fusion S x2360
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
