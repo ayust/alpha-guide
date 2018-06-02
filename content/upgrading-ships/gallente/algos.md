@@ -7,7 +7,31 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118664/svg/118664-alpha-clone---starter-algos.svg?privatetoken=8482316506997194752"><a href="https://o.smium.org/loadout/private/118664/8482316506997194752">View Alpha Clone - Starter Algos on Osmium</a></object>
+### Importable Fit
+    [Algos, Algos alpha]
+
+    Light Ion Blaster I
+    Light Ion Blaster I
+    Light Ion Blaster I
+    Light Ion Blaster I
+    Light Ion Blaster I
+
+    Small Shield Booster I
+    1MN Afterburner I
+    Small Capacitor Booster I
+
+    Drone Damage Amplifier I
+    Magnetic Field Stabilizer I
+    Damage Control I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+
+    Hobgoblin I x12
+
+    Cap Booster 200 x31
+    Antimatter Charge S x2600
 
 {{% notice info %}}
 This is a drone ship.  You will need to train at least **`Drones` Level III**
@@ -92,7 +116,31 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118668/svg/118668-alpha-clone---improved-algos.svg?privatetoken=897549341961486336"><a href="https://o.smium.org/loadout/private/118668/897549341961486336">View Alpha Clone - Improved Algos on Osmium</a></object>
+    [Algos, Algos alpha+]
+
+    Modal Light Ion Particle Accelerator I
+    Modal Light Ion Particle Accelerator I
+    Modal Light Ion Particle Accelerator I
+    Modal Light Ion Particle Accelerator I
+    Modal Light Ion Particle Accelerator I
+
+    Small Shield Booster II
+    1MN Monopropellant Enduring Afterburner
+    Cap Recharger II
+
+    Drone Damage Amplifier II
+    Drone Damage Amplifier II
+    Damage Control II
+
+    Small Anti-EM Screen Reinforcer I
+    Small Capacitor Control Circuit I
+    Small Capacitor Control Circuit I
+
+    Warrior I x4
+    Hobgoblin I x4
+    Hammerhead I x2
+
+    Antimatter Charge S x2600
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
