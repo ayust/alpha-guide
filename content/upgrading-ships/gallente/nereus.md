@@ -7,7 +7,19 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118516/svg/118516-alpha-clone---starter-nereus.svg?privatetoken=5237141386821632"><a href="https://o.smium.org/loadout/private/118516/5237141386821632">View Alpha Clone - Starter Nereus on Osmium</a></object>
+### Importable Fit
+    [Nereus, Nereus alpha]
+
+    Large Shield Extender I
+    Medium Shield Extender I
+    EM Ward Amplifier I
+    10MN Afterburner I
+
+    Damage Control I
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Expanded Cargohold I
+    Expanded Cargohold I
 
 {{% notice info %}}
 As industrial ships are intended for item transport rather than combat, this ship is **unarmed**.
@@ -82,7 +94,25 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118517/svg/118517-alpha-clone---improved-nereus.svg?privatetoken=8704086164073611264"><a href="https://o.smium.org/loadout/private/118517/8704086164073611264">View Alpha Clone - Improved Nereus on Osmium</a></object>
+    [Nereus, Nereus alpha+]
+
+    Large Shield Extender II
+    Medium Shield Extender II
+    Medium Shield Extender II
+    EM Ward Amplifier II
+    10MN Y-S8 Compact Afterburner
+
+    Damage Control II
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Expanded Cargohold II
+    Expanded Cargohold II
+
+    Medium Cargohold Optimization I
+    Medium Cargohold Optimization I
+    Medium Cargohold Optimization I
+
+    Hobgoblin I x6
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
