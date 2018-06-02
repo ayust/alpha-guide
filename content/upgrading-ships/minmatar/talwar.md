@@ -7,7 +7,31 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118670/svg/118670-alpha-clone---starter-talwar.svg?privatetoken=3030804480569376768"><a href="https://o.smium.org/loadout/private/118670/3030804480569376768">View Alpha Clone - Starter Talwar on Osmium</a></object>
+### Importable Fit
+    [Talwar, Talwar alpha]
+
+    Light Missile Launcher I
+    Light Missile Launcher I
+    Light Missile Launcher I
+    Light Missile Launcher I
+    Light Missile Launcher I
+    Light Missile Launcher I
+    Salvager I
+
+    Small Shield Booster I
+    1MN Afterburner I
+    Small Capacitor Booster I
+
+    Ballistic Control System I
+    Damage Control I
+    Nanofiber Internal Structure I
+
+    Small Anti-EM Screen Reinforcer I
+    Small Anti-Thermal Screen Reinforcer I
+    Small Processor Overclocking Unit I
+
+    Cap Booster 200 x11
+    Nova Light Missile x1240
 
 {{% notice info %}}
 This is a missile ship.  You will need to train at least **`Missile Launcher Operation` Level II**
@@ -92,7 +116,30 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118672/svg/118672-alpha-clone---improved-talwar.svg?privatetoken=1323997117227728896"><a href="https://o.smium.org/loadout/private/118672/1323997117227728896">View Alpha Clone - Improved Talwar on Osmium</a></object>
+    [Talwar, Talwar alpha+]
+
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+    Arbalest Compact Light Missile Launcher
+    Salvager I
+
+    Small Shield Booster II
+    5MN Quad LiF Restrained Microwarpdrive
+    Cap Recharger II
+
+    Ballistic Control System II
+    Damage Control II
+    Mark I Compact Power Diagnostic System
+
+    Small Anti-EM Screen Reinforcer I
+    Small Capacitor Control Circuit I
+    Small Processor Overclocking Unit I
+
+    Nova Light Missile x1240
+    Cap Booster 200 x10
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
