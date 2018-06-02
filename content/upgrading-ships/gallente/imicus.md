@@ -7,7 +7,23 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118510/svg/118510-alpha-clone---starter-imicus.svg?privatetoken=1957593063555596288"><a href="https://o.smium.org/loadout/private/118510/1957593063555596288">View Alpha Clone - Starter Imicus on Osmium</a></object>
+### Importable Fit
+    [Imicus, Imicus alpha]
+
+    Core Probe Launcher I
+	
+    Data Analyzer I
+    Relic Analyzer I
+    Small Shield Extender I
+    1MN Afterburner I
+
+    Warp Core Stabilizer I
+    Warp Core Stabilizer I
+
+    Small Gravity Capacitor Upgrade I
+    Small Gravity Capacitor Upgrade I
+
+    Core Scanner Probe I x8
 
 {{% notice info %}}
 As exploration frigates are intended for exploration rather than combat, this ship is **unarmed**.
@@ -75,7 +91,25 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118511/svg/118511-alpha-clone---improved-imicus.svg?privatetoken=3747071537958617088"><a href="https://o.smium.org/loadout/private/118511/3747071537958617088">View Alpha Clone - Improved Imicus on Osmium</a></object>
+    [Imicus, Imicus alpha+]
+
+    Core Probe Launcher I
+
+    Data Analyzer I
+    Relic Analyzer I
+    Scan Rangefinding Array I
+    5MN Cold-Gas Enduring Microwarpdrive
+
+    Warp Core Stabilizer I
+    Warp Core Stabilizer I
+    Damage Control II
+
+    Small Gravity Capacitor Upgrade I
+    Small Gravity Capacitor Upgrade I
+
+    Hobgoblin I x8
+
+    Sisters Core Scanner Probe x8
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
