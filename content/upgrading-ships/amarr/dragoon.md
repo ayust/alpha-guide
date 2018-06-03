@@ -7,7 +7,31 @@
   "weight": "1"
 }
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118662/svg/118662-alpha-clone---starter-dragoon.svg?privatetoken=7996869113878151168"><a href="https://o.smium.org/loadout/private/118662/7996869113878151168">View Alpha Clone - Starter Dragoon on Osmium</a></object>
+### Importable Fit
+    [Dragoon, Dragoon alpha]
+
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+    Small Focused Pulse Laser I
+    Salvager I
+
+    1MN Afterburner I
+    Small Capacitor Booster I
+
+    Drone Damage Amplifier I
+    Drone Damage Amplifier I
+    Small Armor Repairer I
+    Damage Control I
+
+    Small Auxiliary Nano Pump I
+    Small Auxiliary Nano Pump I
+    Small Auxiliary Nano Pump I
+
+    Hobgoblin I x15
+
+    Cap Booster 200 x31
+    Multifrequency S x3
+
 
 {{% notice info %}}
 This is a drone ship.  You will need to train at least **`Drones` Level III**
@@ -87,7 +111,29 @@ readily available outside of trade hubs, but it can be worth the trip.
 
 We recommend working towards the following improved fit:
 
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118663/svg/118663-alpha-clone---improved-dragoon.svg?privatetoken=4464276976982556672"><a href="https://o.smium.org/loadout/private/118663/4464276976982556672">View Alpha Clone - Improved Dragoon on Osmium</a></object>
+    [Dragoon, Dragoon alpha+]
+
+    Dual Modulated Pulse Energy Beam I
+    Dual Modulated Pulse Energy Beam I
+    Dual Modulated Pulse Energy Beam I
+    Drone Link Augmentor I
+    Small Ghoul Compact Energy Nosferatu
+
+    1MN Monopropellant Enduring Afterburner
+    Fleeting Compact Stasis Webifier
+
+    Drone Damage Amplifier II
+    'Refuge' Adaptive Nano Plating I
+    Small Armor Repairer II
+    Damage Control II
+
+    Small Capacitor Control Circuit I
+    Small Auxiliary Nano Pump I
+    Small Auxiliary Nano Pump I
+
+    Hobgoblin I x15
+
+    Multifrequency S x3
 
 The improved fit will require the training of the following skills to use all installed equipment:
 
