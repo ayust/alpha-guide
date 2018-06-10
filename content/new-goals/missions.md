@@ -28,10 +28,10 @@ In general, you'll want:
  * Frigates/destroyers for Level 1 missions
  * Destroyers/cruisers for Level 2 missions
  * Cruisers/battlecruisers for Level 3 missions
- * A well-fit battlecruiser for Level 4 missions
+ * A well-fit battleship for Level 4 missions
 
 {{% notice note %}}
-The only battlecruiser that alpha clones can use is the `Gnosis`.
+Under the old alpha clone rules the only battlecruiser that alpha clones could use was the `Gnosis`. however, since December 2017 (EVE Vegas) alpha clones can now fly up to a battleship.
 {{% /notice %}}
 
 You can read more on the [UniWiki 'Missions' page](http://wiki.eveuniversity.org/Missions).
