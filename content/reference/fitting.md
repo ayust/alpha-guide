@@ -736,9 +736,7 @@ So, to demonstrate, let's see an example of how it all comes together.
 I'll try and walk you through the mental process I was using while
 creating one of the fits used in this guide: the "Improved Cormorant" fit for Caldari.
 
-Here's the Cormorant hull:
-
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118655/svg/118655-cormorant-bare-hull.svg"><a href="https://o.smium.org/loadout/118655">View Cormorant (Bare Hull) on Osmium</a></object>
+Start with a bare Cormorant hull.
 
 #### Step One: Check Bonuses And Slots
 
@@ -903,5 +901,3 @@ to a variant such as Enduring or Restrained.  But I don't, so I won't.
 
 Satisfied with the fit, we load ammo, hop in, and prepare to bring 150mm of antimatter justice
 to any pirate that stands in our way.
-
-<object type="image/svg+xml" data="https://o.smium.org/api/convert/118480/svg/118480-alpha-clone---improved-cormorant.svg?privatetoken=988938429179887616"><a href="https://o.smium.org/loadout/private/118480/988938429179887616">View Alpha Clone - Improved Cormorant on Osmium</a></object>
