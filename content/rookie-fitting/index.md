@@ -10,10 +10,7 @@ you might be wondering what to do next.
 
 Don't panic!
 
-The easiest ship to get your hands on is your own race's corvette (typically known
-as a "rookie ship"). You get one for free if you don't have any other ships in the
-station you're in. In fact, you probably already have one if you docked up after
-exploding.
+The easiest ship to get your hands on is your own race's corvette (typically known as a "rookie ship"). You can get one for free by clicking the "Board my Corvette" button while docked in a station or citadel.
 
 You can significantly improve the effectiveness of your rookie ship by properly fitting
 it with modules bought from the market. Select your race below to see a suggested fit
