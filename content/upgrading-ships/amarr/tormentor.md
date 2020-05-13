@@ -155,7 +155,7 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
  * Guns: 3x `Small Focused Anode Pulse Particle Stream I`
  * Propulsion: `1MN Y-S8 Compact Afterburner`
  * Web: `Fleeting Compact Stasis Webifier`
- * Injector: `Small Electrochemical Capacitor Booster I`
+ * Injector: `Small F-RX Compact Capacitor Booster`
  * Damage Control: `Damage Control II`
  * Armor Repairer: `Small Armor Repairer II`
  * Damage Mod: `Heat Sink II`
