@@ -118,7 +118,7 @@ We recommend working towards the following improved fit:
 
     1MN Y-S8 Compact Afterburner
     Fleeting Compact Stasis Webifier
-    Small Electrochemical Capacitor Booster I
+    Small F-RX Compact Capacitor Booster
 
     Heat Sink II
     Small Armor Repairer II
