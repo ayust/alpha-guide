@@ -135,11 +135,13 @@ Battlecruisers are to cruisers as destroyers are to frigates:
 much more heavily armed, but substantially slower.  Battlecruisers are
 also significantly better defended, yet also more expensive.
 
-The Gnosis is the only battlecruiser available to Alpha clones.
-It is available to all races, and offers moderate bonuses to
-nearly all weapons systems and defenses while excelling in none.
+{{% notice note %}}
+Under the old alpha clone rules the only battlecruiser that alpha clones could
+use was the `Gnosis`. however, since December 2017 (EVE Vegas) alpha clones can
+now fly up to a battleship.
+{{% /notice %}}
 
-A Gnosis fitting will not be provided in this guide. By the time you're getting
+Battlecruiser fittings will not be provided in this guide. By the time you're getting
 into a battlecruiser, you should be creating fits for yourself; see
 [Fitting](/reference/fitting/) if you need some pointers. 
 
