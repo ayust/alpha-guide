@@ -12,9 +12,9 @@
 
     Large Shield Extender I
     Medium Shield Extender I
-    EM Ward Amplifier I
-    EM Ward Amplifier I
-    Thermal Dissipation Amplifier I
+    EM Shield Amplifier I
+    EM Shield Amplifier I
+    Thermal Shield Amplifier I
     10MN Afterburner I
 
     Expanded Cargohold I
@@ -100,9 +100,9 @@ We recommend working towards the following improved fit:
 
     Large Shield Extender II
     Medium Shield Extender II
-    EM Ward Amplifier II
-    Limited Adaptive Invulnerability Field I
-    Thermal Dissipation Amplifier II
+    EM Shield Amplifier II
+    Compact Multispectrum Shield Hardener
+    Thermal Shield Amplifier II
     10MN Y-S8 Compact Afterburner
 
     Expanded Cargohold II
@@ -135,7 +135,7 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
  * Propulsion: `10MN Y-S8 Compact Afterburner`
  * Shield Extender: `Large Shield Extender II`
  * Shield Extender: `Medium Shield Extender II`
- * Resists: `EM Ward Amplifier II`
- * Resists: `Thermal Dissipation Amplifier II`
+ * Resists: `EM Shield Amplifier II`
+ * Resists: `Thermal Shield Amplifier II`
  * Damage Control: `Damage Control II`
  * Expanded Cargohold: 3x `Expanded Cargohold II`
