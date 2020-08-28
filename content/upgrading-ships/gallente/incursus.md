@@ -124,9 +124,9 @@ We recommend working towards the following improved fit:
     Small Armor Repairer II
     Damage Control II
 
-    Small Anti-Explosive Pump I
-    Small Anti-Thermal Pump I
-    Small Anti-Kinetic Pump I
+    Small Explosive Armor Reinforcer I
+    Small Thermal Armor Reinforcer I
+    Small Kinetic Armor Reinforcer I
 
     Hobgoblin I x1
 
@@ -143,9 +143,9 @@ The improved fit will require the training of the following skills to use all in
 Once you have the skills to use them, you should fill your Drone Bay with a Combat Drone.
 `Hobgoblin I` drones have the most damage output, while `Warrior I` drones have the most speed.
 
-The improved fit adds a `Small Anti-Explosive Pump I`,
+The improved fit adds a `Small Explosive Armor Reinforcer I`,
 to patch the weak spot in its armor's resistance profile, as well as a
-`Small Anti-Thermal Pump I` and a `Small Anti-Kinetic Pump I`,
+`Small Thermal Armor Reinforcer I` and a `Small Kinetic Armor Reinforcer I`,
 to improve its armor resistances against damage types commonly faced in Gallente space.
 
 This kind of fit would commonly use Auxiliary Nano Pump rigs, to improve the effectiveness

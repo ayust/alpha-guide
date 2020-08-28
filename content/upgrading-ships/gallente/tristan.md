@@ -118,7 +118,7 @@ We recommend working towards the following improved fit:
     Small Armor Repairer II
     Damage Control II
 
-    Small Anti-Explosive Pump I
+    Small Explosive Armor Reinforcer I
     Small Auxiliary Nano Pump I
     Small Auxiliary Nano Pump I
 
@@ -140,7 +140,7 @@ using drone ships, we recommend focusing your training on some
 [drone support skills](/training/combat/#drone-combat-skills).
 {{% /notice %}}
 
-The improved fit replaces the weapon rig with a `Small Anti-Explosive Pump I`,
+The improved fit replaces the weapon rig with a `Small Explosive Armor Reinforcer I`,
 to patch the weak spot in its armor's resistance profile, and two `Small Auxiliary Nano Pump I`,
 to improve the effectiveness and efficiency of its armor repairer.
 

@@ -23,9 +23,9 @@
     Magnetic Field Stabilizer I
     Damage Control I
 
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-Thermal Screen Reinforcer I
+    Small EM Shield Reinforcer I
+    Small EM Shield Reinforcer I
+    Small Thermal Shield Reinforcer I
 
     Cap Booster 200 x11
     Antimatter Charge S x2600
@@ -73,7 +73,7 @@ Unlike modules, rigs cannot be removed without being destroyed.
 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
 are often relatively expensive and may be difficult to find near your starter station.
 
-This fit uses two `Small Anti-EM Screen Reinforcer I` and one `Small Anti-Thermal Screen Reinforcer I`
+This fit uses two `Small EM Shield Reinforcer I` and one `Small Thermal Shield Reinforcer I`
 to increase its shields' damage resistance.
 
 ### How To Fly
@@ -118,7 +118,7 @@ We recommend working towards the following improved fit:
     Magnetic Field Stabilizer II
     Damage Control II
 
-    Small Anti-EM Screen Reinforcer I
+    Small EM Shield Reinforcer I
     Small Capacitor Control Circuit I
     Small Capacitor Control Circuit I
 

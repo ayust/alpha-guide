@@ -26,8 +26,8 @@
     Damage Control I
     Nanofiber Internal Structure I
 
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-Thermal Screen Reinforcer I
+    Small EM Shield Reinforcer I
+    Small Thermal Shield Reinforcer I
     Small Processor Overclocking Unit I
 
     Cap Booster 200 x11
@@ -82,8 +82,8 @@ Unlike modules, rigs cannot be removed without being destroyed.
 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
 are often relatively expensive and may be difficult to find near your starter station.
 
-This ship is fit with one `Small Anti-EM Screen Reinforcer I` rig
-and one `Small Anti-Thermal Screen Reinforcer I` rig, to improve the shields' resistance to damage.
+This ship is fit with one `Small EM Shield Reinforcer I` rig
+and one `Small Thermal Shield Reinforcer I` rig, to improve the shields' resistance to damage.
 
 It is also fit with a `Small Processor Overclocking Unit I` rig,
 to improve the ship's CPU.  Without this rig, it cannot bring all the modules in the fit
@@ -134,7 +134,7 @@ We recommend working towards the following improved fit:
     Damage Control II
     Mark I Compact Power Diagnostic System
 
-    Small Anti-EM Screen Reinforcer I
+    Small EM Shield Reinforcer I
     Small Capacitor Control Circuit I
     Small Processor Overclocking Unit I
 

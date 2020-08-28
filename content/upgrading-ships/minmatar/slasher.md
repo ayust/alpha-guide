@@ -22,8 +22,8 @@
     Gyrostabilizer I
     Damage Control I
 
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-Thermal Screen Reinforcer I
+    Small EM Shield Reinforcer I
+    Small Thermal Shield Reinforcer I
     Small Projectile Collision Accelerator I
 
     Cap Booster 200 x11
@@ -70,7 +70,7 @@ Unlike modules, rigs cannot be removed without being destroyed.
 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
 are often relatively expensive and may be difficult to find near your starter station.
 
-This fit uses a `Small Anti-EM Screen Reinforcer I` and a `Small Anti-Thermal Screen Reinforcer I`
+This fit uses a `Small EM Shield Reinforcer I` and a `Small Thermal Shield Reinforcer I`
 to increase its shields' damage resistance.
 
 A `Small Projectile Collision Accelerator I` will give your projectile turrets additional damage output,
@@ -119,8 +119,8 @@ We recommend working towards the following improved fit:
     Gyrostabilizer II
     Damage Control II
 
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-Thermal Screen Reinforcer I
+    Small EM Shield Reinforcer I
+    Small Thermal Shield Reinforcer I
     Small Projectile Collision Accelerator I
 
     Fusion S x2360

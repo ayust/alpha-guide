@@ -22,8 +22,8 @@
     Expanded Cargohold I
     Expanded Cargohold I
 
-    Medium Anti-EM Screen Reinforcer I
-    Medium Anti-Thermal Screen Reinforcer I
+    Medium EM Shield Reinforcer I
+    Medium Thermal Shield Reinforcer I
 
 {{% notice info %}}
 As industrial ships are intended for item transport rather than combat, this ship is **unarmed**.
@@ -66,7 +66,7 @@ Unlike modules, rigs cannot be removed without being destroyed.
 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
 are often relatively expensive and may be difficult to find near your starter station.
 
-A `Medium Anti-EM Screen Reinforcer I` and `Medium Anti-Thermal Screen Reinforcer I`
+A `Medium EM Shield Reinforcer I` and `Medium Thermal Shield Reinforcer I`
 improve the resistance of the ship's shields, depriving attackers of weak points to fire into.
 
 ### How To Fly

@@ -20,9 +20,9 @@
 
     Damage Control I
 
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-Thermal Screen Reinforcer I
+    Small EM Shield Reinforcer I
+    Small EM Shield Reinforcer I
+    Small Thermal Shield Reinforcer I
 
     Hobgoblin I x2
 
@@ -81,7 +81,7 @@ Unlike modules, rigs cannot be removed without being destroyed.
 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
 are often relatively expensive and may be difficult to find near your starter station.
 
-This fit uses two `Small Anti-EM Screen Reinforcer I` and one `Small Anti-Thermal Screen Reinforcer I`
+This fit uses two `Small EM Shield Reinforcer I` and one `Small Thermal Shield Reinforcer I`
 to improve the damage resistance of its shields.
 
 ### How To Fly
@@ -124,8 +124,8 @@ We recommend working towards the following improved fit:
     Mining Laser Upgrade II
 
     Small Core Defense Field Extender I
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-Thermal Screen Reinforcer I
+    Small EM Shield Reinforcer I
+    Small Thermal Shield Reinforcer I
 
     Hobgoblin I x2
 

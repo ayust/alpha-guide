@@ -26,9 +26,9 @@
     Ballistic Control System I
     Damage Control I
 
-    Small Anti-EM Screen Reinforcer I
-    Small Anti-Thermal Screen Reinforcer I
-    Small Anti-Kinetic Screen Reinforcer I
+    Small EM Shield Reinforcer I
+    Small Thermal Shield Reinforcer I
+    Small Kinetic Shield Reinforcer I
 
     Scourge Rocket x2260
 
@@ -73,9 +73,9 @@ Unlike modules, rigs cannot be removed without being destroyed.
 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
 are often relatively expensive and may be difficult to find near your starter station.
 
-This ship is fit with one `Small Anti-EM Screen Reinforcer I` rig, 
-one `Small Anti-Thermal Screen Reinforcer I` rig, 
-and one `Small Anti-Kinetic Screen Reinforcer I` rig,
+This ship is fit with one `Small EM Shield Reinforcer I` rig, 
+one `Small Thermal Shield Reinforcer I` rig, 
+and one `Small Kinetic Shield Reinforcer I` rig,
 to improve the shields' resistance to damage.
 
 ### How To Fly
@@ -115,7 +115,7 @@ We recommend working towards the following improved fit:
     Ballistic Control System II
     Damage Control II
 
-    Small Anti-EM Screen Reinforcer I
+    Small EM Shield Reinforcer I
     Small Capacitor Control Circuit I
     Small Capacitor Control Circuit I
 

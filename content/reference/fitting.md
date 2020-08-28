@@ -321,9 +321,9 @@ a reason to fit a module that would be seeing fifth or sixth stacking penalty.
 
 Stacking penalties apply to all bonuses to the same stat.  For example, if you 
 have an "EM Ward Field" shield hardener boosting your shield's EM resists,
-and an "Anti-EM Screen Reinforcer" rig also boosting your shield's EM resists,
+and an "EM Shield Reinforcer" rig also boosting your shield's EM resists,
 the rig would face stacking penalties.  However, if it was instead an
-"Anti-Thermal Screen Reinforcer" rig to boost your Thermal resists,
+"Thermal Shield Reinforcer" rig to boost your Thermal resists,
 they would be improving different stats and would not be penalized.
 
 Stacking penalties apply in the most favorable order to you:
@@ -792,11 +792,11 @@ which is a hassle.
 As such, we throw on a Medium Shield Booster, the largest boosting module frigates
 and destroyers can usually handle.
 
-We also add an Anti-EM Screen Reinforcer rig to shore up the EM resist hole - 
+We also add an EM Shield Reinforcer rig to shore up the EM resist hole - 
 they're cheap, and they don't use a precious midslot.
 
  * ADD: Medium Shield Booster II
- * ADD: Small Anti-EM Screen Reinforcer I
+ * ADD: Small EM Shield Reinforcer I
  * CPU REMAINING: 11 of 240
  * POWERGRID REMAINING: -5.4 of 81.6
 

@@ -115,7 +115,7 @@ We recommend working towards the following improved fit:
     Small 'Accommodation' Vestment Reconstructer I
 
     Small Ancillary Current Router I
-    Small Anti-Explosive Pump I
+    Small Explosive Armor Reinforcer I
     Small Auxiliary Nano Pump I
 
     Cap Booster 200 x11
@@ -138,7 +138,7 @@ and disable it once you have arrived.
 To compensate for the additional Powergrid requirement of the Microwarpdrive,
 the improved fit adds a `Small Ancillary Current Router I` rig.
 
-The improved fit adds a `Small Anti-Explosive Pump I` to patch up the weak point
+The improved fit adds a `Small Explosive Armor Reinforcer I` to patch up the weak point
 in its armor's resistances, and a `Small Auxiliary Nano Pump I` to improve
 the effectiveness and efficiency of its armor repairer.
 

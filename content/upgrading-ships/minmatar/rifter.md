@@ -114,7 +114,7 @@ We recommend working towards the following improved fit:
     Small Armor Repairer II
     Damage Control II
 
-    Small Anti-Explosive Pump I
+    Small Explosive Armor Reinforcer I
     Small Auxiliary Nano Pump I
     Small Auxiliary Nano Pump I
 
@@ -135,7 +135,7 @@ However, it provides a massively increased speed bonus.
 You should activate the MWD only when moving to a new position or enemy,
 and disable it once you have arrived.
 
-The improved fit replaces the weapon rigs with a `Small Anti-Explosive Pump I`
+The improved fit replaces the weapon rigs with a `Small Explosive Armor Reinforcer I`
 to bolster the armor's weak explosive resistance, and two `Small Auxiliary Nano Pump I`
 to improve the effectiveness and efficiency of the armor repairer.
 

@@ -25,7 +25,7 @@
     Gyrostabilizer I
     Damage Control I
 
-    Small Anti-EM Screen Reinforcer I
+    Small EM Shield Reinforcer I
     Small Core Defense Capacitor Safeguard I
     Small Core Defense Capacitor Safeguard I
     
@@ -71,7 +71,7 @@ Unlike modules, rigs cannot be removed without being destroyed.
 As a starter fit, this fit makes limited use of rigging, since many "optimal" rigs
 are often relatively expensive and may be difficult to find near your starter station.
 
-This ship is fit with a `Small Anti-EM Screen Reinforcer I` rig to plug
+This ship is fit with a `Small EM Shield Reinforcer I` rig to plug
 the weak spot in its shields' resistance profile.
 
 It is also fit with two `Small Core Defense Capacitor Safeguard I` rigs,
@@ -119,7 +119,7 @@ We recommend working towards the following improved fit:
     Gyrostabilizer II
     Damage Control II
 
-    Small Anti-EM Screen Reinforcer I
+    Small EM Shield Reinforcer I
     Small Core Defense Capacitor Safeguard I
     Small Core Defense Capacitor Safeguard I
     
