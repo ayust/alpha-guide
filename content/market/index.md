@@ -87,5 +87,5 @@ for the basic modules you'll want. More advanced items, however, are unlikely to
 reasonable price. If you're looking for a particular item and can't find any sellers, you may need
 to go to a different region to find people listing it for sale. The next page will talk a bit about
 some of the 'market hubs' where you can buy almost anything. You can also use the player-run site
-[EVE-Central](https://eve-central.com/) to check what prices are like across all of EVE.
+[EVEMarketer](https://evemarketer.com/) to check what prices are like across all of EVE.
 {{% /notice %}}
