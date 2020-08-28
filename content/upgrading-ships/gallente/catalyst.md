@@ -109,7 +109,7 @@ We recommend working towards the following improved fit:
     Small Armor Repairer II
     Damage Control II
 
-    Small Anti-Explosive Pump I
+    Small Explosive Armor Reinforcer I
     Small Capacitor Control Circuit I
     Small Capacitor Control Circuit I
 
@@ -129,7 +129,7 @@ However, it provides a massively increased speed bonus.
 You should activate the MWD only when moving to a new position or enemy,
 and disable it once you have arrived.
 
-The improved fit replaces the weapon rig with a `Small Anti-Explosive Pump I`, to patch the weak point
+The improved fit replaces the weapon rig with a `Small Explosive Armor Reinforcer I`, to patch the weak point
 in its armor's resist profile.
 
 It also adds two `Small Capacitor Control Circuit I` rigs, passively increasing its capacitor regeneration
