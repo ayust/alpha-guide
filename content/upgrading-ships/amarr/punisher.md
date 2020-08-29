@@ -22,12 +22,14 @@
     400mm Steel Plates I
     Small Armor Repairer I
     Damage Control I
-    Adaptive Nano Plating I
+    Multispectrum Coating I
     Micro Auxiliary Power Core I
 
     Small Energy Collision Accelerator I
 
     Multifrequency S x4
+
+
 
 ### Weapons
 
@@ -46,7 +48,7 @@ The Punisher's ample lowslots and armor resistance bonus make it a natural fit f
 It fits a `400mm Steel Plates I` to give it additional raw armor HP,
 and a `Small Armor Repairer I` in one of the low slots to repair incoming damage.
 
-It also fits a `Damage Control I` and `Adaptive Nano Plating I` in its low slots 
+It also fits a `Damage Control I` and `Multispectrum Coating I` in its low slots 
 to increase its resistance to damage.
 
 {{% notice note %}}
@@ -114,7 +116,7 @@ We recommend working towards the following improved fit:
     400mm Rolled Tungsten Compact Plates
     Small Armor Repairer II
     Damage Control II
-    'Refuge' Adaptive Nano Plating I
+    Upgraded Multispectrum Coating I
     Heat Sink II
 
     Small Ancillary Current Router I
@@ -144,7 +146,7 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
  * Propulsion: `1MN Y-S8 Compact Afterburner`
  * Web: `Fleeting Compact Stasis Webifier`
  * Plate: `400mm Rolled Tungsten Compact Plates`
- * Resists: `'Refuge' Adaptive Nano Plating I`
+ * Resists: `Upgraded Multispectrum Coating I`
  * Damage Control: `Damage Control II`
  * Armor Repairer: `Small Armor Repairer II`
  * Damage Mod: `Heat Sink II`
