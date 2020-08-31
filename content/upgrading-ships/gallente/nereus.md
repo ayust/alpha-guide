@@ -12,7 +12,7 @@
 
     Large Shield Extender I
     Medium Shield Extender I
-    EM Ward Amplifier I
+    EM Shield Amplifier I
     10MN Afterburner I
 
     Damage Control I
