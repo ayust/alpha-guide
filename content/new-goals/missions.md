@@ -39,7 +39,7 @@ You can read more on the [UniWiki 'Missions' page](http://wiki.eveuniversity.org
 Once you've received a mission from an agent, you can look it up in the
 [EVE-Survival](http://eve-survival.org/wikka.php?wakka=MissionReports)
 mission listings to get more details about what kind of dps you might face
-from enemies in the mission and which enemise may trigger more spawns.
+from enemies in the mission and which enemies may trigger more spawns.
 
 {{% notice warning %}}
 Killing ships of the four major empires will often net you large penalties to [faction 
