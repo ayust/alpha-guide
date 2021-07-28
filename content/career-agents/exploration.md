@@ -12,18 +12,8 @@ in EVE. Scanning lets you locate things like wormholes, data and relic sites
 to hack, and even other players' ships.
 
 The scanning interfaces can be a little hard to understand without seeing
-them in operation. Thankfully, EVE has a set of built-in video tutorials
-for how to use the scanning interfaces. To view them, press F12 to open
-the "Help" window, then select the "Tutorial Videos" tab. Scroll down to
-the "Exploration" subsection (click to expand it). Then watch the following
-videos:
-
- * Scanning (1 of 3)
- * Scanning (2 of 3)
- * Hacking Data and Relic sites
-
-The other videos are also interesting, but aren't relevant to this particular
-mission chain - feel free to watch them when you have the time and interest.
+them in operation. Thankfully, EVE has a video tutorial you can watch [in the
+Help Center](https://support.eveonline.com/hc/en-us/articles/203209902-Scanning).
 
 You can also look through our [scanning guide](/reference/scanning/) if you prefer a text format.
 
