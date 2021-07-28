@@ -6,8 +6,8 @@
   "weight": "1"
 }
 
-This guide is an alternative to the in-game scanning tutorial video (though you can also watch that
-by pressing <kbd>F12</kbd> and going to the Tutorial Videos tab, Exploration section).
+This guide is an alternative to the official scanning tutorial video (though you can also watch that
+in [the EVE Help Center](https://support.eveonline.com/hc/en-us/articles/203209902-Scanning)).
 
 ### What Are Probes For, Anyway?
 
