@@ -15,7 +15,7 @@
       {{ if .Site.Params.menu }}
         {{ $.Scratch.Set "menuItems" (slice) }}
         {{ range $i, $key := .Site.Params.menu }}
-          {{ if isset $page.Site.Sections $key }}
+          {{ if in $page.Site.Sections $key }}
             {{ $.Scratch.Add "menuItems" $key }}
           {{ else }}
             <li class="dd-item"><div class="notices warning"><p>
