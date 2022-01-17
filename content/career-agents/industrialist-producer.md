@@ -1,6 +1,6 @@
 {
   "date": "2016-11-18T18:59:33-08:00",
-  "next": "/career-agents/military/",
+  "next": "/career-agents/enforcer/",
   "prev": "/career-agents/exploration/",
   "title": "Industrialist (Producer) Agent",
   "toc": "true",
