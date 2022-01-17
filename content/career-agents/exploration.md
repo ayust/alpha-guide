@@ -2,7 +2,7 @@
   "date": "2016-11-18T18:59:33-08:00",
   "next": "/career-agents/industry/",
   "prev": "/career-agents/industrialist-entrepreneur/",
-  "title": "Exploration Agent",
+  "title": "Explorer Agent",
   "toc": "true",
   "weight": "1"
 }
