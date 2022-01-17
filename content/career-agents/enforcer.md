@@ -2,7 +2,7 @@
   "date": "2016-11-18T18:59:33-08:00",
   "next": "/upgrading-ships/",
   "prev": "/career-agents/industrialist-producer/",
-  "title": "Soldier of Fortune (Military) Agents",
+  "title": "Enforcer & Soldier of Fortune Agents",
   "toc": "true",
   "weight": "1"
 }
@@ -10,7 +10,7 @@
 There are actually two military career agents - the regular Military Agent and the Advanced Military Agent.
 We recommend doing both chains - first the regular agent, then the advanced agent.
 
-### Soldier of Fortune Agent
+### Enforcer (Military) Agent
 
 The regular Military Agent focuses on teaching you the basics of PvE combat missions
 in the chain **Cash Flow for Capsuleers**. Missions like these are one of the main
@@ -34,9 +34,9 @@ modules, and a good chunk of isk.
    It is one of the man-made structures around the large asteroid.
    Search for it visually, and destroy it.
 
-### Advanced Military Agent
+### Soldier of Fortune Agent
 
-The Advanced Military Agent focuses on teaching you some of the concepts typically
+The Soldier of Fortune (Advanced Military) Agent focuses on teaching you some of the concepts typically
 involved in PvP combat (though the agent's missions do not actually involve PvP).
 
 {{% notice warning %}}
