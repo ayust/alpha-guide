@@ -1,7 +1,7 @@
 {
   "date": "2016-11-18T18:56:39-08:00",
   "icon": "<b>4. </b>",
-  "next": "/career-agents/business/",
+  "next": "/career-agents/industrialist-entrepreneur/",
   "prev": "/market/hubs/",
   "title": "Talk to Career Agents",
   "toc": "true"
