@@ -1,8 +1,8 @@
 {
   "date": "2016-11-18T18:59:33-08:00",
-  "next": "/career-agents/military/",
+  "next": "/career-agents/enforcer/",
   "prev": "/career-agents/exploration/",
-  "title": "Industry Agent",
+  "title": "Industrialist (Producer) Agent",
   "toc": "true",
   "weight": "1"
 }
@@ -12,9 +12,9 @@ on how to produce new items in EVE from scratch: mining raw materials
 and then building modules, charges (ammo), and ships from those materials.
 
 If you're having trouble figuring out how to use the industry interface,
-you can watch the tutorial videos provided in-game. Press F12 to open the
-"Help" window, then click the "Tutorial Videos" tab. Scroll down to the
-"Industry" section and watch the "Manufacturing" video.
+you can watch the videos guides on youtube:
+  * Part 1-6: https://www.youtube.com/watch?v=jvGKuhQVfCI&t=28s
+  * Part 6-10: https://www.youtube.com/watch?v=LYMHOwHu1uQ
 
 As you complete the chain, you'll earn a couple of new ships, some skill
 books, some modules, and a good chunk of isk.

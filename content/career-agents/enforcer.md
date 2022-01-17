@@ -1,8 +1,8 @@
 {
   "date": "2016-11-18T18:59:33-08:00",
   "next": "/upgrading-ships/",
-  "prev": "/career-agents/industry/",
-  "title": "Military Agents",
+  "prev": "/career-agents/industrialist-producer/",
+  "title": "Enforcer & Soldier of Fortune Agents",
   "toc": "true",
   "weight": "1"
 }
@@ -10,17 +10,15 @@
 There are actually two military career agents - the regular Military Agent and the Advanced Military Agent.
 We recommend doing both chains - first the regular agent, then the advanced agent.
 
-### Military Agent
+### Enforcer (Military) Agent
 
 The regular Military Agent focuses on teaching you the basics of PvE combat missions
 in the chain **Cash Flow for Capsuleers**. Missions like these are one of the main
 ways for making ISK in EVE via PvE combat.
 
 If you get stuck along the way, there's a video guide to the missions that begins here:
-https://www.youtube.com/watch?v=Ic8U2sX7yd4
-
-Since the video guide was made in 2014, the older interfaces may look a bit different
-from what you see now, but the general steps to complete the mission will be the same.
+* Part 1: https://www.youtube.com/watch?v=OhmPbTkq8Qw
+* Part 2: https://www.youtube.com/watch?v=Pa4i_IR5Jh4
 
 As you complete this chain, you'll earn a couple of new ships, some skill books, some
 modules, and a good chunk of isk.
@@ -36,9 +34,9 @@ modules, and a good chunk of isk.
    It is one of the man-made structures around the large asteroid.
    Search for it visually, and destroy it.
 
-### Advanced Military Agent
+### Soldier of Fortune Agent
 
-The Advanced Military Agent focuses on teaching you some of the concepts typically
+The Soldier of Fortune (Advanced Military) Agent focuses on teaching you some of the concepts typically
 involved in PvP combat (though the agent's missions do not actually involve PvP).
 
 {{% notice warning %}}
@@ -49,6 +47,9 @@ and read all mission text carefully.
 We recommend following the [UniWiki Advanced Military chain guide]
 (http://wiki.eveuniversity.org/Advanced_Military_Career_Funnel_Chain) to complete
 this mission chain.
+
+Video Tutorial: 
+* Advanced: https://www.youtube.com/watch?v=9UimvUydb_g
 
 As you complete this chain, you'll earn some new ships (including a Destroyer),
 some skill books, some modules, and a decent chunk of ISK.
