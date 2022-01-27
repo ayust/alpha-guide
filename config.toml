@@ -11,3 +11,4 @@ builddrafts = true
   author = "Aaeriele"
   disableLandingPageButton = true
   disableMermaid = true
+  disableSearch = true
