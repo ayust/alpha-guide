@@ -7,16 +7,7 @@ publishdir = "public"
 builddrafts = true
 
 [params]
-  menu = [
-    "start",
-    "rookie-fitting",
-    "market",
-    "career-agents",
-    "upgrading-ships",
-    "new-goals",
-    "training",
-    "corps",
-    "learn-more",
-    "reference"
-  ]
   editURL = "https://github.com/ayust/alpha-guide/edit/master/content/"
+  author = "Aaeriele"
+  disableLandingPageButton = true
+  disableMermaid = true
