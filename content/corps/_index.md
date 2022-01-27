@@ -4,6 +4,7 @@
   "next": "/learn-more/",
   "prev": "/training/trade/",
   "title": "Join a Corporation",
+  "weight": 8,
   "toc": "true"
 }
 

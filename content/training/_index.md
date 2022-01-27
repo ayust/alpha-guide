@@ -4,6 +4,7 @@
   "next": "/training/core/",
   "prev": "/new-goals/something-else/",
   "title": "Adjust Your Skill Queue",
+  "weight": 7,
   "toc": "true"
 }
 

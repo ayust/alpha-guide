@@ -3,6 +3,7 @@
   "icon": "<b>0. </b>",
   "prev": "/learn-more/",
   "title": "Reference Material",
+  "weight": 10,
   "toc": "true"
 }
 

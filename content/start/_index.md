@@ -3,6 +3,7 @@
   "date": "2016-11-18T16:35:02-08:00",
   "icon": "<b>1. </b>",
   "next": "/start/welcome/",
+  "weight": 1,
   "title": "Introduction"
 }
 

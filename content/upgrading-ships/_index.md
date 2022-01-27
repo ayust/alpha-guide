@@ -3,6 +3,7 @@
   "icon": "<b>5. </b>",
   "prev": "/career-agents/military/",
   "title": "Upgrade to a New Ship",
+  "weight": 5,
   "toc": "true"
 }
 

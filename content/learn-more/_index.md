@@ -4,6 +4,7 @@
   "next": "/reference/",
   "prev": "/corps/",
   "title": "Keep Learning",
+  "weight": 9,
   "toc": "true"
 }
 

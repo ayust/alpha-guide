@@ -2,6 +2,7 @@
   "date": "2016-11-18T17:26:45-08:00",
   "icon": "<b>2. </b>",
   "prev": "/start/prereqs/",
+  "weight": 2,
   "title": "Fit Your Rookie Ship"
 }
 

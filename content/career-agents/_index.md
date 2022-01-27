@@ -4,6 +4,7 @@
   "next": "/career-agents/industrialist-entrepreneur/",
   "prev": "/market/hubs/",
   "title": "Talk to Career Agents",
+  "weight": 4,
   "toc": "true"
 }
 

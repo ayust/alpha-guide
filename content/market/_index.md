@@ -4,6 +4,7 @@
   "next": "/market/hubs/",
   "prev": "/rookie-fitting/",
   "title": "Use the Market",
+  "weight": 3,
   "toc": "true"
 }
 

@@ -4,6 +4,7 @@
   "next": "/new-goals/exploration/",
   "prev": "/upgrading-ships/",
   "title": "Choose Your Adventure",
+  "weight": 6,
   "toc": "true"
 }
 
