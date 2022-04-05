@@ -15,7 +15,7 @@
     Data Analyzer I
     Relic Analyzer I
     Medium Shield Extender I
-    EM Ward Amplifier I
+    EM Shield Amplifier I
     1MN Afterburner I
 
     Damage Control I
@@ -48,7 +48,7 @@ This ship mounts a `Medium Shield Extender I` to increase its shield HP.
 The additional HP should rarely be required, as the ship should be avoiding combat,
 but may help deflect some stray shots will you escape.
 
-It also fits a `Damage Control I` and an `EM Ward Amplifier I` to increase its resistance to damage.
+It also fits a `Damage Control I` and an `EM Shield Amplifier I` to increase its resistance to damage.
 
 ### Utility
 
