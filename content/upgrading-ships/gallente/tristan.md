@@ -111,7 +111,7 @@ We recommend working towards the following improved fit:
     Anode Light Neutron Particle Cannon I
 
     1MN Monopropellant Enduring Afterburner
-    Small Electrochemical Capacitor Booster I
+    Small F-RX Compact Capacitor Booster
     X5 Enduring Stasis Webifier
 
     Drone Damage Amplifier II
@@ -151,7 +151,7 @@ or a t2 version, which costs more ISK, requires more skillpoints, and is harder 
  * Guns: 2x `Anode Light Neutron Particle Cannon I`
  * Propulsion: `1MN Monopropellant Enduring Afterburner`
  * Web: `X5 Enduring Stasis Webifier`
- * Injector: `Small Electrochemical Capacitor Booster I`
+ * Injector: `Small F-RX Compact Capacitor Booster`
  * Damage Control: `Damage Control II`
  * Armor Repairer: `Small Armor Repairer II`
  * Damage Mod: `Drone Damage Amplifier II`
